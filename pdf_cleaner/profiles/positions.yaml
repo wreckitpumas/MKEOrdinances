@@ -1,0 +1,36 @@
+# 2026 Positions Ordinance. Rules from survey/2026-Positions-Ordinance-11.04.26.txt.
+# The survey found no history notes and no ruled tables in this document.
+name: positions
+match_filenames: ['Positions-Ordinance']
+
+header:
+  zone_top_pt: 0
+  max_rows: 0
+  patterns: []
+footer:
+  zone_top_pt: 735
+  patterns:
+    - '^\d+\s+\d{4} Positions Ordinance$'
+
+drop_line_patterns: []
+
+columns:
+  detect: true
+  # Mostly one column (survey). Require real text on both sides so label and number columns are not read as page columns.
+  min_side_chars: 25
+
+headings:
+  # Department and division names are bold all-caps lines.
+  bold_lines:
+    # Bold all-caps lines without digits ("DEPARTMENT OF ADMINISTRATION").
+    - level: 2
+      line: '^[A-Z][A-Z &''’,./()\-–]+$'
+
+history: {}
+text_tables: []
+tables:
+  ruled: false
+
+dehyphenate: true
+# Dot leaders such as "Program Assistant III ......... 1" are shortened to " .... ".
+collapse_dot_leaders: true

@@ -1,0 +1,73 @@
+# Milwaukee City Charter (Master-Charter). Rules from survey/Master-Charter (1).txt.
+name: charter
+match_filenames: ['^Master-Charter']
+
+header:
+  zone_top_pt: 62
+  max_rows: 2
+  patterns:
+    - '^\d+[A-Za-z]?(?:-[\w.()]*)+\s+\S.*$'
+    - '^\S.*\s\d+[A-Za-z]?(?:-[\w.()]*)+(?:\s*\((?:HISTORY|History)\))?$'
+    - '^\S.*\((?:HISTORY|History)\)\s+\d+-*$'
+    # "63-Parks and Parkways", "59 - Health Department"
+    - '^\d+[A-Za-z]?\s*-\s*[A-Z][^.]*$'
+footer:
+  zone_top_pt: 715
+  patterns:
+    - '^-\s*[\divxlc]+[A-Za-z]?\s*-\s+\d{1,2}/\d{1,2}/\d{2,4}$'
+    - '^\d{1,2}/\d{1,2}/\d{2,4}\s+-\s*[\divxlc]+[A-Za-z]?\s*-$'
+    - '^-\s*[\divxlc]+[A-Za-z]?\s*-$'
+    # Front matter roman numeral page numbers: "v", "vi"
+    - '^[ivxlc]+$'
+
+drop_line_patterns:
+  - '^\[(?:This page (?:is )?blank\.?|Pages? [\d\- to]+ (?:are|is) blank\.?)\]$'
+
+columns:
+  detect: true
+  # Two-column layout on most pages (survey). Short left columns (chapter TOCs) still count.
+  min_side_chars: 10
+
+headings:
+  section:
+    first_word: '^\d+[A-Za-z]?(?:-\d+[A-Za-z]?(?:\.\d+)?[a-z]?)+\.$'
+    require_bold: true
+  chapter:
+    line: '^CHAPTER \d+[A-Z]?$'
+    require_bold: true
+  subchapter:
+    line: '^SUBCHAPTER \d+[A-Z]?$'
+    # Subchapter headings are set in regular weight (survey: Master-V1 p63).
+    require_bold: false
+
+toc:
+  start_line: '^TABLE$'
+  entry: '^(?:\d+[A-Za-z]?(?:-[\d.]+[A-Za-z]?)+|SUBCHAPTER \d+[A-Z]?)(?:\s|$)'
+
+history:
+  start_patterns:
+    - '^\((?:HISTORY|History):'
+    # Statute source notes, e.g. "(S. 925-21b Stats., 1907.)"
+    - '^\(S\. \d+[\w-]*,? (?:Stats|[Ss]ubch|Ch\.|ch\.)'
+  inline_patterns:
+    - '\((?:HISTORY|History):'
+    # A statute source note that ends the paragraph, e.g. "... passage. (S. 10, Subch. 1, ...)"
+    - '\(S\. \d+[\w-]*,? (?:Stats|[Ss]ubch|Ch\.|ch\.)[^)]*\)\s*$'
+  chapter_pointer: '^For (?:the )?legislative history of (?:chapter|Chapter) (\d+[A-Z]?)'
+
+text_tables:
+  - kind: legislative_history
+    title_line: '^LEGISLATIVE HISTORY$'
+    header_line: '^Section\s+Action\s+File\s+Passed\s+Effective$'
+    continuation_header: '\((?:HISTORY|History)\)'
+    id_template: 'history-ch{chapter}'
+
+tables:
+  ruled: true
+  edges: visible
+  min_rows: 2
+  min_cols: 2
+
+dehyphenate: true
+# Dot leaders (TOC and index pages) are shortened to " .... ".
+collapse_dot_leaders: true

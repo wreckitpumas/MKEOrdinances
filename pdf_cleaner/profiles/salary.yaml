@@ -1,0 +1,51 @@
+# 2026 Salary Ordinance. Rules from survey/2026-Salary-Ordinance-11.04.26.txt.
+# The survey found no history notes in this document.
+name: salary
+match_filenames: ['Salary-Ordinance']
+
+header:
+  zone_top_pt: 0
+  max_rows: 0
+  patterns: []
+footer:
+  zone_top_pt: 715
+  patterns:
+    - '^\d{4} Salary Ordinance\s+Page \d+$'
+    - '^Eligible residents receive a 4% Residency Incentive Allowance\. Visit milwaukee\.gov/wagerates to calculate the$'
+    - '^Residency Incentive Allowance from the wage rate\.$'
+
+drop_line_patterns: []
+
+columns:
+  detect: true
+  # Mostly one column (survey). Require real text on both sides so label and number columns are not read as page columns.
+  min_side_chars: 25
+
+headings:
+  bold_lines:
+    - level: 1
+      line: '^PART [IVX]+\b.*$'
+    - level: 2
+      line: '^SECTION \d+[:.].*$'
+    - level: 3
+      line: '^(?:\S+-)?Pay Range \S+$'
+
+history: {}
+text_tables: []
+
+# Wage rate rows printed without cell borders, e.g. "Hourly 36.95 40.41 44.89".
+# Two or more consecutive matching lines on one page become one table.
+row_tables:
+  - row_line: '^(?:Hourly|Biweekly|Annual|Monthly)(?:\s+\$?\d[\d,]*\.\d{2})+$'
+
+tables:
+  ruled: true
+  # Wage tables use borderless cells, so invisible edges are allowed here,
+  # but a table needs at least 2 rows and 2 columns (single-cell boxes are not tables).
+  edges: all
+  min_rows: 2
+  min_cols: 2
+
+dehyphenate: true
+# Dot leaders (TOC and index pages) are shortened to " .... ".
+collapse_dot_leaders: true
