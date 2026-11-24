@@ -190,7 +190,15 @@ _EDGE_PUNCT = "|"
 
 
 def tokens(text: str) -> list[str]:
-    return [t.strip(_EDGE_PUNCT) for t in _TOKEN.findall(text) if t.strip(_EDGE_PUNCT)]
+    """Whitespace tokens, further split at hyphens. Comparing the pieces between
+    hyphens makes the check independent of where a hyphenated word was broken
+    across lines ("accord-" / "ance"), while every word and number still has
+    to match exactly."""
+    out = []
+    for t in _TOKEN.findall(text):
+        t = t.strip(_EDGE_PUNCT)
+        out.extend(p for p in t.split("-") if p)
+    return out
 
 
 def fidelity_check(candidate_cells: list[str], source_text: str, require_coverage: bool = True) -> tuple[bool, str]:
