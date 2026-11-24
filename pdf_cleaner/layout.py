@@ -363,8 +363,17 @@ def strip_running_text(rows: list[Row], profile: Profile, result: PageResult) ->
             if i not in remove and len(rows[i].text) < 50:
                 result.warnings.append(f"p{result.page}: text in header zone kept (no pattern match): {rows[i].text[:80]!r}")
     fzone = float(ftr.get("zone_top_pt", 0) or 0)
+    if f_pats and ftr.get("last_rows_any_position"):
+        # Short pages (for example zoning tables) end above the footer zone; the
+        # page footer is then simply the last row. Only exact pattern matches count.
+        n_last = int(ftr.get("last_rows_any_position"))
+        for i in range(max(0, len(rows) - n_last), len(rows)):
+            if any(p.match(rows[i].text) for p in f_pats):
+                remove.add(i)
     if f_pats and fzone > 0:
         for i, r in enumerate(rows):
+            if i in remove:
+                continue
             if r.top >= fzone:
                 if any(p.match(r.text) for p in f_pats):
                     remove.add(i)
@@ -373,7 +382,7 @@ def strip_running_text(rows: list[Row], profile: Profile, result: PageResult) ->
     kept = []
     for i, r in enumerate(rows):
         if i in remove:
-            (result.removed_header if r.top < zone else result.removed_footer).append(r.text)
+            (result.removed_header if r.top < zone and i < max_rows else result.removed_footer).append(r.text)
         else:
             kept.append(r)
     return kept
@@ -470,6 +479,7 @@ def find_text_tables(rows: list[Row], profile: Profile, result: PageResult, prev
             chapter=chapter,
             has_title=bool(title_lines),
             column_starts=col_starts,
+            header_copied=hdr_i is None,
         )
         t.region_text = "\n".join(r.text for r in region)
         tables.append(t)

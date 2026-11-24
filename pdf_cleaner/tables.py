@@ -34,6 +34,7 @@ class Table:
     region_text: str = ""  # text layer of the table region (for fidelity / LLM)
     chapter: str | None = None
     has_title: bool = False
+    header_copied: bool = False  # header row copied from the previous page's table
     column_starts: list[float] | None = None  # legislative history column x positions
 
     def __post_init__(self):

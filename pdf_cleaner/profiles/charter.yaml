@@ -13,12 +13,16 @@ header:
     - '^\d+[A-Za-z]?\s*-\s*[A-Z][^.]*$'
 footer:
   zone_top_pt: 715
+  # Zoning table pages end early; their footer is the last row (survey: V2 p442 footer at 570pt).
+  last_rows_any_position: 2
   patterns:
     - '^-\s*[\divxlc]+[A-Za-z]?\s*-\s+\d{1,2}/\d{1,2}/\d{2,4}$'
     - '^\d{1,2}/\d{1,2}/\d{2,4}\s+-\s*[\divxlc]+[A-Za-z]?\s*-$'
     - '^-\s*[\divxlc]+[A-Za-z]?\s*-$'
     # Front matter roman numeral page numbers: "v", "vi"
     - '^[ivxlc]+$'
+    # Date and page number on separate rows: "3/20/2012" then "-332-"
+    - '^\d{1,2}/\d{1,2}/\d{2,4}$'
 
 drop_line_patterns:
   - '^\[(?:This page (?:is )?blank\.?|Pages? [\d\- to]+ (?:are|is) blank\.?)\]$'
@@ -47,10 +51,13 @@ toc:
 history:
   start_patterns:
     - '^\((?:HISTORY|History):'
+    - '^\(Subs?\. [\w.,&\- ]+ (?:am|rc|cr|rn|ra|rp|rec|ren)\.'
     # Statute source notes, e.g. "(S. 925-21b Stats., 1907.)"
     - '^\(S\. \d+[\w-]*,? (?:Stats|[Ss]ubch|Ch\.|ch\.)'
   inline_patterns:
     - '\((?:HISTORY|History):'
+    # Subsection history at the end of a paragraph: "(Sub. 8 rc. File #900632, ... 1990.)"
+    - '\(Subs?\. [\w.,&\- ]+ (?:am|rc|cr|rn|ra|rp|rec|ren)\.[^()]*\)\s*$'
     # A statute source note that ends the paragraph, e.g. "... passage. (S. 10, Subch. 1, ...)"
     - '\(S\. \d+[\w-]*,? (?:Stats|[Ss]ubch|Ch\.|ch\.)[^)]*\)\s*$'
   chapter_pointer: '^For (?:the )?legislative history of (?:chapter|Chapter) (\d+[A-Z]?)'

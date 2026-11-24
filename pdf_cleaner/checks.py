@@ -173,17 +173,26 @@ _PAGE_NUM = re.compile(r"^-\s*[\divxlc]+[a-z]?\s*-$|^\d{1,2}/\d{1,2}/\d{2,4}$|^-
 
 
 def suspicious_pages(doc, page_results, removed_headers: set[str]) -> list[dict]:
+    """Pages whose output is much shorter than their text layer (letters and
+    digits only, so shortened dot leaders do not count), leftover page numbers,
+    and lines equal to a running header."""
     per_page = Counter()
     for m in doc.page_map:
-        per_page[m["page"]] += m["end"] - m["start"]
+        per_page[m["page"]] += len(_ALNUM.findall(doc.text[m["start"] : m["end"]]))
     out = []
     for pr in page_results:
         if not pr.has_text_layer:
             continue
-        raw = len(re.sub(r"\s", "", pr.char_text))
-        if raw > 300 and per_page.get(pr.page, 0) < 0.25 * raw and not pr.tables:
-            # Text can legitimately flow into a paragraph that started on the previous page.
-            out.append({"page": pr.page, "issue": f"short output ({per_page.get(pr.page, 0)} chars attributed, {raw} in text layer)"})
+        raw = len(_ALNUM.findall(pr.char_text))
+        got = per_page.get(pr.page, 0)
+        if raw > 300 and got < 0.25 * raw and not pr.tables:
+            out.append(
+                {
+                    "page": pr.page,
+                    "issue": f"short output ({got} letters/digits attributed, {raw} in text layer); "
+                    "often a paragraph or table that started on the previous page",
+                }
+            )
     for i, line in enumerate(doc.text.splitlines()):
         s = line.strip()
         if _PAGE_NUM.match(s):

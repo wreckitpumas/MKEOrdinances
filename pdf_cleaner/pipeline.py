@@ -98,7 +98,8 @@ def merge_tables(lines: list[Line], warnings: list[str], repeated_text: list[str
             repeated_text.extend(n for n in t.notes if n in target.notes)
             target.notes.extend(n for n in t.notes if n not in target.notes)
             if t.header == target.header:
-                repeated_text.extend(t.header)
+                if not t.header_copied:
+                    repeated_text.extend(t.header)
                 target.rows.extend(t.rows)
             elif not any(t.header):
                 target.rows.extend(t.rows)

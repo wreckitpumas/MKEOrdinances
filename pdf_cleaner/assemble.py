@@ -240,9 +240,14 @@ def extract_tocs(lines: list[Line], profile: Profile, warnings: list[str]) -> li
                     m = re.match(r"^(SUBCHAPTER \d+[A-Z]?|\S+)\s*(.*)$", t)
                     rows.append([m.group(1), m.group(2)])
                     after_sub = t.startswith("SUBCHAPTER")
-                elif rows and (after_sub or c.x0 > c.zone_left + 10 or (len(t) < 45 and not first.bold)):
+                elif rows and after_sub:
                     rows[-1][1] = (rows[-1][1] + " " + t).strip()
                     after_sub = False
+                elif t.upper() == t and re.search(r"[A-Z]{3}", t) and len(t) < 60 and not first.bold:
+                    # Group label inside a TOC, e.g. "CITY ATTORNEY".
+                    rows.append(["", t])
+                elif rows and (c.x0 > c.zone_left + 10 or (len(t) < 45 and not first.bold)):
+                    rows[-1][1] = (rows[-1][1] + " " + t).strip()
                 else:
                     break
                 if c.page not in pages:
