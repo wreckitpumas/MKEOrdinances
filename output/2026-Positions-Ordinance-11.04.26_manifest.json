@@ -1,0 +1,2366 @@
+{
+ "source_pdf": "2026-Positions-Ordinance-11.04.26.pdf",
+ "pdf_sha256": "f3fe07f5e195a17a9310fda08aa9a8035fd7280e2b1233010af40ba45ec7d2b7",
+ "profile": "positions",
+ "pages": 138,
+ "pages_without_text_layer": [],
+ "multi_column_pages": 0,
+ "page_map": [
+  {
+   "page": 1,
+   "start": 0,
+   "end": 734
+  },
+  {
+   "page": 2,
+   "start": 734,
+   "end": 1695
+  },
+  {
+   "page": 3,
+   "start": 1695,
+   "end": 2712
+  },
+  {
+   "page": 4,
+   "start": 2712,
+   "end": 4024
+  },
+  {
+   "page": 5,
+   "start": 4024,
+   "end": 5730
+  },
+  {
+   "page": 6,
+   "start": 5730,
+   "end": 7623
+  },
+  {
+   "page": 7,
+   "start": 7623,
+   "end": 7889
+  },
+  {
+   "page": 8,
+   "start": 7889,
+   "end": 8851
+  },
+  {
+   "page": 9,
+   "start": 8851,
+   "end": 9743
+  },
+  {
+   "page": 10,
+   "start": 9743,
+   "end": 10782
+  },
+  {
+   "page": 11,
+   "start": 10782,
+   "end": 12120
+  },
+  {
+   "page": 12,
+   "start": 12120,
+   "end": 13144
+  },
+  {
+   "page": 13,
+   "start": 13144,
+   "end": 13740
+  },
+  {
+   "page": 14,
+   "start": 13740,
+   "end": 14532
+  },
+  {
+   "page": 15,
+   "start": 14532,
+   "end": 15519
+  },
+  {
+   "page": 16,
+   "start": 15519,
+   "end": 16772
+  },
+  {
+   "page": 17,
+   "start": 16772,
+   "end": 17891
+  },
+  {
+   "page": 18,
+   "start": 17891,
+   "end": 19247
+  },
+  {
+   "page": 19,
+   "start": 19247,
+   "end": 19739
+  },
+  {
+   "page": 20,
+   "start": 19739,
+   "end": 20043
+  },
+  {
+   "page": 21,
+   "start": 20043,
+   "end": 21055
+  },
+  {
+   "page": 22,
+   "start": 21055,
+   "end": 21435
+  },
+  {
+   "page": 23,
+   "start": 21435,
+   "end": 22493
+  },
+  {
+   "page": 24,
+   "start": 22493,
+   "end": 23280
+  },
+  {
+   "page": 25,
+   "start": 23280,
+   "end": 24407
+  },
+  {
+   "page": 26,
+   "start": 24407,
+   "end": 24940
+  },
+  {
+   "page": 27,
+   "start": 24940,
+   "end": 26027
+  },
+  {
+   "page": 28,
+   "start": 26027,
+   "end": 27235
+  },
+  {
+   "page": 29,
+   "start": 27235,
+   "end": 28049
+  },
+  {
+   "page": 30,
+   "start": 28049,
+   "end": 28970
+  },
+  {
+   "page": 31,
+   "start": 28970,
+   "end": 29689
+  },
+  {
+   "page": 32,
+   "start": 29689,
+   "end": 29984
+  },
+  {
+   "page": 33,
+   "start": 29984,
+   "end": 31468
+  },
+  {
+   "page": 35,
+   "start": 31468,
+   "end": 32668
+  },
+  {
+   "page": 36,
+   "start": 32668,
+   "end": 33718
+  },
+  {
+   "page": 37,
+   "start": 33718,
+   "end": 35011
+  },
+  {
+   "page": 38,
+   "start": 35011,
+   "end": 36022
+  },
+  {
+   "page": 39,
+   "start": 36022,
+   "end": 36760
+  },
+  {
+   "page": 40,
+   "start": 36760,
+   "end": 37733
+  },
+  {
+   "page": 41,
+   "start": 37733,
+   "end": 38448
+  },
+  {
+   "page": 42,
+   "start": 38448,
+   "end": 39477
+  },
+  {
+   "page": 43,
+   "start": 39477,
+   "end": 40256
+  },
+  {
+   "page": 44,
+   "start": 40256,
+   "end": 41155
+  },
+  {
+   "page": 45,
+   "start": 41155,
+   "end": 42088
+  },
+  {
+   "page": 46,
+   "start": 42088,
+   "end": 42752
+  },
+  {
+   "page": 47,
+   "start": 42752,
+   "end": 43791
+  },
+  {
+   "page": 48,
+   "start": 43791,
+   "end": 44283
+  },
+  {
+   "page": 49,
+   "start": 44283,
+   "end": 45367
+  },
+  {
+   "page": 50,
+   "start": 45367,
+   "end": 46786
+  },
+  {
+   "page": 51,
+   "start": 46786,
+   "end": 47956
+  },
+  {
+   "page": 52,
+   "start": 47956,
+   "end": 48905
+  },
+  {
+   "page": 53,
+   "start": 48905,
+   "end": 50105
+  },
+  {
+   "page": 54,
+   "start": 50105,
+   "end": 51490
+  },
+  {
+   "page": 55,
+   "start": 51490,
+   "end": 52603
+  },
+  {
+   "page": 56,
+   "start": 52603,
+   "end": 53723
+  },
+  {
+   "page": 57,
+   "start": 53723,
+   "end": 55639
+  },
+  {
+   "page": 58,
+   "start": 55639,
+   "end": 55908
+  },
+  {
+   "page": 59,
+   "start": 55908,
+   "end": 57305
+  },
+  {
+   "page": 60,
+   "start": 57305,
+   "end": 58967
+  },
+  {
+   "page": 61,
+   "start": 58967,
+   "end": 60210
+  },
+  {
+   "page": 62,
+   "start": 60210,
+   "end": 61099
+  },
+  {
+   "page": 63,
+   "start": 61099,
+   "end": 61982
+  },
+  {
+   "page": 64,
+   "start": 61982,
+   "end": 63079
+  },
+  {
+   "page": 65,
+   "start": 63079,
+   "end": 63590
+  },
+  {
+   "page": 66,
+   "start": 63590,
+   "end": 64689
+  },
+  {
+   "page": 67,
+   "start": 64689,
+   "end": 65626
+  },
+  {
+   "page": 68,
+   "start": 65626,
+   "end": 66734
+  },
+  {
+   "page": 69,
+   "start": 66734,
+   "end": 67320
+  },
+  {
+   "page": 70,
+   "start": 67320,
+   "end": 68089
+  },
+  {
+   "page": 71,
+   "start": 68089,
+   "end": 68900
+  },
+  {
+   "page": 72,
+   "start": 68900,
+   "end": 69125
+  },
+  {
+   "page": 73,
+   "start": 69125,
+   "end": 70125
+  },
+  {
+   "page": 74,
+   "start": 70125,
+   "end": 71098
+  },
+  {
+   "page": 75,
+   "start": 71098,
+   "end": 72078
+  },
+  {
+   "page": 76,
+   "start": 72078,
+   "end": 73094
+  },
+  {
+   "page": 77,
+   "start": 73094,
+   "end": 74485
+  },
+  {
+   "page": 78,
+   "start": 74485,
+   "end": 75842
+  },
+  {
+   "page": 79,
+   "start": 75842,
+   "end": 76651
+  },
+  {
+   "page": 80,
+   "start": 76651,
+   "end": 77459
+  },
+  {
+   "page": 81,
+   "start": 77459,
+   "end": 78240
+  },
+  {
+   "page": 82,
+   "start": 78240,
+   "end": 79002
+  },
+  {
+   "page": 83,
+   "start": 79002,
+   "end": 79558
+  },
+  {
+   "page": 84,
+   "start": 79558,
+   "end": 80192
+  },
+  {
+   "page": 85,
+   "start": 80192,
+   "end": 81114
+  },
+  {
+   "page": 86,
+   "start": 81114,
+   "end": 81889
+  },
+  {
+   "page": 87,
+   "start": 81889,
+   "end": 82593
+  },
+  {
+   "page": 88,
+   "start": 82593,
+   "end": 83362
+  },
+  {
+   "page": 89,
+   "start": 83362,
+   "end": 84160
+  },
+  {
+   "page": 90,
+   "start": 84160,
+   "end": 84885
+  },
+  {
+   "page": 91,
+   "start": 84885,
+   "end": 85738
+  },
+  {
+   "page": 92,
+   "start": 85738,
+   "end": 85760
+  },
+  {
+   "page": 93,
+   "start": 85760,
+   "end": 87901
+  },
+  {
+   "page": 94,
+   "start": 87901,
+   "end": 90037
+  },
+  {
+   "page": 95,
+   "start": 90037,
+   "end": 90985
+  },
+  {
+   "page": 96,
+   "start": 90985,
+   "end": 91817
+  },
+  {
+   "page": 97,
+   "start": 91817,
+   "end": 92771
+  },
+  {
+   "page": 98,
+   "start": 92771,
+   "end": 94595
+  },
+  {
+   "page": 99,
+   "start": 94595,
+   "end": 94985
+  },
+  {
+   "page": 100,
+   "start": 94985,
+   "end": 96241
+  },
+  {
+   "page": 101,
+   "start": 96241,
+   "end": 97106
+  },
+  {
+   "page": 102,
+   "start": 97106,
+   "end": 98014
+  },
+  {
+   "page": 103,
+   "start": 98014,
+   "end": 98854
+  },
+  {
+   "page": 104,
+   "start": 98854,
+   "end": 99824
+  },
+  {
+   "page": 105,
+   "start": 99824,
+   "end": 100844
+  },
+  {
+   "page": 106,
+   "start": 100844,
+   "end": 101656
+  },
+  {
+   "page": 107,
+   "start": 101656,
+   "end": 102499
+  },
+  {
+   "page": 108,
+   "start": 102499,
+   "end": 103046
+  },
+  {
+   "page": 109,
+   "start": 103046,
+   "end": 103860
+  },
+  {
+   "page": 110,
+   "start": 103860,
+   "end": 104589
+  },
+  {
+   "page": 111,
+   "start": 104589,
+   "end": 105371
+  },
+  {
+   "page": 112,
+   "start": 105371,
+   "end": 105644
+  },
+  {
+   "page": 113,
+   "start": 105644,
+   "end": 106689
+  },
+  {
+   "page": 114,
+   "start": 106689,
+   "end": 107642
+  },
+  {
+   "page": 115,
+   "start": 107642,
+   "end": 108485
+  },
+  {
+   "page": 116,
+   "start": 108485,
+   "end": 109336
+  },
+  {
+   "page": 117,
+   "start": 109336,
+   "end": 109608
+  },
+  {
+   "page": 118,
+   "start": 109608,
+   "end": 110528
+  },
+  {
+   "page": 119,
+   "start": 110528,
+   "end": 111691
+  },
+  {
+   "page": 120,
+   "start": 111691,
+   "end": 112678
+  },
+  {
+   "page": 121,
+   "start": 112678,
+   "end": 113297
+  },
+  {
+   "page": 122,
+   "start": 113297,
+   "end": 113513
+  },
+  {
+   "page": 123,
+   "start": 113513,
+   "end": 114395
+  },
+  {
+   "page": 124,
+   "start": 114395,
+   "end": 114531
+  },
+  {
+   "page": 125,
+   "start": 114531,
+   "end": 115253
+  },
+  {
+   "page": 126,
+   "start": 115253,
+   "end": 116260
+  },
+  {
+   "page": 127,
+   "start": 116260,
+   "end": 117213
+  },
+  {
+   "page": 128,
+   "start": 117213,
+   "end": 117999
+  },
+  {
+   "page": 129,
+   "start": 117999,
+   "end": 119190
+  },
+  {
+   "page": 130,
+   "start": 119190,
+   "end": 119326
+  },
+  {
+   "page": 131,
+   "start": 119326,
+   "end": 120065
+  },
+  {
+   "page": 132,
+   "start": 120065,
+   "end": 121065
+  },
+  {
+   "page": 133,
+   "start": 121065,
+   "end": 121412
+  },
+  {
+   "page": 134,
+   "start": 121412,
+   "end": 122123
+  },
+  {
+   "page": 135,
+   "start": 122123,
+   "end": 123081
+  },
+  {
+   "page": 136,
+   "start": 123081,
+   "end": 123902
+  },
+  {
+   "page": 137,
+   "start": 123902,
+   "end": 126473
+  },
+  {
+   "page": 138,
+   "start": 126473,
+   "end": 126997
+  }
+ ],
+ "headings": [
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF ADMINISTRATION",
+   "offset": 734,
+   "page": 2
+  },
+  {
+   "level": 2,
+   "text": "OFFICE OF THE DIRECTOR",
+   "offset": 767,
+   "page": 2
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF ADMINISTRATION",
+   "offset": 2712,
+   "page": 4
+  },
+  {
+   "level": 2,
+   "text": "BUDGET AND MANAGEMENT DIVISION",
+   "offset": 2745,
+   "page": 4
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF ADMINISTRATION",
+   "offset": 4024,
+   "page": 5
+  },
+  {
+   "level": 2,
+   "text": "ENVIRONMENTAL COLLABORATION OFFICE",
+   "offset": 4057,
+   "page": 5
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF ADMINISTRATION",
+   "offset": 5730,
+   "page": 6
+  },
+  {
+   "level": 2,
+   "text": "COMMUNITY DEVELOPMENT GRANTS ADMINISTRATION DIVISION",
+   "offset": 5763,
+   "page": 6
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF ADMINISTRATION",
+   "offset": 7889,
+   "page": 8
+  },
+  {
+   "level": 2,
+   "text": "PURCHASING DIVISION",
+   "offset": 7922,
+   "page": 8
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF ADMINISTRATION",
+   "offset": 8851,
+   "page": 9
+  },
+  {
+   "level": 2,
+   "text": "INTERGOVERNMENTAL RELATIONS DIVISION",
+   "offset": 8884,
+   "page": 9
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF ADMINISTRATION",
+   "offset": 9743,
+   "page": 10
+  },
+  {
+   "level": 2,
+   "text": "INFORMATION AND TECHNOLOGY MANAGEMENT DIVISION",
+   "offset": 9776,
+   "page": 10
+  },
+  {
+   "level": 2,
+   "text": "ASSESSOR'S OFFICE",
+   "offset": 12235,
+   "page": 12
+  },
+  {
+   "level": 2,
+   "text": "CITY ATTORNEY",
+   "offset": 13740,
+   "page": 14
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF CITY DEVELOPMENT",
+   "offset": 15519,
+   "page": 16
+  },
+  {
+   "level": 2,
+   "text": "GENERAL MANAGEMENT AND POLICY DEVELOPMENT DECISION UNIT",
+   "offset": 15554,
+   "page": 16
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF CITY DEVELOPMENT",
+   "offset": 19739,
+   "page": 20
+  },
+  {
+   "level": 2,
+   "text": "PUBLIC HOUSING PROGRAMS DECISION UNIT",
+   "offset": 19774,
+   "page": 20
+  },
+  {
+   "level": 2,
+   "text": "CITY TREASURER",
+   "offset": 20043,
+   "page": 21
+  },
+  {
+   "level": 2,
+   "text": "COMMON COUNCIL-CITY CLERK",
+   "offset": 21435,
+   "page": 23
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF COMMUNITY WELLNESS AND SAFETY",
+   "offset": 24940,
+   "page": 27
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF COMPLIANCE AND ENGAGEMENT",
+   "offset": 26027,
+   "page": 28
+  },
+  {
+   "level": 2,
+   "text": "COMPTROLLER",
+   "offset": 27235,
+   "page": 29
+  },
+  {
+   "level": 2,
+   "text": "DEFERRED COMPENSATION PLAN",
+   "offset": 29689,
+   "page": 32
+  },
+  {
+   "level": 2,
+   "text": "ELECTION COMMISSION",
+   "offset": 29984,
+   "page": 33
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF EMERGENCY COMMUNICATIONS",
+   "offset": 31468,
+   "page": 35
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF EMPLOYEE RELATIONS",
+   "offset": 32668,
+   "page": 36
+  },
+  {
+   "level": 2,
+   "text": "ADMINISTRATION DIVISION",
+   "offset": 32705,
+   "page": 36
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF EMPLOYEE RELATIONS",
+   "offset": 33718,
+   "page": 37
+  },
+  {
+   "level": 2,
+   "text": "EMPLOYEE BENEFITS DIVISION",
+   "offset": 33755,
+   "page": 37
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF EMPLOYEE RELATIONS",
+   "offset": 35011,
+   "page": 38
+  },
+  {
+   "level": 2,
+   "text": "OPERATIONS DIVISION",
+   "offset": 35048,
+   "page": 38
+  },
+  {
+   "level": 2,
+   "text": "EMPLOYES' RETIREMENT SYSTEM",
+   "offset": 36760,
+   "page": 40
+  },
+  {
+   "level": 2,
+   "text": "FIRE AND POLICE COMMISSION",
+   "offset": 38448,
+   "page": 42
+  },
+  {
+   "level": 2,
+   "text": "FIRE DEPARTMENT",
+   "offset": 40256,
+   "page": 44
+  },
+  {
+   "level": 2,
+   "text": "OPERATIONS BUREAU DECISION UNIT",
+   "offset": 40276,
+   "page": 44
+  },
+  {
+   "level": 2,
+   "text": "FIRE DEPARTMENT",
+   "offset": 41155,
+   "page": 45
+  },
+  {
+   "level": 2,
+   "text": "SUPPORT SERVICES BUREAU DECISION UNIT",
+   "offset": 41175,
+   "page": 45
+  },
+  {
+   "level": 2,
+   "text": "FIRE DEPARTMENT",
+   "offset": 42752,
+   "page": 47
+  },
+  {
+   "level": 2,
+   "text": "EMS/TRAINING/EDUCATION BUREAU DECISION UNIT",
+   "offset": 42772,
+   "page": 47
+  },
+  {
+   "level": 2,
+   "text": "HEALTH DEPARTMENT",
+   "offset": 44283,
+   "page": 49
+  },
+  {
+   "level": 2,
+   "text": "OFFICE OF THE COMMISSIONER AND HEALTH ADMINISTRATION",
+   "offset": 44305,
+   "page": 49
+  },
+  {
+   "level": 2,
+   "text": "HEALTH DEPARTMENT",
+   "offset": 46786,
+   "page": 51
+  },
+  {
+   "level": 2,
+   "text": "POLICY, INNOVATION & ENGAGEMENT DIVISION",
+   "offset": 46808,
+   "page": 51
+  },
+  {
+   "level": 2,
+   "text": "HEALTH DEPARTMENT",
+   "offset": 48905,
+   "page": 53
+  },
+  {
+   "level": 2,
+   "text": "FAMILY & COMMUNITY HEALTH DIVISION",
+   "offset": 48927,
+   "page": 53
+  },
+  {
+   "level": 2,
+   "text": "HEALTH DEPARTMENT",
+   "offset": 51490,
+   "page": 55
+  },
+  {
+   "level": 2,
+   "text": "CLINICAL SERVICES DIVISION",
+   "offset": 51512,
+   "page": 55
+  },
+  {
+   "level": 2,
+   "text": "HEALTH DEPARTMENT",
+   "offset": 55908,
+   "page": 59
+  },
+  {
+   "level": 2,
+   "text": "ENVIRONMENTAL HEALTH DIVISION",
+   "offset": 55930,
+   "page": 59
+  },
+  {
+   "level": 2,
+   "text": "LIBRARY",
+   "offset": 58967,
+   "page": 61
+  },
+  {
+   "level": 2,
+   "text": "ADMINISTRATIVE SERVICES DECISION UNIT",
+   "offset": 58979,
+   "page": 61
+  },
+  {
+   "level": 2,
+   "text": "LIBRARY",
+   "offset": 60210,
+   "page": 62
+  },
+  {
+   "level": 2,
+   "text": "OPERATIONS DECISION UNIT",
+   "offset": 60222,
+   "page": 62
+  },
+  {
+   "level": 2,
+   "text": "LIBRARY",
+   "offset": 61982,
+   "page": 64
+  },
+  {
+   "level": 2,
+   "text": "IT, TECHNICAL SERVICES, & COLLECTIONS DECISION UNIT",
+   "offset": 61994,
+   "page": 64
+  },
+  {
+   "level": 2,
+   "text": "LIBRARY",
+   "offset": 63590,
+   "page": 66
+  },
+  {
+   "level": 2,
+   "text": "PATRON EXPERIENCE & STRATEGY DECISION UNIT",
+   "offset": 63602,
+   "page": 66
+  },
+  {
+   "level": 2,
+   "text": "MAYOR",
+   "offset": 67320,
+   "page": 70
+  },
+  {
+   "level": 2,
+   "text": "MUNICIPAL COURT",
+   "offset": 68089,
+   "page": 71
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF NEIGHBORHOOD SERVICES",
+   "offset": 69125,
+   "page": 73
+  },
+  {
+   "level": 2,
+   "text": "POLICE DEPARTMENT",
+   "offset": 75842,
+   "page": 79
+  },
+  {
+   "level": 2,
+   "text": "PORT MILWAUKEE",
+   "offset": 90037,
+   "page": 95
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF PUBLIC WORKS - ADMINISTRATIVE SERVICES DIVISION",
+   "offset": 91817,
+   "page": 97
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF PUBLIC WORKS - INFRASTRUCTURE SERVICES DIVISION TRANSPORTATION INFRASTRUCTURE DECISION UNIT",
+   "offset": 96241,
+   "page": 101
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF PUBLIC WORKS - INFRASTRUCTURE SERVICES DIVISION TRANSPORTATION OPERATIONS DECISION UNIT",
+   "offset": 99824,
+   "page": 105
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF PUBLIC WORKS - INFRASTRUCTURE SERVICES DIVISION",
+   "offset": 103046,
+   "page": 109
+  },
+  {
+   "level": 2,
+   "text": "BRIDGES & BUILDINGS DECISION UNIT",
+   "offset": 103112,
+   "page": 109
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF PUBLIC WORKS - OPERATIONS DIVISION",
+   "offset": 105644,
+   "page": 113
+  },
+  {
+   "level": 2,
+   "text": "ADMINISTRATION SECTION",
+   "offset": 105697,
+   "page": 113
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF PUBLIC WORKS - OPERATIONS DIVISION",
+   "offset": 106689,
+   "page": 114
+  },
+  {
+   "level": 2,
+   "text": "FLEET SERVICES SECTION",
+   "offset": 106742,
+   "page": 114
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF PUBLIC WORKS - OPERATIONS DIVISION",
+   "offset": 108485,
+   "page": 116
+  },
+  {
+   "level": 2,
+   "text": "SANITATION SECTION",
+   "offset": 108538,
+   "page": 116
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF PUBLIC WORKS - OPERATIONS DIVISION",
+   "offset": 109608,
+   "page": 118
+  },
+  {
+   "level": 2,
+   "text": "FORESTRY SECTION",
+   "offset": 109661,
+   "page": 118
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF PUBLIC WORKS - TRANSPORTATION FUND",
+   "offset": 111691,
+   "page": 120
+  },
+  {
+   "level": 2,
+   "text": "PARKING OPERATIONS AND MAINTENANCE DECISION UNIT",
+   "offset": 111744,
+   "page": 120
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF PUBLIC WORKS - TRANSPORTATION FUND",
+   "offset": 113297,
+   "page": 122
+  },
+  {
+   "level": 2,
+   "text": "STREETCAR OPERATIONS DECISION UNIT",
+   "offset": 113350,
+   "page": 122
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF PUBLIC WORKS - SEWER MAINTENANCE FUND",
+   "offset": 113513,
+   "page": 123
+  },
+  {
+   "level": 2,
+   "text": "ENVIRONMENTAL DECISION UNIT",
+   "offset": 113569,
+   "page": 123
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF PUBLIC WORKS - SEWER MAINTENANCE FUND",
+   "offset": 114531,
+   "page": 125
+  },
+  {
+   "level": 2,
+   "text": "UNDERGROUND DECISION UNIT",
+   "offset": 114587,
+   "page": 125
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF PUBLIC WORKS - WATER WORKS",
+   "offset": 115253,
+   "page": 126
+  },
+  {
+   "level": 2,
+   "text": "BUSINESS ORGANIZATION",
+   "offset": 115298,
+   "page": 126
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF PUBLIC WORKS - WATER WORKS",
+   "offset": 117999,
+   "page": 129
+  },
+  {
+   "level": 2,
+   "text": "PLANTS - NORTH ORGANIZATION",
+   "offset": 118044,
+   "page": 129
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF PUBLIC WORKS - WATER WORKS",
+   "offset": 119326,
+   "page": 131
+  },
+  {
+   "level": 2,
+   "text": "ENGINEERING ORGANIZATION",
+   "offset": 119371,
+   "page": 131
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF PUBLIC WORKS - WATER WORKS",
+   "offset": 120065,
+   "page": 132
+  },
+  {
+   "level": 2,
+   "text": "DISTRIBUTION ORGANIZATION",
+   "offset": 120110,
+   "page": 132
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF PUBLIC WORKS - WATER WORKS",
+   "offset": 121412,
+   "page": 134
+  },
+  {
+   "level": 2,
+   "text": "WATER QUALITY ORGANIZATION",
+   "offset": 121457,
+   "page": 134
+  },
+  {
+   "level": 2,
+   "text": "DEPARTMENT OF PUBLIC WORKS - WATER WORKS",
+   "offset": 122123,
+   "page": 135
+  },
+  {
+   "level": 2,
+   "text": "PLANTS - SOUTH ORGANIZATION",
+   "offset": 122168,
+   "page": 135
+  },
+  {
+   "level": 2,
+   "text": "SPECIAL PURPOSE ACCOUNT - BOARD OF ZONING APPEALS",
+   "offset": 123081,
+   "page": 136
+  }
+ ],
+ "sections": [
+  {
+   "id": "DEPARTMENT OF ADMINISTRATION",
+   "heading": "DEPARTMENT OF ADMINISTRATION",
+   "level": 2,
+   "offset": 734,
+   "page": 2,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "OFFICE OF THE DIRECTOR",
+   "heading": "OFFICE OF THE DIRECTOR",
+   "level": 2,
+   "offset": 767,
+   "page": 2,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF ADMINISTRATION",
+   "heading": "DEPARTMENT OF ADMINISTRATION",
+   "level": 2,
+   "offset": 2712,
+   "page": 4,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "BUDGET AND MANAGEMENT DIVISION",
+   "heading": "BUDGET AND MANAGEMENT DIVISION",
+   "level": 2,
+   "offset": 2745,
+   "page": 4,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF ADMINISTRATION",
+   "heading": "DEPARTMENT OF ADMINISTRATION",
+   "level": 2,
+   "offset": 4024,
+   "page": 5,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "ENVIRONMENTAL COLLABORATION OFFICE",
+   "heading": "ENVIRONMENTAL COLLABORATION OFFICE",
+   "level": 2,
+   "offset": 4057,
+   "page": 5,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF ADMINISTRATION",
+   "heading": "DEPARTMENT OF ADMINISTRATION",
+   "level": 2,
+   "offset": 5730,
+   "page": 6,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "COMMUNITY DEVELOPMENT GRANTS ADMINISTRATION DIVISION",
+   "heading": "COMMUNITY DEVELOPMENT GRANTS ADMINISTRATION DIVISION",
+   "level": 2,
+   "offset": 5763,
+   "page": 6,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF ADMINISTRATION",
+   "heading": "DEPARTMENT OF ADMINISTRATION",
+   "level": 2,
+   "offset": 7889,
+   "page": 8,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "PURCHASING DIVISION",
+   "heading": "PURCHASING DIVISION",
+   "level": 2,
+   "offset": 7922,
+   "page": 8,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF ADMINISTRATION",
+   "heading": "DEPARTMENT OF ADMINISTRATION",
+   "level": 2,
+   "offset": 8851,
+   "page": 9,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "INTERGOVERNMENTAL RELATIONS DIVISION",
+   "heading": "INTERGOVERNMENTAL RELATIONS DIVISION",
+   "level": 2,
+   "offset": 8884,
+   "page": 9,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF ADMINISTRATION",
+   "heading": "DEPARTMENT OF ADMINISTRATION",
+   "level": 2,
+   "offset": 9743,
+   "page": 10,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "INFORMATION AND TECHNOLOGY MANAGEMENT DIVISION",
+   "heading": "INFORMATION AND TECHNOLOGY MANAGEMENT DIVISION",
+   "level": 2,
+   "offset": 9776,
+   "page": 10,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "ASSESSOR'S OFFICE",
+   "heading": "ASSESSOR'S OFFICE",
+   "level": 2,
+   "offset": 12235,
+   "page": 12,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "CITY ATTORNEY",
+   "heading": "CITY ATTORNEY",
+   "level": 2,
+   "offset": 13740,
+   "page": 14,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF CITY DEVELOPMENT",
+   "heading": "DEPARTMENT OF CITY DEVELOPMENT",
+   "level": 2,
+   "offset": 15519,
+   "page": 16,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "GENERAL MANAGEMENT AND POLICY DEVELOPMENT DECISION UNIT",
+   "heading": "GENERAL MANAGEMENT AND POLICY DEVELOPMENT DECISION UNIT",
+   "level": 2,
+   "offset": 15554,
+   "page": 16,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF CITY DEVELOPMENT",
+   "heading": "DEPARTMENT OF CITY DEVELOPMENT",
+   "level": 2,
+   "offset": 19739,
+   "page": 20,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "PUBLIC HOUSING PROGRAMS DECISION UNIT",
+   "heading": "PUBLIC HOUSING PROGRAMS DECISION UNIT",
+   "level": 2,
+   "offset": 19774,
+   "page": 20,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "CITY TREASURER",
+   "heading": "CITY TREASURER",
+   "level": 2,
+   "offset": 20043,
+   "page": 21,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "COMMON COUNCIL-CITY CLERK",
+   "heading": "COMMON COUNCIL-CITY CLERK",
+   "level": 2,
+   "offset": 21435,
+   "page": 23,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF COMMUNITY WELLNESS AND SAFETY",
+   "heading": "DEPARTMENT OF COMMUNITY WELLNESS AND SAFETY",
+   "level": 2,
+   "offset": 24940,
+   "page": 27,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF COMPLIANCE AND ENGAGEMENT",
+   "heading": "DEPARTMENT OF COMPLIANCE AND ENGAGEMENT",
+   "level": 2,
+   "offset": 26027,
+   "page": 28,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "COMPTROLLER",
+   "heading": "COMPTROLLER",
+   "level": 2,
+   "offset": 27235,
+   "page": 29,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEFERRED COMPENSATION PLAN",
+   "heading": "DEFERRED COMPENSATION PLAN",
+   "level": 2,
+   "offset": 29689,
+   "page": 32,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "ELECTION COMMISSION",
+   "heading": "ELECTION COMMISSION",
+   "level": 2,
+   "offset": 29984,
+   "page": 33,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF EMERGENCY COMMUNICATIONS",
+   "heading": "DEPARTMENT OF EMERGENCY COMMUNICATIONS",
+   "level": 2,
+   "offset": 31468,
+   "page": 35,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF EMPLOYEE RELATIONS",
+   "heading": "DEPARTMENT OF EMPLOYEE RELATIONS",
+   "level": 2,
+   "offset": 32668,
+   "page": 36,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "ADMINISTRATION DIVISION",
+   "heading": "ADMINISTRATION DIVISION",
+   "level": 2,
+   "offset": 32705,
+   "page": 36,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF EMPLOYEE RELATIONS",
+   "heading": "DEPARTMENT OF EMPLOYEE RELATIONS",
+   "level": 2,
+   "offset": 33718,
+   "page": 37,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "EMPLOYEE BENEFITS DIVISION",
+   "heading": "EMPLOYEE BENEFITS DIVISION",
+   "level": 2,
+   "offset": 33755,
+   "page": 37,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF EMPLOYEE RELATIONS",
+   "heading": "DEPARTMENT OF EMPLOYEE RELATIONS",
+   "level": 2,
+   "offset": 35011,
+   "page": 38,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "OPERATIONS DIVISION",
+   "heading": "OPERATIONS DIVISION",
+   "level": 2,
+   "offset": 35048,
+   "page": 38,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "EMPLOYES' RETIREMENT SYSTEM",
+   "heading": "EMPLOYES' RETIREMENT SYSTEM",
+   "level": 2,
+   "offset": 36760,
+   "page": 40,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "FIRE AND POLICE COMMISSION",
+   "heading": "FIRE AND POLICE COMMISSION",
+   "level": 2,
+   "offset": 38448,
+   "page": 42,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "FIRE DEPARTMENT",
+   "heading": "FIRE DEPARTMENT",
+   "level": 2,
+   "offset": 40256,
+   "page": 44,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "OPERATIONS BUREAU DECISION UNIT",
+   "heading": "OPERATIONS BUREAU DECISION UNIT",
+   "level": 2,
+   "offset": 40276,
+   "page": 44,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "FIRE DEPARTMENT",
+   "heading": "FIRE DEPARTMENT",
+   "level": 2,
+   "offset": 41155,
+   "page": 45,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "SUPPORT SERVICES BUREAU DECISION UNIT",
+   "heading": "SUPPORT SERVICES BUREAU DECISION UNIT",
+   "level": 2,
+   "offset": 41175,
+   "page": 45,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "FIRE DEPARTMENT",
+   "heading": "FIRE DEPARTMENT",
+   "level": 2,
+   "offset": 42752,
+   "page": 47,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "EMS/TRAINING/EDUCATION BUREAU DECISION UNIT",
+   "heading": "EMS/TRAINING/EDUCATION BUREAU DECISION UNIT",
+   "level": 2,
+   "offset": 42772,
+   "page": 47,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "HEALTH DEPARTMENT",
+   "heading": "HEALTH DEPARTMENT",
+   "level": 2,
+   "offset": 44283,
+   "page": 49,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "OFFICE OF THE COMMISSIONER AND HEALTH ADMINISTRATION",
+   "heading": "OFFICE OF THE COMMISSIONER AND HEALTH ADMINISTRATION",
+   "level": 2,
+   "offset": 44305,
+   "page": 49,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "HEALTH DEPARTMENT",
+   "heading": "HEALTH DEPARTMENT",
+   "level": 2,
+   "offset": 46786,
+   "page": 51,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "POLICY, INNOVATION & ENGAGEMENT DIVISION",
+   "heading": "POLICY, INNOVATION & ENGAGEMENT DIVISION",
+   "level": 2,
+   "offset": 46808,
+   "page": 51,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "HEALTH DEPARTMENT",
+   "heading": "HEALTH DEPARTMENT",
+   "level": 2,
+   "offset": 48905,
+   "page": 53,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "FAMILY & COMMUNITY HEALTH DIVISION",
+   "heading": "FAMILY & COMMUNITY HEALTH DIVISION",
+   "level": 2,
+   "offset": 48927,
+   "page": 53,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "HEALTH DEPARTMENT",
+   "heading": "HEALTH DEPARTMENT",
+   "level": 2,
+   "offset": 51490,
+   "page": 55,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "CLINICAL SERVICES DIVISION",
+   "heading": "CLINICAL SERVICES DIVISION",
+   "level": 2,
+   "offset": 51512,
+   "page": 55,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "HEALTH DEPARTMENT",
+   "heading": "HEALTH DEPARTMENT",
+   "level": 2,
+   "offset": 55908,
+   "page": 59,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "ENVIRONMENTAL HEALTH DIVISION",
+   "heading": "ENVIRONMENTAL HEALTH DIVISION",
+   "level": 2,
+   "offset": 55930,
+   "page": 59,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "LIBRARY",
+   "heading": "LIBRARY",
+   "level": 2,
+   "offset": 58967,
+   "page": 61,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "ADMINISTRATIVE SERVICES DECISION UNIT",
+   "heading": "ADMINISTRATIVE SERVICES DECISION UNIT",
+   "level": 2,
+   "offset": 58979,
+   "page": 61,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "LIBRARY",
+   "heading": "LIBRARY",
+   "level": 2,
+   "offset": 60210,
+   "page": 62,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "OPERATIONS DECISION UNIT",
+   "heading": "OPERATIONS DECISION UNIT",
+   "level": 2,
+   "offset": 60222,
+   "page": 62,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "LIBRARY",
+   "heading": "LIBRARY",
+   "level": 2,
+   "offset": 61982,
+   "page": 64,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "IT, TECHNICAL SERVICES, & COLLECTIONS DECISION UNIT",
+   "heading": "IT, TECHNICAL SERVICES, & COLLECTIONS DECISION UNIT",
+   "level": 2,
+   "offset": 61994,
+   "page": 64,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "LIBRARY",
+   "heading": "LIBRARY",
+   "level": 2,
+   "offset": 63590,
+   "page": 66,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "PATRON EXPERIENCE & STRATEGY DECISION UNIT",
+   "heading": "PATRON EXPERIENCE & STRATEGY DECISION UNIT",
+   "level": 2,
+   "offset": 63602,
+   "page": 66,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "MAYOR",
+   "heading": "MAYOR",
+   "level": 2,
+   "offset": 67320,
+   "page": 70,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "MUNICIPAL COURT",
+   "heading": "MUNICIPAL COURT",
+   "level": 2,
+   "offset": 68089,
+   "page": 71,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF NEIGHBORHOOD SERVICES",
+   "heading": "DEPARTMENT OF NEIGHBORHOOD SERVICES",
+   "level": 2,
+   "offset": 69125,
+   "page": 73,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "POLICE DEPARTMENT",
+   "heading": "POLICE DEPARTMENT",
+   "level": 2,
+   "offset": 75842,
+   "page": 79,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "PORT MILWAUKEE",
+   "heading": "PORT MILWAUKEE",
+   "level": 2,
+   "offset": 90037,
+   "page": 95,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF PUBLIC WORKS - ADMINISTRATIVE SERVICES DIVISION",
+   "heading": "DEPARTMENT OF PUBLIC WORKS - ADMINISTRATIVE SERVICES DIVISION",
+   "level": 2,
+   "offset": 91817,
+   "page": 97,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF PUBLIC WORKS - INFRASTRUCTURE SERVICES DIVISION TRANSPORTATION INFRASTRUCTURE DECISION UNIT",
+   "heading": "DEPARTMENT OF PUBLIC WORKS - INFRASTRUCTURE SERVICES DIVISION TRANSPORTATION INFRASTRUCTURE DECISION UNIT",
+   "level": 2,
+   "offset": 96241,
+   "page": 101,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF PUBLIC WORKS - INFRASTRUCTURE SERVICES DIVISION TRANSPORTATION OPERATIONS DECISION UNIT",
+   "heading": "DEPARTMENT OF PUBLIC WORKS - INFRASTRUCTURE SERVICES DIVISION TRANSPORTATION OPERATIONS DECISION UNIT",
+   "level": 2,
+   "offset": 99824,
+   "page": 105,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF PUBLIC WORKS - INFRASTRUCTURE SERVICES DIVISION",
+   "heading": "DEPARTMENT OF PUBLIC WORKS - INFRASTRUCTURE SERVICES DIVISION",
+   "level": 2,
+   "offset": 103046,
+   "page": 109,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "BRIDGES & BUILDINGS DECISION UNIT",
+   "heading": "BRIDGES & BUILDINGS DECISION UNIT",
+   "level": 2,
+   "offset": 103112,
+   "page": 109,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF PUBLIC WORKS - OPERATIONS DIVISION",
+   "heading": "DEPARTMENT OF PUBLIC WORKS - OPERATIONS DIVISION",
+   "level": 2,
+   "offset": 105644,
+   "page": 113,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "ADMINISTRATION SECTION",
+   "heading": "ADMINISTRATION SECTION",
+   "level": 2,
+   "offset": 105697,
+   "page": 113,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF PUBLIC WORKS - OPERATIONS DIVISION",
+   "heading": "DEPARTMENT OF PUBLIC WORKS - OPERATIONS DIVISION",
+   "level": 2,
+   "offset": 106689,
+   "page": 114,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "FLEET SERVICES SECTION",
+   "heading": "FLEET SERVICES SECTION",
+   "level": 2,
+   "offset": 106742,
+   "page": 114,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF PUBLIC WORKS - OPERATIONS DIVISION",
+   "heading": "DEPARTMENT OF PUBLIC WORKS - OPERATIONS DIVISION",
+   "level": 2,
+   "offset": 108485,
+   "page": 116,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "SANITATION SECTION",
+   "heading": "SANITATION SECTION",
+   "level": 2,
+   "offset": 108538,
+   "page": 116,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF PUBLIC WORKS - OPERATIONS DIVISION",
+   "heading": "DEPARTMENT OF PUBLIC WORKS - OPERATIONS DIVISION",
+   "level": 2,
+   "offset": 109608,
+   "page": 118,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "FORESTRY SECTION",
+   "heading": "FORESTRY SECTION",
+   "level": 2,
+   "offset": 109661,
+   "page": 118,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF PUBLIC WORKS - TRANSPORTATION FUND",
+   "heading": "DEPARTMENT OF PUBLIC WORKS - TRANSPORTATION FUND",
+   "level": 2,
+   "offset": 111691,
+   "page": 120,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "PARKING OPERATIONS AND MAINTENANCE DECISION UNIT",
+   "heading": "PARKING OPERATIONS AND MAINTENANCE DECISION UNIT",
+   "level": 2,
+   "offset": 111744,
+   "page": 120,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF PUBLIC WORKS - TRANSPORTATION FUND",
+   "heading": "DEPARTMENT OF PUBLIC WORKS - TRANSPORTATION FUND",
+   "level": 2,
+   "offset": 113297,
+   "page": 122,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "STREETCAR OPERATIONS DECISION UNIT",
+   "heading": "STREETCAR OPERATIONS DECISION UNIT",
+   "level": 2,
+   "offset": 113350,
+   "page": 122,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF PUBLIC WORKS - SEWER MAINTENANCE FUND",
+   "heading": "DEPARTMENT OF PUBLIC WORKS - SEWER MAINTENANCE FUND",
+   "level": 2,
+   "offset": 113513,
+   "page": 123,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "ENVIRONMENTAL DECISION UNIT",
+   "heading": "ENVIRONMENTAL DECISION UNIT",
+   "level": 2,
+   "offset": 113569,
+   "page": 123,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF PUBLIC WORKS - SEWER MAINTENANCE FUND",
+   "heading": "DEPARTMENT OF PUBLIC WORKS - SEWER MAINTENANCE FUND",
+   "level": 2,
+   "offset": 114531,
+   "page": 125,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "UNDERGROUND DECISION UNIT",
+   "heading": "UNDERGROUND DECISION UNIT",
+   "level": 2,
+   "offset": 114587,
+   "page": 125,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF PUBLIC WORKS - WATER WORKS",
+   "heading": "DEPARTMENT OF PUBLIC WORKS - WATER WORKS",
+   "level": 2,
+   "offset": 115253,
+   "page": 126,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "BUSINESS ORGANIZATION",
+   "heading": "BUSINESS ORGANIZATION",
+   "level": 2,
+   "offset": 115298,
+   "page": 126,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF PUBLIC WORKS - WATER WORKS",
+   "heading": "DEPARTMENT OF PUBLIC WORKS - WATER WORKS",
+   "level": 2,
+   "offset": 117999,
+   "page": 129,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "PLANTS - NORTH ORGANIZATION",
+   "heading": "PLANTS - NORTH ORGANIZATION",
+   "level": 2,
+   "offset": 118044,
+   "page": 129,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF PUBLIC WORKS - WATER WORKS",
+   "heading": "DEPARTMENT OF PUBLIC WORKS - WATER WORKS",
+   "level": 2,
+   "offset": 119326,
+   "page": 131,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "ENGINEERING ORGANIZATION",
+   "heading": "ENGINEERING ORGANIZATION",
+   "level": 2,
+   "offset": 119371,
+   "page": 131,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF PUBLIC WORKS - WATER WORKS",
+   "heading": "DEPARTMENT OF PUBLIC WORKS - WATER WORKS",
+   "level": 2,
+   "offset": 120065,
+   "page": 132,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DISTRIBUTION ORGANIZATION",
+   "heading": "DISTRIBUTION ORGANIZATION",
+   "level": 2,
+   "offset": 120110,
+   "page": 132,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF PUBLIC WORKS - WATER WORKS",
+   "heading": "DEPARTMENT OF PUBLIC WORKS - WATER WORKS",
+   "level": 2,
+   "offset": 121412,
+   "page": 134,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "WATER QUALITY ORGANIZATION",
+   "heading": "WATER QUALITY ORGANIZATION",
+   "level": 2,
+   "offset": 121457,
+   "page": 134,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "DEPARTMENT OF PUBLIC WORKS - WATER WORKS",
+   "heading": "DEPARTMENT OF PUBLIC WORKS - WATER WORKS",
+   "level": 2,
+   "offset": 122123,
+   "page": 135,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "PLANTS - SOUTH ORGANIZATION",
+   "heading": "PLANTS - SOUTH ORGANIZATION",
+   "level": 2,
+   "offset": 122168,
+   "page": 135,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  },
+  {
+   "id": "SPECIAL PURPOSE ACCOUNT - BOARD OF ZONING APPEALS",
+   "heading": "SPECIAL PURPOSE ACCOUNT - BOARD OF ZONING APPEALS",
+   "level": 2,
+   "offset": 123081,
+   "page": 136,
+   "chapter": null,
+   "history_notes": 0,
+   "covered_by_chapter_history": false
+  }
+ ],
+ "history_rules_in_profile": false,
+ "history_notes": [],
+ "chapter_history": {},
+ "tables": [],
+ "stats": {
+  "hyphen_joined": 0,
+  "hyphen_kept": 1,
+  "hyphen_uncertain": 0,
+  "dot_leaders_collapsed": 1936,
+  "output_chars": 126997
+ },
+ "removed_running_text": {
+  "footer:# # Positions Ordinance": 137
+ },
+ "repeated_table_text_dropped": 0,
+ "checks": {
+  "completeness": {
+   "text_layer_alnum_chars": 98969,
+   "removed_running_text_chars": 3317,
+   "expected_chars": 95652,
+   "output_chars": 95652,
+   "lost_chars": 0,
+   "extra_chars": 0,
+   "lost_sample": {},
+   "extra_sample": {}
+  },
+  "text_layer_crosscheck": {
+   "pdfplumber_alnum_chars": 98969,
+   "pdftotext_alnum_chars": 98969,
+   "only_in_pdfplumber": 0,
+   "only_in_pdftotext": 0
+  },
+  "spot_check_sections": [
+   {
+    "section": "CLINICAL SERVICES DIVISION",
+    "heading": "CLINICAL SERVICES DIVISION",
+    "pages": "55-58",
+    "words": 626,
+    "words_not_found": 0,
+    "examples_not_found": [],
+    "result": "pass"
+   },
+   {
+    "section": "PLANTS - SOUTH ORGANIZATION",
+    "heading": "PLANTS - SOUTH ORGANIZATION",
+    "pages": "135",
+    "words": 126,
+    "words_not_found": 0,
+    "examples_not_found": [],
+    "result": "pass"
+   },
+   {
+    "section": "ADMINISTRATIVE SERVICES DECISION UNIT",
+    "heading": "ADMINISTRATIVE SERVICES DECISION UNIT",
+    "pages": "61",
+    "words": 175,
+    "words_not_found": 0,
+    "examples_not_found": [],
+    "result": "pass"
+   },
+   {
+    "section": "ENVIRONMENTAL COLLABORATION OFFICE",
+    "heading": "ENVIRONMENTAL COLLABORATION OFFICE",
+    "pages": "5",
+    "words": 229,
+    "words_not_found": 0,
+    "examples_not_found": [],
+    "result": "pass"
+   },
+   {
+    "section": "OPERATIONS DIVISION",
+    "heading": "OPERATIONS DIVISION",
+    "pages": "38-39",
+    "words": 221,
+    "words_not_found": 0,
+    "examples_not_found": [],
+    "result": "pass"
+   }
+  ],
+  "spot_check_tables": [],
+  "suspicious_pages": []
+ },
+ "warnings": []
+}
