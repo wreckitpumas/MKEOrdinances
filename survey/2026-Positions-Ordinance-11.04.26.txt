@@ -1,0 +1,88 @@
+SURVEY: 2026-Positions-Ordinance-11.04.26.pdf
+========================================================================
+Pages: 138
+Page sizes (pts): 612x792 (138 pages)
+Pages with a text layer: 138 of 138
+Pages with NO text layer: none
+Very short pages (<200 chars): 4: 34,92,124,130
+
+HEADER CANDIDATES (most frequent first-3 lines, digits shown as #)
+      7  DEPARTMENT OF ADMINISTRATION
+      6  (Y) Required to file a statement of economic interests in accordance with the Milwaukee Code of Ordi
+      6  DEPARTMENT OF PUBLIC WORKS - WATER WORKS
+      5  (X) Private automobile allowance may be paid pursuant to Section #-# of the Milwaukee Code.
+      5  Chapter #-Code of Ethics.
+      5  HEALTH DEPARTMENT
+      4  # # Positions Ordinance
+      4  LIBRARY
+      4  Police Lieutenant ..................................................................................
+      4  DEPARTMENT OF PUBLIC WORKS - INFRASTRUCTURE SERVICES DIVISION
+      4  DEPARTMENT OF PUBLIC WORKS - OPERATIONS DIVISION
+      4  Administration
+
+FOOTER CANDIDATES (most frequent last-3 lines, digits shown as #)
+    137  # # Positions Ordinance
+     26  Chapter #-Code of Ethics.
+     23  (Y) Required to file a statement of economic interests in accordance with the Milwaukee Code of Ordi
+     18  Council on the results of the feedback obtained.
+     15  Council member relating to that person’s performance in their position; and shall annually report to
+      5  (ERP) Position Authority will be eliminated at the end of # unless otherwise authorized by the Commo
+      4  Office Assistant III ...............................................................................
+      3  Auxiliary Positions
+      2  (X) Private automobile allowance may be paid pursuant to Section #-# of the Milwaukee Code.
+      2  Community Service Officer ..........................................................................
+      2  Police Sergeant ....................................................................................
+      2  Police Officer .....................................................................................
+
+MULTI-COLUMN PAGES: 4 of 138
+  7,19,99,117
+
+SECTION HEADING CANDIDATES (pdftotext reading order)
+  [     0] dashed_section (e.g. 99-9. Title.)
+  [     0] dashed_section_no_period (e.g. 99-9 Title)
+  [     0] chapter_word (CHAPTER 9)
+  [     0] subchapter_word (SUBCHAPTER 9)
+  [     7] section_word (Section 9)
+           e.g. Section 1. The following shall be the offices and positions in the various departments,
+           e.g. Section 2. Nothing herein contained shall be construed to prevent the making of appointmen
+           e.g. Section 3. Whenever a vacancy arises in any position named in this ordinance, the position
+           e.g. Section 4. It is hereby declared to be the intent of the Common Council:
+  [     0] part_word (PART I)
+  [     0] numbered_caps_sub (9. CAPS)
+  [     0] pay_range (Pay Range ...)
+  [   109] all_caps_line
+           e.g. UPDATED THROUGH 11/4/26 COMMON COUNCIL MEETING
+           e.g. LICENSE DIVISION
+           e.g. HEALTH DEPARTMENT
+           e.g. ADMINISTRATION SECTION
+  [  1935] dot_leader_entry (Title .... N)
+           e.g. Administration Director (B)(Y)(CCR) ......................................................
+           e.g. Fire and Police Commission Deputy Director (X)(Y) ........................................
+           e.g. Office Assistant III .....................................................................
+           e.g. Street Services Manager (X)...............................................................
+
+HISTORY / AMENDMENT NOTE CANDIDATES
+  [     0] 'history'
+  [     0] 'ord.'
+  [     0] 'amended'
+  [     0] 'created'
+  [     0] 'renumbered'
+  [     0] 'eff.'
+  [    59] 'file'
+           Required to file a statement of economic interests in accordance with the Milwaukee Code of Ord
+           Required to file a statement of economic interests in accordance with the Milwaukee Code of Ord
+           Required to file a statement of economic interests in accordance with the Milwaukee Code of Ord
+           Required to file a statement of economic interests in accordance with the Milwaukee Code of Ord
+           Required to file a statement of economic interests in accordance with the Milwaukee Code of Ord
+           Required to file a Statement of Economic Interests in accordance with the Milwaukee Code of Ord
+           Required to file a statement of economic interests in accordance with the Milwaukee Code of Ord
+           Required to file a statement of economic interests in accordance with the Milwaukee Code of Ord
+           Required to file a statement of economic interests in accordance with the Milwaukee Code of Ord
+           Required to file a statement of economic interests in accordance with the Milwaukee Code of Ord
+  Specific history structures:
+  [     0] (HISTORY: ...) opener
+  [     0] LEGISLATIVE HISTORY table title
+  [     0] 'For (the) legislative history of chapter' pointer
+  [     0] statute source note (S. ... Stats ...)
+
+TABLES DETECTED BY pdfplumber (ruled-line strategy): 0 pages

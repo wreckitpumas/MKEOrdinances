@@ -1,0 +1,18 @@
+# Secrets
+.env
+.env.*
+*.key
+
+# Claude API response cache (never commit)
+.api_cache/
+api_cache/
+
+# Source PDFs live outside this repo. Do not add new ones.
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.venv/

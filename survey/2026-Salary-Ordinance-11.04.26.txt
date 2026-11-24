@@ -1,0 +1,300 @@
+SURVEY: 2026-Salary-Ordinance-11.04.26.pdf
+========================================================================
+Pages: 161
+Page sizes (pts): 612x792 (161 pages)
+Pages with a text layer: 161 of 161
+Pages with NO text layer: none
+Very short pages (<200 chars): 0: 
+
+HEADER CANDIDATES (most frequent first-3 lines, digits shown as #)
+     38  Annual #,#.#
+     36  Biweekly #,#.#
+     32  (#) Recruitment is at:
+     17  Official Rate Biweekly
+     14  Wage Rate:
+     12  Hourly #.# #.#
+     12  Biweekly #,#.# #,#.#
+      8  Annual #,#.# #,#.#
+      6  Hourly #.# #.# #.# #.# #.# #.#
+      6  Biweekly #,#.# #,#.# #,#.# #,#.# #,#.# #,#.#
+      5  Annual #,#.# #,#.# #,#.# #,#.# #,#.# #,#.#
+      4  (#) Bachelor’s Degree – (an employee who has attained and maintained)
+
+FOOTER CANDIDATES (most frequent last-3 lines, digits shown as #)
+    120  # Salary Ordinance Page #
+    120  Eligible residents receive a #% Residency Incentive Allowance. Visit milwaukee.gov/wagerates to calc
+    120  Residency Incentive Allowance from the wage rate.
+     59  #
+     11  Hourly #.# #.# #.# #.# #.# #.#
+     11  Biweekly #,#.# #,#.# #,#.# #,#.# #,#.# #,#.#
+     11  Annual #,#.# #,#.# #,#.# #,#.# #,#.# #,#.#
+      3  Hourly #.# #.# #.#
+      3  Biweekly #,#.# #,#.# #,#.#
+      2  Biweekly #,#.# # ,#.# #,#.# # ,#.# # ,#.#
+      2  Monthly #,#.# #,#.# #,#.# #,#.# #,#.#
+      2  Annual #,#.# #,#.# #,#.# #,#.# #,#.#
+
+MULTI-COLUMN PAGES: 16 of 161
+  10,24,35,50,60,78,81-83,90,92,94-96,103,107
+
+SECTION HEADING CANDIDATES (pdftotext reading order)
+  [     0] dashed_section (e.g. 99-9. Title.)
+  [     0] dashed_section_no_period (e.g. 99-9 Title)
+  [     0] chapter_word (CHAPTER 9)
+  [     0] subchapter_word (SUBCHAPTER 9)
+  [    22] section_word (Section 9)
+           e.g. Section 1
+           e.g. Section 6
+           e.g. Section 11
+           e.g. Section 5
+  [    12] part_word (PART I)
+           e.g. PART I
+           e.g. PART IV
+           e.g. PART I
+           e.g. PART IV – ELECTED OFFICIALS
+  [     0] numbered_caps_sub (9. CAPS)
+  [   201] pay_range (Pay Range ...)
+           e.g. Pay Range 1AX
+           e.g. Pay Range 2SX
+           e.g. Pay Range 856P*
+           e.g. Pay Range 7AN
+  [  1180] all_caps_line
+           e.g. UPDATED THROUGH 11/4/26 COMMON COUNCIL MEETING
+           e.g. ASSOCIATE LIBRARY DIRECTOR (4)
+           e.g. DIRECTOR OF COMMUNITY RELATIONS AND PARTNERSHIPS (14)
+           e.g. COURT ACCOUNTING ASSISTANT (2)
+  [     0] dot_leader_entry (Title .... N)
+
+HISTORY / AMENDMENT NOTE CANDIDATES
+  [     0] 'history'
+  [     1] 'ord.'
+           to an employee’s record. Longevity increases will happen once per year as allowed per the Budge
+  [     0] 'amended'
+  [     4] 'created'
+           same department. Such adjustment is to be administered per the guidelines created and maintaine
+           guidelines created and maintained by the Department of Employee Relations.
+           per the guidelines created and maintained by the Department of Employee Relations.
+           per the guidelines created and maintained by the Department of Employee Relations.
+  [     0] 'renumbered'
+  [     0] 'eff.'
+  [    14] 'file'
+           shall be as follows. (Per File #231364)
+           2) For the 2024-2028 term of office, commencing Pay Period 10, 2024, the salary of the City Att
+           Treasurer shall be as follows. (Per File #231364)
+           4) For the 2024-2028 term of office, commencing Pay Period 10, 2024, the salary of the Comptrol
+           Judge shall be as follows. (Per File #231364). Controlling Wis. Stat. 755.04.
+           (Common Council member) shall be as follows. (Per File #231364) This rate is authorized and
+           Council President shall be as follows. (Per File #231364) This rate is authorized and provided
+           A. Official Rates: Hourly, daily, biweekly and annual rates of pay are listed in sections of th
+           the Chair of the Finance and Personnel Committee made under this section may file with the City
+           a. Effective Pay Period 4, 2015 (February 1, 2015) general city employees enrolled as members o
+  Specific history structures:
+  [     0] (HISTORY: ...) opener
+  [     0] LEGISLATIVE HISTORY table title
+  [     0] 'For (the) legislative history of chapter' pointer
+  [     0] statute source note (S. ... Stats ...)
+
+TABLES DETECTED BY pdfplumber (ruled-line strategy): 145 pages
+  p1 table 1:
+      PART I | RATES OF PAY | 2
+      Section 1 | Officials and Administrat | 2
+  p1 table 2:
+      PART II | ADMINISTRATION | 141
+      Section 1 | Organization | 141
+  p1 table 3:
+      PART III | BOARDS AND COMMISSIONS: C | 152
+      PART IV | ELECTED OFFICIALS | 153
+  p2 table 1:
+      FLEET TRAINING SUPERVISOR
+      POLICE OFFICE SUPERVISOR
+  p3 table 1:
+      Hourly
+      Biweekly
+  p3 table 2:
+      Biweekly
+      Annual
+  p3 table 3:
+      BUILDING SERVICES SUPERVI
+      FORENSIC PROCESSOR SUPERV
+  p3 table 4:
+      Hourly
+      Biweekly
+  p3 table 5:
+      Biweekly
+      Annual
+  p3 table 6:
+      Biweekly
+      Annual
+  p3 table 7:
+      PARKING ENFORCEMENT SUPER
+      TOW LOT SUPERVISOR (2)
+  p4 table 1:
+      Hourly
+      Biweekly
+  p4 table 2:
+      ADMINISTRATIVE SERVICES S
+      BUILDING OPERATIONS SUPER
+  p4 table 3:
+      Hourly
+      Biweekly
+  p4 table 4:
+      Biweekly
+      Annual
+  p4 table 5:
+      Biweekly
+      Annual
+  p4 table 6:
+      Biweekly
+      Annual
+  p5 table 1:
+      BRIDGE OPERATOR SUPERVISO
+      DPW INVENTORY AND PURCHAS
+  p5 table 2:
+      Hourly
+      Biweekly
+  p5 table 3:
+      Biweekly
+      Annual
+  p5 table 4:
+      Biweekly
+      Annual
+  p5 table 5:
+      Biweekly
+      Annual
+  p5 table 6:
+      Biweekly
+      Annual
+  p5 table 7:
+      BOZA ADMINISTRATIVE SUPER
+      ELECTION OPERATIONS MANAG
+  p6 table 1:
+      FIRE DISPATCH ASSISTANT M
+      FLEET OPERATIONS AND TRAI
+  p6 table 2:
+      Hourly
+      Biweekly
+  p6 table 3:
+      Biweekly
+      Annual
+  p6 table 4:
+      Biweekly
+      Annual
+  p6 table 5:
+      Biweekly
+      Annual
+  p6 table 6:
+      Biweekly
+      Annual
+  p6 table 7:
+      Biweekly
+      Annual
+  p7 table 1:
+      Biweekly
+      Annual
+  p7 table 2:
+      CIVIC ENGAGEMENT SERVICES
+      COMMUNITY VIOLENCE PREVEN
+  p8 table 1:
+      Hourly
+      Biweekly
+  p8 table 2:
+      Biweekly
+      Annual
+  p8 table 3:
+      Biweekly
+      Annual
+  p8 table 4:
+      Biweekly
+      Annual
+  p8 table 5:
+      Biweekly
+      Annual
+  p8 table 6:
+      Biweekly
+      Annual
+  p8 table 7:
+      Biweekly
+      Annual
+  p8 table 8:
+      Biweekly
+      Annual
+  p8 table 9:
+      Biweekly
+      Annual
+  p8 table 10:
+      Biweekly
+      Annual
+  p8 table 11:
+      CITY CHANNEL MANAGER (9)
+      COUNCIL ADMINISTRATION MA
+  p9 table 1:
+      COURT OPERATIONS SUPERVIS
+      DATA SERVICES MANAGER (13
+  p9 table 2:
+      Hourly
+      Biweekly
+  p10 table 1:
+      Biweekly
+      Annual
+  p10 table 2:
+      Biweekly
+      Annual
+  p10 table 3:
+      Biweekly
+      Annual
+  p10 table 4:
+      Biweekly
+      Annual
+  p10 table 5:
+      Biweekly
+      Annual
+  p10 table 6:
+      Biweekly
+      Annual
+  p10 table 7:
+      Biweekly
+      Annual
+  p10 table 8:
+      Biweekly
+      Annual
+  p10 table 9:
+      Biweekly
+      Annual
+  p10 table 10:
+      Biweekly
+      Annual
+  p10 table 11:
+      Biweekly
+      Annual
+  p10 table 12:
+      Biweekly
+      Annual
+  p11 table 1:
+      Biweekly
+      Annual
+  p11 table 2:
+      Biweekly
+      Annual
+  p11 table 3:
+      Biweekly
+      Annual
+  p11 table 4:
+      BOZA ADMINISTRATIVE MANAG
+      BUILDING MAINTENANCE SUPE
+  p12 table 1:
+      Hourly
+      Biweekly
+  p12 table 2:
+      Biweekly
+      Annual
+  p12 table 3:
+      Biweekly
+      Annual
+  p12 table 4:
+      Biweekly
+      Annual
+  p12 table 5:
+      Biweekly
+      Annual
+  p12 table 6:
+      Biweekly

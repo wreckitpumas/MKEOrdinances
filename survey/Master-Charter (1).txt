@@ -1,0 +1,172 @@
+SURVEY: Master-Charter (1).pdf
+========================================================================
+Pages: 342
+Page sizes (pts): 612x792 (342 pages)
+Pages with a text layer: 341 of 342
+Pages with NO text layer: 2
+Very short pages (<200 chars): 16: 1,6-8,12,34,98,122,132,152,156,223-224,264,316,342
+
+HEADER CANDIDATES (most frequent first-3 lines, digits shown as #)
+     25  CHAPTER #
+     18  Firefighters’ Annuity And Benefit Fund #-#-#
+     18  #-#-# Firefighters’ Annuity And Benefit Fund
+     15  #-#-# Policemen's Annuity
+     15  #-#-# Employes’ Retirement System
+     14  Policemen's Annuity #-#-#
+     11  Employes’ Retirement System #-#-#
+      9  #-# Improvements And Special Assessments
+      8  #/#/# -#-
+      8  Employes’ Retirement System #-#
+      6  Duties and Authority of City Officers #-#
+      6  Emergency Management And
+
+FOOTER CANDIDATES (most frequent last-3 lines, digits shown as #)
+    150  -#- #/#/#
+    146  #/#/# -#-
+     12  #.)
+     11  -#a- #/#/#
+     10  #/#/# -#b-
+      3  #, #.)
+      3  #/#/#
+      3  -#-
+      2  [This page blank]
+      2  #-# am # #/#/# #/#/#
+      2  #-#-#-b am # #/#/# #/#/#
+      2  [Pages # to # are blank]
+
+MULTI-COLUMN PAGES: 316 of 342
+  3,9-11,13-33,35-39,41-69,71-97,99-113,115-119,121,123-131,133-141,143-151,153-155,157-209,211-222,225-263,265-297,299-315,317-341
+
+SECTION HEADING CANDIDATES (pdftotext reading order)
+  [   377] dashed_section (e.g. 99-9. Title.)
+           e.g. 1-01. Incorporation of City. 1. A MUNICIPAL
+           e.g. 6-21. Cooperation. 1. The city may cooperate
+           e.g. 12-01. Sewer District, Entire City as One;
+           e.g. 17-18. Power to Provide Place for Those
+  [   126] dashed_section_no_period (e.g. 99-9 Title)
+           e.g. 1-05 City Boundaries And Property
+           e.g. 11-09 Improvements And Special Assessments
+           e.g. 20-06 Miscellaneous Provisions
+           e.g. 35-01-24 Policemen's Annuity
+  [    26] chapter_word (CHAPTER 9)
+           e.g. CHAPTER 1
+           e.g. CHAPTER 6
+           e.g. CHAPTER 13
+           e.g. CHAPTER 17
+  [     0] subchapter_word (SUBCHAPTER 9)
+  [    11] section_word (Section 9)
+           e.g. Section 3-26-2 am., Ch. Ord. 61, File #51261,
+           e.g. Section 3-29-1 am., File #130365, Sept. 24,
+           e.g. Section 19-03 am. File
+           e.g. Section 19-09 am. File
+  [     0] part_word (PART I)
+  [     2] numbered_caps_sub (9. CAPS)
+           e.g. 1. TEMPORARY VACANCIES. If during the
+           e.g. 1. COUNCIL APPROVAL. In all cities of the
+  [     0] pay_range (Pay Range ...)
+  [   375] all_caps_line
+           e.g. MILWAUKEE
+           e.g. PAYMENTS TO CONTRACTOR.
+           e.g. STATE OF WISCONSIN )
+           e.g. RE-ENTRANCE INTO SERVICE.
+  [    30] dot_leader_entry (Title .... N)
+           e.g. City Boundaries and Property..............................................................
+           e.g. Commissioner of Building Inspection and City Engineer ....................................
+           e.g. Purchasing ...............................................................................
+           e.g. Policemen's Annuity and Benefit Fund .....................................................
+
+HISTORY / AMENDMENT NOTE CANDIDATES
+  [   109] 'history'
+           (HISTORY: Section 1-03 am. Ch. Ord.
+           (HISTORY: S. 925-135d, Stats. 1919.
+           (HISTORY: Section 4-06 rc. Ch. Ord. 339, File
+           (HISTORY: Section 5-11 am., Ch. Ord. 323,
+           (HISTORY: Section 7-14 am. Ch. Ord. 310, File
+           (HISTORY: Section 8-01 rc. File #880330,
+           (HISTORY: S. 1, Ch. Ord. 257, Feb. 2, 1960.
+           16--(HISTORY) Purchasing
+           (HISTORY: Section 18-10 rc. Ch. Ord. 461,
+           (HISTORY: Section 19-15 am. Ch. Ord. 463,
+  [   430] 'ord.'
+           (HISTORY: Section 1-03 am. Ch. Ord.
+           S. 62.11(5) Stats., made applicable by Ord. 203, F#50790,
+           Ord. 374, File #68-2596-a, Oct. 5, 1971.
+           and s. 11-28 of this charter. (S. 1, Ch. Ord. 240,
+           (HISTORY: Section 19-13 am. Ch. Ord.
+           cr. Ch. Ord. 415, File #73-1841, Oct. 8, 1974.)
+           f am. Ch. Ord. 556, File #85-769, Dec. 4, 1985;
+           (Subd. 1 am. Ch. Ord. 552, File #85-118-a, July 16, 1985,
+           which he was absent. (Par. g cr. Ch. Ord. 382,
+           (Sub. 3 am. Ch. Ord. 477, File #79-693, July 24,
+  [    82] 'amended'
+           revoked and amended in the same manner.
+           as further amended by common council
+           of Wisconsin for 1874, as amended by s. 16, ch.
+           am = amended
+           subsection, as amended, provided said
+           of chapter 165, laws of 1903, as amended, or
+           155, laws of 1937, as amended, whose
+           amended, or under and by virtue of subsections
+           based upon amended contract between such city
+           be entitled to survivorship benefits under s. 3605-8, as amended, in the same amounts and
+  [    67] 'created'
+           created by this act (Ch. 184, L. 1874). This
+           which may have accrued to, or been created
+           rc = repealed and recreated
+           and when created, such utility shall have all of
+           rc = repealed and recreated
+           was created, then the annual charge for
+           any firefighters’ pension fund, created and
+           the firefighters’ annuity and benefit fund created
+           created and maintained under and by virtue of
+           fund created under s. 36-08-9. (Sub. 8.5 cr. File
+  [     6] 'renumbered'
+           am = amended ra = renumbered and amended rn = renumbered
+           ra = renumbered and amended
+           rn = renumbered
+           ra = renumbered and amended
+           rn = renumbered
+           21, 1972; Par. b renumbered b-1, File #921978, Apr. 8,
+  [   764] 'eff.'
+           #86-802, Feb. 3, 1987; eff. Apr. 20, 1987.
+           7-01-2 rc. File #880330, Feb. 14, 1989; eff.
+           eff. Dec. 13, 1995.)
+           #921113, Oct. 30, 1992; eff. Jan. 18, 1993.)
+           Sub. 12-a am. File #070075, May 8, 2007; eff. July 24,
+           Par. c am. File #100286, July 27, 2010; eff. Oct. 2,
+           eff. Aug. 10, 2013.)
+           1988; eff. March 13, 1989. Subd. 3 am. File #890633,
+           15, 1986; eff. June 30, 1986. Sub. 3 am. File
+           2010; eff. April 5 2010. Par. m am. File #091308,
+  [  1252] 'file'
+           properly attested such survey may be filed in
+           5-02-6-b-2 am., File #160453, July 26, 2016;
+           8-04 am. Ch. Ord. 498, File #79-1280, Jan. 20,
+           S. 15-11 rc., File #180678, Oct. 16, 2018; eff.
+           hereby repealed. (Par. m am. Ch. Ord. 305, File
+           1989; eff. Oct. 14, 1989. Sub. 12 am. File #902072,
+           April 19, 2005. Par. d rc. File #041775, May 3, 2005;
+           Oct. 17, 1994. Subd. 2 am. File #950869, October 17,
+           to increase costs. (Subd. 10 rc. Ch. Ord. 379, File
+           additional contributions. (Par. f rc. Ch. Ord. 375, File
+  Specific history structures:
+  [   103] (HISTORY: ...) opener
+           (HISTORY: Section 1-03 am. Ch. Ord.
+           (HISTORY: Section 1-06 am. Ch. Ord.
+           (HISTORY: Section 1-04 cr. Ch. Ord. 38,
+  [     2] LEGISLATIVE HISTORY table title
+           LEGISLATIVE HISTORY
+           LEGISLATIVE HISTORY
+  [     0] 'For (the) legislative history of chapter' pointer
+  [     3] statute source note (S. ... Stats ...)
+           (S. 925-21b Stats., 1907.)
+           (S. 925-269m Stats. 1919.)
+           (S. 925-6a Stats. 1921.)
+
+TABLES DETECTED BY pdfplumber (ruled-line strategy): 1 pages
+  p136 table 1:
+      c-4. If any monthly insta
+      made during the months of
+  p136 table 2:
+      (HISTORY: Section 19-15 a
+      File #78-435, June 29, 19
