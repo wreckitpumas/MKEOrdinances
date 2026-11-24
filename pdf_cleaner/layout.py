@@ -133,6 +133,7 @@ def _words_from_run(chars: list[dict], axis: str) -> list[Word]:
         )
         cur.clear()
 
+    chars = _real_spaces(chars, axis)
     prev = None
     for c in chars:
         if c["text"].isspace() or c["text"] == "":
@@ -152,6 +153,33 @@ def _words_from_run(chars: list[dict], axis: str) -> list[Word]:
         prev = c
     flush()
     return words
+
+
+def _real_spaces(chars: list[dict], axis: str) -> list[dict]:
+    """Keep a whitespace character only if it lies on the run's baseline and in
+    a real gap between its neighbors. Stray spaces from an adjacent line that
+    fall inside the row tolerance would otherwise split words ("DISTR ICTS")."""
+    out = []
+    n = len(chars)
+    for i, c in enumerate(chars):
+        if not c["text"].isspace():
+            out.append(c)
+            continue
+        prev = next((chars[k] for k in range(i - 1, -1, -1) if not chars[k]["text"].isspace()), None)
+        nxt = next((chars[k] for k in range(i + 1, n) if not chars[k]["text"].isspace()), None)
+        if prev is None or nxt is None:
+            out.append(c)
+            continue
+        if axis == "h":
+            size = max(prev["size"], 1.0)
+            gap = nxt["x0"] - prev["x1"]
+        else:
+            size = max(prev["x1"] - prev["x0"], 1.0)  # font size of rotated text
+            gap = (prev["top"] - nxt["bottom"]) if axis == "up" else (nxt["top"] - prev["bottom"])
+        if gap < 0.1 * size:
+            continue  # a space with no room between its neighbors is not a word break
+        out.append(c)
+    return out
 
 
 def group_rows(chars: list[dict]) -> list[list[dict]]:
@@ -197,7 +225,16 @@ def rotated_runs(chars: list[dict]) -> list[tuple[str, list[dict]]]:
 
 
 def text_of_chars(chars: list[dict]) -> str:
-    """Reading-order text of an arbitrary set of characters (any orientation)."""
+    """Reading-order text of an arbitrary set of characters (any orientation).
+
+    Lines are joined with newlines, except that a line ending in a hyphen is
+    joined to the next line without a space (the hyphen is kept), as in a
+    rotated table header "RS1-" / "RS5"."""
+    text = _text_of_chars(chars)
+    return re.sub(r"(?<=\w-)\n(?=\w)", "", text)
+
+
+def _text_of_chars(chars: list[dict]) -> str:
     parts = []
     horiz = [c for c in chars if orientation(c) == "h"]
     for row in group_rows(horiz):

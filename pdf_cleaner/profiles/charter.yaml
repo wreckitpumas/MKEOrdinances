@@ -17,7 +17,8 @@ footer:
   last_rows_any_position: 2
   patterns:
     - '^-\s*[\divxlc]+[A-Za-z]?\s*-\s+\d{1,2}/\d{1,2}/\d{2,4}$'
-    - '^\d{1,2}/\d{1,2}/\d{2,4}\s+-\s*[\divxlc]+[A-Za-z]?\s*-$'
+    # The closing dash is sometimes missing: "11/22/2016 -602" (survey: V1 p486)
+    - '^\d{1,2}/\d{1,2}/\d{2,4}\s+-\s*[\divxlc]+[A-Za-z]?\s*-?$'
     - '^-\s*[\divxlc]+[A-Za-z]?\s*-$'
     # Front matter roman numeral page numbers: "v", "vi"
     - '^[ivxlc]+$'
