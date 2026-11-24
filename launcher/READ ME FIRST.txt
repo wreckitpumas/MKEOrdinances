@@ -16,7 +16,18 @@ START IT
            (if macOS blocks it the first time: right-click the file, choose Open, then Open)
 - Linux:   run ./"Start PDF Cleaner.sh" in a terminal
 
-The first start takes a minute or two while it sets up. Later starts are quick.
+The first start on each computer takes a minute or two while it sets up
+(it needs internet that one time). Later starts are quick. The setup is stored
+on the computer, not in this folder, so this folder can live on a flash drive.
+
+IF SETUP FAILS
+The launcher window explains the likely cause, and everything it did is saved
+in "PDF Cleaner setup log.txt" in this folder. Common fixes:
+- No internet or a work firewall: try another network (a phone hotspot) once.
+- Certificate (SSL) errors on a work network: ask IT to allow pypi.org and
+  files.pythonhosted.org, or use another network once.
+- A very new Python: Python 3.12 or 3.13 from python.org is the safest choice.
+If it still fails, send the setup log file.
 Your browser opens the PDF Cleaner page. Keep the launcher window open while
 you use it; close it to stop.
 
