@@ -60,7 +60,14 @@ This writes `dist/PDF Cleaner.zip`, which contains the cleaner, the profiles, `R
 - `Start PDF Cleaner.command` (Mac)
 - `Start PDF Cleaner.sh` (Linux)
 
-On first start, `launch.py` creates a private `.venv` inside the unzipped folder and installs `app requirements.txt`; this needs internet once. It then opens the browser page. The only thing the computer needs beforehand is Python 3.10 or newer. `pdftotext` is optional: without it the extra cross-checks are skipped and the completeness check still runs. The zip is not committed (`dist/` is ignored).
+On first start on each computer, `launch.py` creates a private Python environment on that computer (for example `%LOCALAPPDATA%\PDF Cleaner` on Windows, `~/Library/Application Support/PDF Cleaner` on a Mac), not in the unzipped folder, so the folder can run from a flash drive.
+
+- **Packages:** it updates pip, installs `app requirements.txt`, then installs `optional requirements.txt` (the anthropic package). If the optional install fails, the cleaner still starts and only the Claude checkbox is unavailable.
+- **Setup log:** everything is shown in the window and saved to `PDF Cleaner setup log.txt` next to the launcher.
+- **What the computer needs:** Python 3.10 or newer, plus internet the first time on each computer.
+- **pdftotext is optional:** without it the extra cross-checks are skipped and the completeness check still runs.
+
+The zip is not committed (`dist/` is ignored).
 
 Options: `--model` (or env `PDF_CLEANER_MODEL`, default `claude-haiku-5-5`), `--batch` (Message Batches API, half price, results can take up to a day), `--cache-dir` (default `.api_cache`), `--profile <name or path>` (default: chosen by file name), `--pages 380-470` and `--max-pages N` for quick tests.
 
