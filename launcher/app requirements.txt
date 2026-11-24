@@ -1,0 +1,4 @@
+pdfplumber==0.11.10
+pypdf==6.17.0
+PyYAML==6.0.3
+anthropic==2.13.0

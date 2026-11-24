@@ -1,0 +1,42 @@
+PDF CLEANER
+===========
+
+Turns the Milwaukee Charter, Code of Ordinances, Positions Ordinance and
+Salary Ordinance PDFs into cleaned, structured .txt files. Everything runs on
+your computer; nothing is uploaded anywhere.
+
+WHAT YOU NEED
+- Python 3.10 or newer (https://www.python.org/downloads/).
+  On Windows, tick "Add python.exe to PATH" during setup.
+- Internet the first time only, to download the required packages.
+
+START IT
+- Windows: double-click "Start PDF Cleaner.bat"
+- Mac:     double-click "Start PDF Cleaner.command"
+           (if macOS blocks it the first time: right-click the file, choose Open, then Open)
+- Linux:   run ./"Start PDF Cleaner.sh" in a terminal
+
+The first start takes a minute or two while it sets up. Later starts are quick.
+Your browser opens the PDF Cleaner page. Keep the launcher window open while
+you use it; close it to stop.
+
+USE IT
+1. Drop a PDF onto the page (or click to choose one).
+2. Leave "Detect from file name" for the usual file names
+   (Master-Charter, Master-V1/V2/V3, Positions-Ordinance, Salary-Ordinance),
+   or pick the document type from the list.
+3. Click "Clean PDF". The large Code volumes take a few minutes.
+4. Click "Download .txt" (and "Download manifest .json" if you want it).
+
+The "Lost characters" box should show 0: every letter and digit in the PDF
+appears in the .txt (page headers and footers are removed on purpose).
+
+OPTIONAL: CLAUDE FOR FLAGGED TABLES
+A few complex zoning tables can be tidied with Claude. To enable the
+checkbox, create a file named ".env" next to this file containing:
+    ANTHROPIC_API_KEY=your-key-here
+Only flagged tables are sent, and results are cached.
+
+OPTIONAL: EXTRA CHECKS
+If poppler's "pdftotext" is installed, each run also cross-checks the text
+against a second extractor. Without it, those extra checks are skipped.

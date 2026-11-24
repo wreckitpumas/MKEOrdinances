@@ -49,6 +49,19 @@ This opens `http://127.0.0.1:8765/` in your browser. Drop in a PDF (or click to 
 - "Use Claude for flagged tables" is available only when `ANTHROPIC_API_KEY` is set.
 - Large Code volumes take a few minutes.
 
+### Zip package with a double-click launcher
+
+```bash
+python3 scripts/build_zip.py
+```
+
+This writes `dist/PDF Cleaner.zip`, which contains the cleaner, the profiles, `READ ME FIRST.txt` and three launchers:
+- `Start PDF Cleaner.bat` (Windows)
+- `Start PDF Cleaner.command` (Mac)
+- `Start PDF Cleaner.sh` (Linux)
+
+On first start, `launch.py` creates a private `.venv` inside the unzipped folder and installs `app requirements.txt`; this needs internet once. It then opens the browser page. The only thing the computer needs beforehand is Python 3.10 or newer. `pdftotext` is optional: without it the extra cross-checks are skipped and the completeness check still runs. The zip is not committed (`dist/` is ignored).
+
 Options: `--model` (or env `PDF_CLEANER_MODEL`, default `claude-haiku-5-5`), `--batch` (Message Batches API, half price, results can take up to a day), `--cache-dir` (default `.api_cache`), `--profile <name or path>` (default: chosen by file name), `--pages 380-470` and `--max-pages N` for quick tests.
 
 ## Output

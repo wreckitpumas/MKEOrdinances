@@ -148,8 +148,17 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--cache-dir", default=os.environ.get("PDF_CLEANER_CACHE", ".api_cache"))
     args = ap.parse_args(argv)
     load_dotenv(Path(".env"))
-    srv = make_server("127.0.0.1", args.port, Path(args.cache_dir), args.model)
-    url = f"http://127.0.0.1:{args.port}/"
+    srv = None
+    for port in range(args.port, args.port + 20):  # use the next free port if this one is taken
+        try:
+            srv = make_server("127.0.0.1", port, Path(args.cache_dir), args.model)
+            break
+        except OSError:
+            continue
+    if srv is None:
+        print(f"No free port between {args.port} and {args.port + 19}.", file=sys.stderr)
+        return 1
+    url = f"http://127.0.0.1:{srv.server_address[1]}/"
     print(f"pdf_cleaner web: {url}  (Ctrl+C to stop)", file=sys.stderr)
     if not args.no_browser:
         threading.Timer(0.5, lambda: webbrowser.open(url)).start()

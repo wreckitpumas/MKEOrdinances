@@ -16,3 +16,6 @@ __pycache__/
 .pytest_cache/
 *.egg-info/
 .venv/
+
+# Built zip package (scripts/build_zip.py)
+dist/

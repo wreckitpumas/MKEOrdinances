@@ -12,6 +12,7 @@ from __future__ import annotations
 
 import random
 import re
+import shutil
 import subprocess
 from collections import Counter
 from pathlib import Path
@@ -77,7 +78,16 @@ def pdftotext_pages(pdf: Path, first: int, last: int) -> str:
     return res.stdout.decode("utf-8", "replace")
 
 
+def have_pdftotext() -> bool:
+    """pdftotext (poppler-utils) is optional. Without it the independent
+    cross-check and spot checks are skipped; the completeness check still runs."""
+    return shutil.which("pdftotext") is not None
+
+
 def text_layer_crosscheck(pdf: Path, char_text_by_page: dict[int, str]) -> dict:
+    if not have_pdftotext():
+        return {"skipped": "pdftotext not installed", "pdfplumber_alnum_chars": None, "pdftotext_alnum_chars": None,
+                "only_in_pdfplumber": None, "only_in_pdftotext": None}
     ours = Counter()
     for t in char_text_by_page.values():
         ours.update(alnum_counter(t))
@@ -100,6 +110,8 @@ def _words(text: str) -> list[str]:
 
 
 def spot_check_sections(pdf: Path, doc, n: int = 5, seed: int = 0) -> list[dict]:
+    if not have_pdftotext():
+        return []
     rng = random.Random(seed)
     secs = [s for s in doc.sections if s.get("level") == 3] or doc.sections
     if not secs:
@@ -142,6 +154,8 @@ def _pieces_present(word: str, vocab: set[str]) -> bool:
 
 
 def spot_check_tables(pdf: Path, tables, n: int = 3, seed: int = 0) -> list[dict]:
+    if not have_pdftotext():
+        return []
     rng = random.Random(seed)
     live = [t for t in tables if t.merged_into is None]
     picks = rng.sample(live, min(n, len(live)))

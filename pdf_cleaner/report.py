@@ -118,8 +118,9 @@ def write_report(results: list, out_dir: Path, *, llm_mode: str, model: str, dry
     for r in results:
         c = r.manifest["checks"]["completeness"]
         x = r.manifest["checks"]["text_layer_crosscheck"]
+        layer = "skipped (pdftotext not installed)" if x.get("skipped") else f"{x['pdfplumber_alnum_chars']} / {x['pdftotext_alnum_chars']}"
         a(
-            f"| {r.name} | {x['pdfplumber_alnum_chars']} / {x['pdftotext_alnum_chars']} | {c['removed_running_text_chars']} | "
+            f"| {r.name} | {layer} | {c['removed_running_text_chars']} | "
             f"{c['output_chars']} | {c['lost_chars']} | {c['extra_chars']} |"
         )
     a("")
@@ -136,7 +137,7 @@ def write_report(results: list, out_dir: Path, *, llm_mode: str, model: str, dry
         for t in ts:
             a(f"- table `{t['table']}` (p{t['pages']}, {t['rows']} rows): {t['result']}. {t['detail']}")
         if not ss and not ts:
-            a("- nothing to sample")
+            a("- skipped (pdftotext not installed)" if r.manifest["checks"]["text_layer_crosscheck"].get("skipped") else "- nothing to sample")
         a("")
     path = out_dir / "extraction_report.md"
     path.write_text("\n".join(L) + "\n", encoding="utf-8")
