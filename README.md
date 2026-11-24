@@ -35,6 +35,20 @@ python3 -m pdf_cleaner "$PDF_DIR" --out output
 python3 -m pdf_cleaner.compare old_cleaned.txt output/Master-V1_cleaned.txt --out compare.md
 ```
 
+### Browser page
+
+```bash
+python3 -m pdf_cleaner.web
+```
+
+This opens `http://127.0.0.1:8765/` in your browser. Drop in a PDF (or click to choose one), press **Clean PDF**, and download the cleaned `.txt` (and the manifest `.json` if you want it). The page shows page, section, table and history note counts, the lost-character check, and a preview.
+
+- It runs the same pipeline as the command line, on your computer only (it listens on 127.0.0.1).
+- The uploaded PDF goes to a temporary folder that is deleted after each request.
+- The document type is detected from the file name; for other file names, pick it from the list.
+- "Use Claude for flagged tables" is available only when `ANTHROPIC_API_KEY` is set.
+- Large Code volumes take a few minutes.
+
 Options: `--model` (or env `PDF_CLEANER_MODEL`, default `claude-haiku-5-5`), `--batch` (Message Batches API, half price, results can take up to a day), `--cache-dir` (default `.api_cache`), `--profile <name or path>` (default: chosen by file name), `--pages 380-470` and `--max-pages N` for quick tests.
 
 ## Output

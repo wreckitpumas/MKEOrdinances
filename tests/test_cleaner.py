@@ -247,3 +247,32 @@ def test_compare_reports_differences():
     assert "Section headings only in new (1)" in md and "- 999-3" in md
     assert "Tables only in old (1)" in md and "- t-1" in md
     assert "Sections whose text changed beyond whitespace: 0" in md
+
+
+def test_web_endpoint_returns_txt(tmp_path):
+    import threading
+    import urllib.parse
+    import urllib.request
+
+    from pdf_cleaner.web import make_server
+
+    pdf = tmp_path / "web upload one.pdf"
+    build_two_section_pdf(pdf)
+    srv = make_server("127.0.0.1", 0, tmp_path / "cache", "claude-haiku-5-5")
+    port = srv.server_address[1]
+    threading.Thread(target=srv.serve_forever, daemon=True).start()
+    try:
+        q = urllib.parse.urlencode({"filename": pdf.name, "profile": str(PROFILE_PATH), "llm": "0"})
+        req = urllib.request.Request(f"http://127.0.0.1:{port}/api/clean?{q}", data=pdf.read_bytes(), method="POST")
+        data = json.loads(urllib.request.urlopen(req).read())
+        assert data["name"] == "web upload one"
+        assert "### 999-1. Placeholder Alpha." in data["text"]
+        assert data["summary"]["lost_chars"] == 0
+        # A non-PDF upload is refused.
+        bad = urllib.request.Request(f"http://127.0.0.1:{port}/api/clean?{q}", data=b"not a pdf", method="POST")
+        with pytest.raises(urllib.error.HTTPError):
+            urllib.request.urlopen(bad)
+        page = urllib.request.urlopen(f"http://127.0.0.1:{port}/").read().decode()
+        assert "<title>PDF Cleaner</title>" in page
+    finally:
+        srv.shutdown()
