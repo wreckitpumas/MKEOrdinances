@@ -1,0 +1,94 @@
+# Milwaukee Code of Ordinances, volumes 1 to 3 (Master-V1, Master-V2, Master-V3).
+# Every rule below comes from survey/Master-V*.txt. See README for field meanings.
+name: code
+match_filenames: ['^Master-V\d']
+
+# Running headers sit in the top two rows (top < 62pt). Footers sit at >= 715pt.
+header:
+  zone_top_pt: 62
+  max_rows: 2
+  patterns:
+    # "59-7- Health Department", "76-(HISTORY) Industrial Health", "1-05 City Boundaries And Property"
+    - '^\d+[A-Za-z]?(?:-[\w.()]*)+\s+\S.*$'
+    # "Health Department 59-10", "Parks and Parkways 63-(HISTORY)", "Safety in Construction 228- (HISTORY)"
+    - '^\S.*\s\d+[A-Za-z]?(?:-[\w.()]*)+(?:\s*\((?:HISTORY|History)\))?$'
+    # "63-Parks and Parkways"
+    # "63-Parks and Parkways", "59 - Health Department"
+    - '^\d+[A-Za-z]?\s*-\s*[A-Z][^.]*$'
+    - '^Index$'
+    - '^Index \(continued\)$'
+footer:
+  zone_top_pt: 715
+  # Zoning table pages end early; their footer is the last row (survey: V2 p442 footer at 570pt).
+  last_rows_any_position: 2
+  patterns:
+    # "-72- 11/21/2023", "11/21/2023 -73-", "-38a- 7/27/2010", "9/19/2023 - 360 -", "-i- 4/7/2025"
+    - '^-\s*[\divxlc]+[A-Za-z]?\s*-\s+\d{1,2}/\d{1,2}/\d{2,4}$'
+    # The closing dash is sometimes missing: "11/22/2016 -602" (survey: V1 p486)
+    - '^\d{1,2}/\d{1,2}/\d{2,4}\s+-\s*[\divxlc]+[A-Za-z]?\s*-?$'
+    - '^-\s*[\divxlc]+[A-Za-z]?\s*-$'
+    # Front matter roman numeral page numbers: "v", "vi"
+    - '^[ivxlc]+$'
+    # Date and page number on separate rows: "3/20/2012" then "-332-"
+    - '^\d{1,2}/\d{1,2}/\d{2,4}$'
+
+# Editorial page placeholders. Removed and counted in the manifest.
+drop_line_patterns:
+  - '^\[(?:This page (?:is )?blank\.?|Pages? [\d\- to]+ (?:are|is) blank\.?)\]$'
+  - '^Pages? \d+\s*(?:-|to)\s*\d+ are blank\.?$'
+
+columns:
+  detect: true
+  # Two-column layout on most pages (survey). Short left columns (chapter TOCs) still count.
+  min_side_chars: 10
+
+headings:
+  # Bold "59-11." followed by a bold title. The heading is the bold run.
+  section:
+    first_word: '^\d+[A-Za-z]?(?:-\d+[A-Za-z]?(?:\.\d+)?[a-z]?)+\.$'
+    require_bold: true
+  chapter:
+    line: '^CHAPTER \d+[A-Z]?$'
+    require_bold: true
+  subchapter:
+    line: '^SUBCHAPTER \d+[A-Z]?$'
+    # Subchapter headings are set in regular weight (survey: Master-V1 p63).
+    require_bold: false
+
+toc:
+  start_line: '^TABLE$'
+  entry: '^(?:\d+[A-Za-z]?(?:-[\d.]+[A-Za-z]?)+|SUBCHAPTER \d+[A-Z]?)(?:\s|$)'
+
+history:
+  # A paragraph that starts with one of these is a section history note.
+  start_patterns:
+    - '^\((?:HISTORY|History):'
+    - '^\(Subs?\. [\w.,&\- ]+ (?:am|rc|cr|rn|ra|rp|rec|ren)\.'
+    - '^\((?:Cr|Sub\. \d+ rec)\. Ord\.'
+  # These may also begin mid-paragraph; the note is split off at the match.
+  inline_patterns:
+    - '\((?:HISTORY|History):'
+    # Subsection history at the end of a paragraph: "(Sub. 8 rc. File #900632, ... 1990.)"
+    - '\(Subs?\. [\w.,&\- ]+ (?:am|rc|cr|rn|ra|rp|rec|ren)\.[^()]*\)\s*$'
+    - '\((?:Cr|Sub\. \d+ rec)\. Ord\. '
+  # Chapter-level pointer to the Municipal Research Library.
+  chapter_pointer: '^For (?:the )?legislative history of (?:chapter|Chapter) (\d+[A-Z]?)'
+
+text_tables:
+  - kind: legislative_history
+    title_line: '^LEGISLATIVE HISTORY$'
+    header_line: '^Section\s+Action\s+File\s+Passed\s+Effective$'
+    continuation_header: '\((?:HISTORY|History)\)'
+    id_template: 'history-ch{chapter}'
+
+tables:
+  ruled: true
+  # Invisible boxes around ordinary paragraphs produce false tables (survey):
+  # only visible rules count.
+  edges: visible
+  min_rows: 2
+  min_cols: 2
+
+dehyphenate: true
+# Dot leaders (TOC and index pages) are shortened to " .... ".
+collapse_dot_leaders: true

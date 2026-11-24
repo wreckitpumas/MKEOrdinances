@@ -1,0 +1,294 @@
+SURVEY: Master-V2 (1).pdf
+========================================================================
+Pages: 624
+Page sizes (pts): 612x792 (614 pages), 792x612 (10 pages)
+Pages with a text layer: 624 of 624
+Pages with NO text layer: none
+Very short pages (<200 chars): 43: 1-2,6-8,14,22,46,56,64,80,82,84,104,112,176,178,184,192,204,208,218,222,240,256,264,266-267,272-273,284,320,354,365,368,382,426,460,474,502,522,556,586
+
+HEADER CANDIDATES (most frequent first-3 lines, digits shown as #)
+     63  Zoning #-#-#
+     60  #-#-# Zoning
+     38  Table #-#-#
+     38  Index
+     37  CHAPTER #
+     33  Zoning #-#
+     22  #-# Zoning
+     21  #/#/# -#-
+     17  Table #-#-#-a
+     16  Administration and Enforcement #-#-#
+     13  Administration and Enforcement #-#
+     13  LEGISLATIVE HISTORY
+
+FOOTER CANDIDATES (most frequent last-3 lines, digits shown as #)
+    284  -#- #/#/#
+    284  #/#/# -#-
+     12  #/#/# -#b-
+     11  -#a- #/#/#
+     11  #-#-# am # #/#/# #/#/#
+     10  [This page is blank.]
+      9  # - Zoning
+      8  [Pages #-# are blank]
+      6  # - Administration and Enforcement
+      6  #-# am # #/#/# #/#/#
+      6  [Pages # to # are blank.]
+      5  [This page blank]
+
+MULTI-COLUMN PAGES: 320 of 624
+  3,9,11-13,15-20,23-45,47-55,57-62,65-78,81,83,85-103,105-109,111,113-123,126-141,143-175,177,179-183,185-191,193-202,205-206,209-216,219-221,223-239,241-242,244-255,257-263,269-271,275-283,285-295,297-299,301-303,305-315,317-319,321-322,324,384-386,394-398,429-432,440-443,448,450-452,458,462-465,476,483,486-490,495-496,504-507,520-521,524-527,532-535,551,554
+
+SECTION HEADING CANDIDATES (pdftotext reading order)
+  [   440] dashed_section (e.g. 99-9. Title.)
+           e.g. 200-001. Title. Chapters 200 to 295 constitute
+           e.g. 222-01. Adoption of State Code. Except as
+           e.g. 244-9. Wall Signs or Wall Billboards.
+           e.g. 290-3. Design, Criteria, Standards and
+  [   200] dashed_section_no_period (e.g. 99-9 Title)
+           e.g. 200-02 Administration and Enforcement
+           e.g. 222-13-3 Electrical And Elevator Codes
+           e.g. 275-23-5 Building Maintenance
+           e.g. 295-407-5 Zoning
+  [    40] chapter_word (CHAPTER 9)
+           e.g. CHAPTER 200
+           e.g. CHAPTER 225
+           e.g. CHAPTER 246
+           e.g. CHAPTER 264
+  [    69] subchapter_word (SUBCHAPTER 9)
+           e.g. SUBCHAPTER 1
+           e.g. SUBCHAPTER 2
+           e.g. SUBCHAPTER 5
+           e.g. SUBCHAPTER 3
+  [    14] section_word (Section 9)
+           e.g. Section 79-12, littering of premises.
+           e.g. Section 80-17, hay fever weeds, etc.
+           e.g. Section 105-16, icicles on buildings.
+           e.g. Section 217-13-4, locks.
+  [     0] part_word (PART I)
+  [     5] numbered_caps_sub (9. CAPS)
+           e.g. 2. REGULATIONS. a. Basis. Permit fees for
+           e.g. 2. DEFINITIONS. In this section:
+           e.g. 18. EFFECTIVE DATE OF NON-RENEWAL.
+           e.g. 19. EFFECTIVE DATE OF REVOCATION.
+  [     0] pay_range (Pay Range ...)
+  [  1065] all_caps_line
+           e.g. MILWAUKEE CODE
+           e.g. RESPONSIBILITIES OF THE
+           e.g. MANUFACTURED
+           e.g. COMMUNITY-SERVING USES
+  [    52] dot_leader_entry (Title .... N)
+           e.g. Administration and Enforcement ...........................................................
+           e.g. Encroachments, Projections, and Special Privileges .......................................
+           e.g. Zoning ...................................................................................
+           e.g. cooking space .............................................. 210
+
+HISTORY / AMENDMENT NOTE CANDIDATES
+  [    48] 'history'
+           For the legislative history of Chapter 200,
+           For legislative history of chapter 214, contact
+           Electrical And Elevator Codes 222--(History)
+           222--(History) Electrical And Elevator Codes
+           Safety in Construction 228- (HISTORY)
+           For legislative history of chapter 240, contact the
+           Signs And outdoor Advertising 244--(HISTORY)
+           251-(HISTORY) Fire Protection Systems
+           For legislative history of chapter 261,
+           And Air Conditioning 264- (HISTORY)
+  [     8] 'ord.'
+           the landlord.
+           days after billing by the landlord.
+           mortgagee of record.
+           owner of record. Within 30 days of the mailing of
+           Is not supported by the evidence in the record.
+           Is not supported by the evidence in the record.
+           Is not supported by the evidence in the record.
+           per $100 of coverage. A copy of this notice shall be maintained with the floodplain variance re
+  [   123] 'amended'
+           and amended in the same manner. Within the
+           those requirements may be amended by FHA
+           amended, the city of Milwaukee adopts the 2006
+           amended.
+           Code, as amended, except that one of the 2
+           amended, as part of this code.
+           Code, as amended, except that lighted exit signs
+           as amended, as part of this code.
+           Stats., as amended. For appeals, a class 1 notice, published at least 7 days before the hearing
+           chs. 30 and 31, Wis. Stats., as amended.
+  [    58] 'created'
+           Services. 1. CREATED. There is created a
+           district created hereunder shall have a separate
+           rc = repealed and recreated
+           rc = repealed and recreated
+           cr = created
+           For newly created driveways on a
+           cr = created
+           rc = repealed and recreated
+           been created in accordance with the provisions of
+           suitability for specific uses, the combination or division of lots will only be permitted if th
+  [    26] 'renumbered'
+           ra = renumbered and amended
+           ra = renumbered and amended
+           ra = renumbered and amended
+           ra = renumbered and amended
+           ra = renumbered and amended
+           ra = renumbered and amended
+           ra = renumbered and amended
+           ra = renumbered and amended
+           ra = renumbered and amended
+           ra = renumbered and amended
+  [     1] 'eff.'
+           (passed 2/6/90, eff. 2/23/90)
+  [   198] 'file'
+           writing and copies filed in the city clerk’s office
+           fails to file a termination as required under sub. 6,
+           Applications for licenses or renewals shall be filed
+           registration form shall be filed with, and the
+           applicant shall file with the commissioner a
+           writing and placed on file in the office of the
+           the common council file and transmit same to
+           File
+           intent to reconsider the matter has been filed with the city clerk at least 24 hours prior to t
+           commission as part of the city’s comprehensive plan and maintained on file in the office of the
+  Specific history structures:
+  [     0] (HISTORY: ...) opener
+  [    13] LEGISLATIVE HISTORY table title
+           LEGISLATIVE HISTORY
+           LEGISLATIVE HISTORY
+           LEGISLATIVE HISTORY
+  [    15] 'For (the) legislative history of chapter' pointer
+           For the legislative history of Chapter 200,
+           For the legislative history of chapter 200,
+           For legislative history of chapter 214, contact
+  [     0] statute source note (S. ... Stats ...)
+
+TABLES DETECTED BY pdfplumber (ruled-line strategy): 90 pages
+  p12 table 1:
+      4. SPECIAL DEPUTY. The
+      commissioner may designat
+  p23 table 1:
+      3. ENERGY BENCHMARKING. T
+      director of environmental
+  p34 table 1:
+      5. In addition to other a
+      enforcement procedures an
+  p45 table 1:
+      200-23.5. Rental Property
+      1. PURPOSE. The rental pr
+  p45 table 2:
+      c. If no habitability vio
+      discovered during an init
+  p46 table 1:
+      
+      
+  p50 table 1:
+      a-5. Residential or group
+      in structures or sites th
+  p61 table 1:
+      b. If a project includes 
+      accessibility-related imp
+  p61 table 2:
+      13.7. EXEMPTION FOR
+      ACCESSIBILITY IMPROVEMENT
+  p86 table 1:
+      4. REQUIRED INFORMATION.
+      a. Such certificates of o
+  p86 table 2:
+      e. No certificate of occu
+      issued for any site for a
+  p100 table 1:
+      a. “Administrator” means 
+      of environmental sustaina
+  p101 table 1:
+      f. “Building owner” or “o
+      the owner of record of a 
+  p101 table 2:
+       | p. “Tenant” means a perso
+       | occupying or holding poss
+  p102 table 1:
+      c-1-c. Fifty percent or m
+      of the building was physi
+  p102 table 2:
+      d-3. Extension. A buildin
+      apply for a 60-day compli
+  p103 table 1:
+      e-2. Develop and maintain
+      capability to determine w
+  p103 table 2:
+      h. Enforcement. If any bu
+      or person fails, omits, n
+  p153 table 1:
+      Milwaukee | NIULPE | ASOPE
+      Low Pressure Boiler Opera | 5th Class License | Facility Operating Engine
+  p324 table 1:
+      TABLE 295-107-2 |  |  | 
+      ZONING DISTRICTS |  |  | 
+  p371 table 1:
+      d. City Plan Commission. 
+      proposed map amendment.
+  p383 table 1:
+      Table 295-403-2-a NUMBER  |  |  |  |  | 
+      Uses |  |  | No. of Parking Spaces Req |  | 
+  p384 table 1:
+      Table 295-403-2-a NUMBER  |  |  |  |  | 
+       | Uses |  |  | No. of Parking Spaces Req | 
+  p385 table 1:
+      Table 295-403-2-a NUMBER  |  |  |  |  | 
+      Artist studio |  |  | none |  | 
+  p386 table 1:
+      Table 295-403-2-a NUMBER  |  |  |  |  | 
+      General Motor Vehicle |  |  |  |  | 
+  p387 table 1:
+      Table 295-403-2-a NUMBER  |  |  | 
+       | TRANSPORTATION USES |  | 
+  p394 table 1:
+      Table 295-404-1 NUMBER OF |  | 
+      Use | Long-Term Bicycle Parking | Short-Term Bicycle Parkin
+  p395 table 1:
+      Table 295-404-1 NUMBER OF |  | 
+      Use | Long-Term Bicycle Parking | Short-Term Bicycle Parkin
+  p396 table 1:
+      Table 295-404-1 NUMBER OF |  | 
+      Use | Long-Term Bicycle Parking | Short-Term Bicycle Parkin
+  p397 table 1:
+      Table 295-404-1 NUMBER OF |  | 
+      Use | Long-Term Bicycle Parking | Short-Term Bicycle Parkin
+  p398 table 1:
+      Table 295-404-1 NUMBER OF |  | 
+      Use | Long-Term Bicycle Parking | Short-Term Bicycle Parkin
+  p399 table 1:
+      Table 295-404-1 NUMBER OF |  | 
+      Use | Long-Term Bicycle Parking | Short-Term Bicycle Parkin
+  p402 table 1:
+       | Table 295-405-2-b-4 |  |  |  |  |  |  |  |  | 
+       | PLANT SIZE |  |  |  |  |  |  |  |  | 
+  p405 table 1:
+       | Table 295-405-3-a |  |  |  | 
+       | OPTIONS FOR SCREENING PAR |  |  |  | 
+  p406 table 1:
+       | Table 295-405-3-b |  |  |  |  |  |  |  |  |  |  | 
+       | OPTIONS FOR SCREENING LIG |  |  |  |  |  |  |  |  |  |  | 
+  p408 table 1:
+       | Table 295-405-4-a |  |  |  |  |  |  |  |  |  | 
+       | OPTIONS FOR SCREENING HEA |  |  |  |  |  |  |  |  |  | 
+  p409 table 1:
+       | Table 295-405-4-b |  |  |  |  |  |  |  |  |  | 
+       | OPTIONS FOR SCREENING HEA |  |  |  |  |  |  |  |  |  | 
+  p409 table 2:
+       | Table 295-405-5-a |  |  |  |  |  |  |  |  |  | 
+       | OPTIONS FOR SCREENING OUT |  |  |  |  |  |  |  |  |  | 
+  p410 table 1:
+       | Table 295-405-5-b |  |  |  | 
+       | OPTIONS FOR SCREENING OUT |  |  |  | 
+  p411 table 1:
+       | TABLE 295-405-6-a |  |  |  |  |  |  |  |  | 
+       | OPTIONS FOR SCREENING MEC |  |  |  |  |  |  |  |  | 
+  p411 table 2:
+       | TABLE 295-405-6-b |  |  |  |  |  |  |  |  | 
+       | OPTIONS FOR SCREENING LOA |  |  |  |  |  |  |  |  | 
+  p412 table 1:
+       | TABLE 295-405-6-c |  |  |  |  |  |  |  |  |  | 
+       | OPTIONS FOR SCREENING OUT |  |  |  |  |  |  |  |  |  | 
+  p429 table 1:
+      Table 295-503-1 RESIDENTI |  |  |  |  |  |  |  |  |  | 
+      Y = Permitted Use L = Lim |  |  | Zoning Districts |  |  |  |  |  |  | 
+  ... (90 pages total; list truncated to fit 300 lines)
+  all table pages: 12,23,34,45-46,50,61,86,100-103,153,324,371,383-387,394-399,402,405-406,408-412,429-433,440-443,446,448,450-452,458,462-466,476,483-484,486-490,495-496,500,504-507,514,516,520-521,524-528,531-536,539-540,551,554,587,622

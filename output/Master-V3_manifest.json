@@ -1,0 +1,9773 @@
+{
+ "source_pdf": "Master-V3 (1).pdf",
+ "pdf_sha256": "885555e1bed19798ebfcfe805f32160b440950bd4b67666c6afaeb2eb0f2a4a5",
+ "profile": "code",
+ "pages": 364,
+ "pages_without_text_layer": [
+  2
+ ],
+ "multi_column_pages": 239,
+ "page_map": [
+  {
+   "page": 1,
+   "start": 0,
+   "end": 149
+  },
+  {
+   "page": 3,
+   "start": 149,
+   "end": 796
+  },
+  {
+   "page": 4,
+   "start": 796,
+   "end": 1917
+  },
+  {
+   "page": 5,
+   "start": 1917,
+   "end": 3135
+  },
+  {
+   "page": 7,
+   "start": 3135,
+   "end": 3298
+  },
+  {
+   "page": 9,
+   "start": 3298,
+   "end": 7176
+  },
+  {
+   "page": 10,
+   "start": 7176,
+   "end": 10615
+  },
+  {
+   "page": 11,
+   "start": 10615,
+   "end": 14480
+  },
+  {
+   "page": 12,
+   "start": 14480,
+   "end": 16962
+  },
+  {
+   "page": 13,
+   "start": 16962,
+   "end": 17520
+  },
+  {
+   "page": 15,
+   "start": 17520,
+   "end": 21322
+  },
+  {
+   "page": 16,
+   "start": 21322,
+   "end": 26051
+  },
+  {
+   "page": 17,
+   "start": 26051,
+   "end": 30873
+  },
+  {
+   "page": 18,
+   "start": 30873,
+   "end": 35234
+  },
+  {
+   "page": 19,
+   "start": 35234,
+   "end": 40647
+  },
+  {
+   "page": 20,
+   "start": 40647,
+   "end": 45059
+  },
+  {
+   "page": 21,
+   "start": 45059,
+   "end": 49900
+  },
+  {
+   "page": 22,
+   "start": 49900,
+   "end": 54692
+  },
+  {
+   "page": 23,
+   "start": 54692,
+   "end": 59571
+  },
+  {
+   "page": 24,
+   "start": 59571,
+   "end": 65106
+  },
+  {
+   "page": 25,
+   "start": 65106,
+   "end": 69097
+  },
+  {
+   "page": 26,
+   "start": 69097,
+   "end": 73285
+  },
+  {
+   "page": 27,
+   "start": 73285,
+   "end": 76794
+  },
+  {
+   "page": 28,
+   "start": 76794,
+   "end": 81964
+  },
+  {
+   "page": 29,
+   "start": 81964,
+   "end": 86417
+  },
+  {
+   "page": 30,
+   "start": 86417,
+   "end": 91523
+  },
+  {
+   "page": 31,
+   "start": 91523,
+   "end": 95298
+  },
+  {
+   "page": 32,
+   "start": 95298,
+   "end": 100291
+  },
+  {
+   "page": 33,
+   "start": 100291,
+   "end": 105275
+  },
+  {
+   "page": 34,
+   "start": 105275,
+   "end": 109074
+  },
+  {
+   "page": 35,
+   "start": 109074,
+   "end": 113460
+  },
+  {
+   "page": 36,
+   "start": 113460,
+   "end": 118491
+  },
+  {
+   "page": 37,
+   "start": 118491,
+   "end": 123197
+  },
+  {
+   "page": 38,
+   "start": 123197,
+   "end": 127646
+  },
+  {
+   "page": 39,
+   "start": 127646,
+   "end": 132362
+  },
+  {
+   "page": 40,
+   "start": 132362,
+   "end": 136890
+  },
+  {
+   "page": 41,
+   "start": 136890,
+   "end": 141365
+  },
+  {
+   "page": 42,
+   "start": 141365,
+   "end": 146509
+  },
+  {
+   "page": 43,
+   "start": 146509,
+   "end": 150748
+  },
+  {
+   "page": 44,
+   "start": 150748,
+   "end": 155321
+  },
+  {
+   "page": 45,
+   "start": 155321,
+   "end": 160344
+  },
+  {
+   "page": 46,
+   "start": 160344,
+   "end": 164453
+  },
+  {
+   "page": 47,
+   "start": 164453,
+   "end": 168558
+  },
+  {
+   "page": 48,
+   "start": 168558,
+   "end": 173583
+  },
+  {
+   "page": 49,
+   "start": 173583,
+   "end": 177924
+  },
+  {
+   "page": 50,
+   "start": 177924,
+   "end": 182320
+  },
+  {
+   "page": 51,
+   "start": 182320,
+   "end": 186220
+  },
+  {
+   "page": 52,
+   "start": 186220,
+   "end": 190506
+  },
+  {
+   "page": 53,
+   "start": 190506,
+   "end": 194959
+  },
+  {
+   "page": 54,
+   "start": 194959,
+   "end": 199688
+  },
+  {
+   "page": 55,
+   "start": 199688,
+   "end": 203983
+  },
+  {
+   "page": 56,
+   "start": 203983,
+   "end": 208830
+  },
+  {
+   "page": 57,
+   "start": 208830,
+   "end": 213070
+  },
+  {
+   "page": 58,
+   "start": 213070,
+   "end": 217122
+  },
+  {
+   "page": 59,
+   "start": 217122,
+   "end": 221737
+  },
+  {
+   "page": 60,
+   "start": 221737,
+   "end": 226281
+  },
+  {
+   "page": 61,
+   "start": 226281,
+   "end": 230860
+  },
+  {
+   "page": 62,
+   "start": 230860,
+   "end": 232572
+  },
+  {
+   "page": 63,
+   "start": 232572,
+   "end": 233889
+  },
+  {
+   "page": 65,
+   "start": 233889,
+   "end": 235413
+  },
+  {
+   "page": 67,
+   "start": 235413,
+   "end": 238117
+  },
+  {
+   "page": 69,
+   "start": 238117,
+   "end": 241908
+  },
+  {
+   "page": 70,
+   "start": 241908,
+   "end": 246135
+  },
+  {
+   "page": 71,
+   "start": 246135,
+   "end": 250156
+  },
+  {
+   "page": 72,
+   "start": 250156,
+   "end": 254363
+  },
+  {
+   "page": 73,
+   "start": 254363,
+   "end": 258170
+  },
+  {
+   "page": 74,
+   "start": 258170,
+   "end": 258927
+  },
+  {
+   "page": 75,
+   "start": 258927,
+   "end": 260258
+  },
+  {
+   "page": 77,
+   "start": 260258,
+   "end": 264217
+  },
+  {
+   "page": 78,
+   "start": 264217,
+   "end": 268453
+  },
+  {
+   "page": 79,
+   "start": 268453,
+   "end": 272364
+  },
+  {
+   "page": 80,
+   "start": 272364,
+   "end": 275126
+  },
+  {
+   "page": 81,
+   "start": 275126,
+   "end": 279048
+  },
+  {
+   "page": 82,
+   "start": 279048,
+   "end": 284331
+  },
+  {
+   "page": 83,
+   "start": 284331,
+   "end": 288529
+  },
+  {
+   "page": 84,
+   "start": 288529,
+   "end": 292709
+  },
+  {
+   "page": 85,
+   "start": 292709,
+   "end": 297376
+  },
+  {
+   "page": 86,
+   "start": 297376,
+   "end": 301653
+  },
+  {
+   "page": 87,
+   "start": 301653,
+   "end": 306293
+  },
+  {
+   "page": 88,
+   "start": 306293,
+   "end": 310179
+  },
+  {
+   "page": 89,
+   "start": 310179,
+   "end": 314824
+  },
+  {
+   "page": 90,
+   "start": 314824,
+   "end": 317343
+  },
+  {
+   "page": 91,
+   "start": 317343,
+   "end": 323141
+  },
+  {
+   "page": 93,
+   "start": 323141,
+   "end": 327128
+  },
+  {
+   "page": 94,
+   "start": 327128,
+   "end": 330963
+  },
+  {
+   "page": 95,
+   "start": 330963,
+   "end": 335018
+  },
+  {
+   "page": 96,
+   "start": 335018,
+   "end": 339081
+  },
+  {
+   "page": 97,
+   "start": 339081,
+   "end": 343328
+  },
+  {
+   "page": 98,
+   "start": 343328,
+   "end": 347346
+  },
+  {
+   "page": 99,
+   "start": 347346,
+   "end": 351869
+  },
+  {
+   "page": 100,
+   "start": 351869,
+   "end": 356505
+  },
+  {
+   "page": 101,
+   "start": 356505,
+   "end": 360333
+  },
+  {
+   "page": 102,
+   "start": 360333,
+   "end": 365217
+  },
+  {
+   "page": 103,
+   "start": 365217,
+   "end": 369882
+  },
+  {
+   "page": 104,
+   "start": 369882,
+   "end": 373676
+  },
+  {
+   "page": 105,
+   "start": 373676,
+   "end": 377904
+  },
+  {
+   "page": 106,
+   "start": 377904,
+   "end": 382736
+  },
+  {
+   "page": 107,
+   "start": 382736,
+   "end": 387098
+  },
+  {
+   "page": 108,
+   "start": 387098,
+   "end": 391719
+  },
+  {
+   "page": 109,
+   "start": 391719,
+   "end": 396020
+  },
+  {
+   "page": 110,
+   "start": 396020,
+   "end": 400484
+  },
+  {
+   "page": 111,
+   "start": 400484,
+   "end": 404911
+  },
+  {
+   "page": 112,
+   "start": 404911,
+   "end": 405444
+  },
+  {
+   "page": 113,
+   "start": 405444,
+   "end": 409016
+  },
+  {
+   "page": 114,
+   "start": 409016,
+   "end": 413094
+  },
+  {
+   "page": 115,
+   "start": 413094,
+   "end": 417490
+  },
+  {
+   "page": 116,
+   "start": 417490,
+   "end": 421328
+  },
+  {
+   "page": 117,
+   "start": 421328,
+   "end": 426017
+  },
+  {
+   "page": 118,
+   "start": 426017,
+   "end": 430917
+  },
+  {
+   "page": 119,
+   "start": 430917,
+   "end": 435386
+  },
+  {
+   "page": 120,
+   "start": 435386,
+   "end": 439888
+  },
+  {
+   "page": 121,
+   "start": 439888,
+   "end": 444306
+  },
+  {
+   "page": 122,
+   "start": 444306,
+   "end": 448665
+  },
+  {
+   "page": 123,
+   "start": 448665,
+   "end": 452811
+  },
+  {
+   "page": 124,
+   "start": 452811,
+   "end": 456888
+  },
+  {
+   "page": 125,
+   "start": 456888,
+   "end": 461515
+  },
+  {
+   "page": 126,
+   "start": 461515,
+   "end": 465199
+  },
+  {
+   "page": 127,
+   "start": 465199,
+   "end": 469559
+  },
+  {
+   "page": 128,
+   "start": 469559,
+   "end": 470416
+  },
+  {
+   "page": 129,
+   "start": 470416,
+   "end": 473679
+  },
+  {
+   "page": 131,
+   "start": 473679,
+   "end": 477448
+  },
+  {
+   "page": 132,
+   "start": 477448,
+   "end": 482121
+  },
+  {
+   "page": 133,
+   "start": 482121,
+   "end": 486487
+  },
+  {
+   "page": 134,
+   "start": 486487,
+   "end": 490500
+  },
+  {
+   "page": 135,
+   "start": 490500,
+   "end": 494329
+  },
+  {
+   "page": 136,
+   "start": 494329,
+   "end": 496322
+  },
+  {
+   "page": 137,
+   "start": 496322,
+   "end": 500176
+  },
+  {
+   "page": 138,
+   "start": 500176,
+   "end": 502217
+  },
+  {
+   "page": 139,
+   "start": 502217,
+   "end": 504620
+  },
+  {
+   "page": 140,
+   "start": 504620,
+   "end": 505116
+  },
+  {
+   "page": 141,
+   "start": 505116,
+   "end": 508666
+  },
+  {
+   "page": 142,
+   "start": 508666,
+   "end": 510184
+  },
+  {
+   "page": 143,
+   "start": 510184,
+   "end": 510659
+  },
+  {
+   "page": 144,
+   "start": 510659,
+   "end": 510683
+  },
+  {
+   "page": 145,
+   "start": 510683,
+   "end": 514050
+  },
+  {
+   "page": 146,
+   "start": 514050,
+   "end": 518245
+  },
+  {
+   "page": 147,
+   "start": 518245,
+   "end": 519366
+  },
+  {
+   "page": 149,
+   "start": 519366,
+   "end": 524000
+  },
+  {
+   "page": 150,
+   "start": 524000,
+   "end": 527735
+  },
+  {
+   "page": 151,
+   "start": 527735,
+   "end": 531637
+  },
+  {
+   "page": 152,
+   "start": 531637,
+   "end": 535909
+  },
+  {
+   "page": 153,
+   "start": 535909,
+   "end": 539373
+  },
+  {
+   "page": 155,
+   "start": 539373,
+   "end": 543850
+  },
+  {
+   "page": 156,
+   "start": 543850,
+   "end": 548874
+  },
+  {
+   "page": 157,
+   "start": 548874,
+   "end": 553524
+  },
+  {
+   "page": 158,
+   "start": 553524,
+   "end": 558748
+  },
+  {
+   "page": 159,
+   "start": 558748,
+   "end": 564990
+  },
+  {
+   "page": 160,
+   "start": 564990,
+   "end": 569181
+  },
+  {
+   "page": 161,
+   "start": 569181,
+   "end": 570604
+  },
+  {
+   "page": 163,
+   "start": 570604,
+   "end": 577540
+  },
+  {
+   "page": 164,
+   "start": 577540,
+   "end": 580780
+  },
+  {
+   "page": 165,
+   "start": 580780,
+   "end": 585639
+  },
+  {
+   "page": 166,
+   "start": 585639,
+   "end": 590390
+  },
+  {
+   "page": 167,
+   "start": 590390,
+   "end": 595413
+  },
+  {
+   "page": 168,
+   "start": 595413,
+   "end": 600166
+  },
+  {
+   "page": 169,
+   "start": 600166,
+   "end": 603921
+  },
+  {
+   "page": 170,
+   "start": 603921,
+   "end": 608090
+  },
+  {
+   "page": 171,
+   "start": 608090,
+   "end": 612568
+  },
+  {
+   "page": 172,
+   "start": 612568,
+   "end": 617372
+  },
+  {
+   "page": 173,
+   "start": 617372,
+   "end": 622023
+  },
+  {
+   "page": 174,
+   "start": 622023,
+   "end": 626582
+  },
+  {
+   "page": 175,
+   "start": 626582,
+   "end": 630558
+  },
+  {
+   "page": 176,
+   "start": 630558,
+   "end": 631189
+  },
+  {
+   "page": 177,
+   "start": 631189,
+   "end": 635080
+  },
+  {
+   "page": 178,
+   "start": 635080,
+   "end": 639405
+  },
+  {
+   "page": 179,
+   "start": 639405,
+   "end": 643250
+  },
+  {
+   "page": 180,
+   "start": 643250,
+   "end": 647661
+  },
+  {
+   "page": 181,
+   "start": 647661,
+   "end": 649110
+  },
+  {
+   "page": 183,
+   "start": 649110,
+   "end": 653354
+  },
+  {
+   "page": 184,
+   "start": 653354,
+   "end": 657475
+  },
+  {
+   "page": 185,
+   "start": 657475,
+   "end": 662123
+  },
+  {
+   "page": 186,
+   "start": 662123,
+   "end": 666166
+  },
+  {
+   "page": 187,
+   "start": 666166,
+   "end": 670503
+  },
+  {
+   "page": 188,
+   "start": 670503,
+   "end": 671143
+  },
+  {
+   "page": 189,
+   "start": 671143,
+   "end": 674613
+  },
+  {
+   "page": 190,
+   "start": 674613,
+   "end": 678868
+  },
+  {
+   "page": 191,
+   "start": 678868,
+   "end": 683498
+  },
+  {
+   "page": 192,
+   "start": 683498,
+   "end": 687977
+  },
+  {
+   "page": 193,
+   "start": 687977,
+   "end": 692028
+  },
+  {
+   "page": 195,
+   "start": 692028,
+   "end": 692695
+  },
+  {
+   "page": 197,
+   "start": 692695,
+   "end": 696439
+  },
+  {
+   "page": 198,
+   "start": 696439,
+   "end": 698575
+  },
+  {
+   "page": 199,
+   "start": 698575,
+   "end": 702845
+  },
+  {
+   "page": 200,
+   "start": 702845,
+   "end": 707052
+  },
+  {
+   "page": 201,
+   "start": 707052,
+   "end": 710232
+  },
+  {
+   "page": 203,
+   "start": 710232,
+   "end": 712412
+  },
+  {
+   "page": 205,
+   "start": 712412,
+   "end": 716882
+  },
+  {
+   "page": 207,
+   "start": 716882,
+   "end": 721401
+  },
+  {
+   "page": 208,
+   "start": 721401,
+   "end": 725218
+  },
+  {
+   "page": 209,
+   "start": 725218,
+   "end": 729487
+  },
+  {
+   "page": 210,
+   "start": 729487,
+   "end": 732989
+  },
+  {
+   "page": 211,
+   "start": 732989,
+   "end": 737564
+  },
+  {
+   "page": 212,
+   "start": 737564,
+   "end": 742344
+  },
+  {
+   "page": 213,
+   "start": 742344,
+   "end": 746581
+  },
+  {
+   "page": 214,
+   "start": 746581,
+   "end": 750961
+  },
+  {
+   "page": 215,
+   "start": 750961,
+   "end": 755312
+  },
+  {
+   "page": 216,
+   "start": 755312,
+   "end": 759879
+  },
+  {
+   "page": 217,
+   "start": 759879,
+   "end": 763967
+  },
+  {
+   "page": 218,
+   "start": 763967,
+   "end": 768436
+  },
+  {
+   "page": 219,
+   "start": 768436,
+   "end": 771918
+  },
+  {
+   "page": 220,
+   "start": 771918,
+   "end": 771977
+  },
+  {
+   "page": 221,
+   "start": 771977,
+   "end": 776837
+  },
+  {
+   "page": 222,
+   "start": 776837,
+   "end": 781179
+  },
+  {
+   "page": 223,
+   "start": 781179,
+   "end": 785319
+  },
+  {
+   "page": 224,
+   "start": 785319,
+   "end": 789466
+  },
+  {
+   "page": 225,
+   "start": 789466,
+   "end": 793839
+  },
+  {
+   "page": 226,
+   "start": 793839,
+   "end": 798587
+  },
+  {
+   "page": 227,
+   "start": 798587,
+   "end": 803707
+  },
+  {
+   "page": 228,
+   "start": 803707,
+   "end": 807700
+  },
+  {
+   "page": 229,
+   "start": 807700,
+   "end": 808817
+  },
+  {
+   "page": 231,
+   "start": 808817,
+   "end": 812282
+  },
+  {
+   "page": 232,
+   "start": 812282,
+   "end": 815810
+  },
+  {
+   "page": 233,
+   "start": 815810,
+   "end": 820000
+  },
+  {
+   "page": 234,
+   "start": 820000,
+   "end": 823632
+  },
+  {
+   "page": 235,
+   "start": 823632,
+   "end": 827296
+  },
+  {
+   "page": 236,
+   "start": 827296,
+   "end": 829812
+  },
+  {
+   "page": 237,
+   "start": 829812,
+   "end": 834037
+  },
+  {
+   "page": 238,
+   "start": 834037,
+   "end": 837511
+  },
+  {
+   "page": 239,
+   "start": 837511,
+   "end": 838733
+  },
+  {
+   "page": 241,
+   "start": 838733,
+   "end": 843028
+  },
+  {
+   "page": 242,
+   "start": 843028,
+   "end": 847691
+  },
+  {
+   "page": 243,
+   "start": 847691,
+   "end": 852179
+  },
+  {
+   "page": 244,
+   "start": 852179,
+   "end": 856873
+  },
+  {
+   "page": 245,
+   "start": 856873,
+   "end": 861299
+  },
+  {
+   "page": 246,
+   "start": 861299,
+   "end": 865003
+  },
+  {
+   "page": 247,
+   "start": 865003,
+   "end": 867856
+  },
+  {
+   "page": 248,
+   "start": 867856,
+   "end": 867875
+  },
+  {
+   "page": 249,
+   "start": 867875,
+   "end": 872522
+  },
+  {
+   "page": 250,
+   "start": 872522,
+   "end": 876966
+  },
+  {
+   "page": 251,
+   "start": 876966,
+   "end": 883112
+  },
+  {
+   "page": 252,
+   "start": 883112,
+   "end": 883632
+  },
+  {
+   "page": 253,
+   "start": 883632,
+   "end": 887822
+  },
+  {
+   "page": 254,
+   "start": 887822,
+   "end": 893228
+  },
+  {
+   "page": 255,
+   "start": 893228,
+   "end": 896650
+  },
+  {
+   "page": 256,
+   "start": 896650,
+   "end": 901150
+  },
+  {
+   "page": 257,
+   "start": 901150,
+   "end": 905408
+  },
+  {
+   "page": 258,
+   "start": 905408,
+   "end": 909386
+  },
+  {
+   "page": 259,
+   "start": 909386,
+   "end": 913897
+  },
+  {
+   "page": 260,
+   "start": 913897,
+   "end": 918512
+  },
+  {
+   "page": 261,
+   "start": 918512,
+   "end": 921970
+  },
+  {
+   "page": 262,
+   "start": 921970,
+   "end": 926589
+  },
+  {
+   "page": 263,
+   "start": 926589,
+   "end": 930461
+  },
+  {
+   "page": 265,
+   "start": 930461,
+   "end": 934619
+  },
+  {
+   "page": 266,
+   "start": 934619,
+   "end": 939304
+  },
+  {
+   "page": 267,
+   "start": 939304,
+   "end": 943173
+  },
+  {
+   "page": 268,
+   "start": 943173,
+   "end": 947813
+  },
+  {
+   "page": 269,
+   "start": 947813,
+   "end": 952230
+  },
+  {
+   "page": 270,
+   "start": 952230,
+   "end": 956969
+  },
+  {
+   "page": 271,
+   "start": 956969,
+   "end": 960852
+  },
+  {
+   "page": 272,
+   "start": 960852,
+   "end": 960951
+  },
+  {
+   "page": 273,
+   "start": 960951,
+   "end": 965089
+  },
+  {
+   "page": 274,
+   "start": 965089,
+   "end": 969859
+  },
+  {
+   "page": 275,
+   "start": 969859,
+   "end": 974409
+  },
+  {
+   "page": 276,
+   "start": 974409,
+   "end": 978821
+  },
+  {
+   "page": 277,
+   "start": 978821,
+   "end": 983294
+  },
+  {
+   "page": 278,
+   "start": 983294,
+   "end": 985277
+  },
+  {
+   "page": 279,
+   "start": 985277,
+   "end": 989004
+  },
+  {
+   "page": 280,
+   "start": 989004,
+   "end": 992407
+  },
+  {
+   "page": 281,
+   "start": 992407,
+   "end": 993530
+  },
+  {
+   "page": 283,
+   "start": 993530,
+   "end": 996949
+  },
+  {
+   "page": 284,
+   "start": 996949,
+   "end": 1000232
+  },
+  {
+   "page": 285,
+   "start": 1000232,
+   "end": 1004315
+  },
+  {
+   "page": 286,
+   "start": 1004315,
+   "end": 1007966
+  },
+  {
+   "page": 287,
+   "start": 1007966,
+   "end": 1010493
+  },
+  {
+   "page": 289,
+   "start": 1010493,
+   "end": 1012825
+  },
+  {
+   "page": 290,
+   "start": 1012825,
+   "end": 1012888
+  },
+  {
+   "page": 291,
+   "start": 1012888,
+   "end": 1016591
+  },
+  {
+   "page": 292,
+   "start": 1016591,
+   "end": 1018432
+  },
+  {
+   "page": 293,
+   "start": 1018432,
+   "end": 1021310
+  },
+  {
+   "page": 294,
+   "start": 1021310,
+   "end": 1021357
+  },
+  {
+   "page": 295,
+   "start": 1021357,
+   "end": 1024182
+  },
+  {
+   "page": 296,
+   "start": 1024182,
+   "end": 1025438
+  },
+  {
+   "page": 297,
+   "start": 1025438,
+   "end": 1027377
+  },
+  {
+   "page": 298,
+   "start": 1027377,
+   "end": 1029488
+  },
+  {
+   "page": 299,
+   "start": 1029488,
+   "end": 1031141
+  },
+  {
+   "page": 300,
+   "start": 1031141,
+   "end": 1032733
+  },
+  {
+   "page": 301,
+   "start": 1032733,
+   "end": 1034576
+  },
+  {
+   "page": 302,
+   "start": 1034576,
+   "end": 1036147
+  },
+  {
+   "page": 303,
+   "start": 1036147,
+   "end": 1037751
+  },
+  {
+   "page": 304,
+   "start": 1037751,
+   "end": 1039502
+  },
+  {
+   "page": 305,
+   "start": 1039502,
+   "end": 1041238
+  },
+  {
+   "page": 306,
+   "start": 1041238,
+   "end": 1042815
+  },
+  {
+   "page": 307,
+   "start": 1042815,
+   "end": 1044438
+  },
+  {
+   "page": 308,
+   "start": 1044438,
+   "end": 1045990
+  },
+  {
+   "page": 309,
+   "start": 1045990,
+   "end": 1047297
+  },
+  {
+   "page": 310,
+   "start": 1047297,
+   "end": 1048841
+  },
+  {
+   "page": 311,
+   "start": 1048841,
+   "end": 1050375
+  },
+  {
+   "page": 312,
+   "start": 1050375,
+   "end": 1051718
+  },
+  {
+   "page": 313,
+   "start": 1051718,
+   "end": 1053164
+  },
+  {
+   "page": 314,
+   "start": 1053164,
+   "end": 1054578
+  },
+  {
+   "page": 315,
+   "start": 1054578,
+   "end": 1056561
+  },
+  {
+   "page": 316,
+   "start": 1056561,
+   "end": 1058257
+  },
+  {
+   "page": 317,
+   "start": 1058257,
+   "end": 1060018
+  },
+  {
+   "page": 318,
+   "start": 1060018,
+   "end": 1061834
+  },
+  {
+   "page": 319,
+   "start": 1061834,
+   "end": 1063641
+  },
+  {
+   "page": 320,
+   "start": 1063641,
+   "end": 1064963
+  },
+  {
+   "page": 321,
+   "start": 1064963,
+   "end": 1066631
+  },
+  {
+   "page": 322,
+   "start": 1066631,
+   "end": 1068115
+  },
+  {
+   "page": 323,
+   "start": 1068115,
+   "end": 1069732
+  },
+  {
+   "page": 324,
+   "start": 1069732,
+   "end": 1071110
+  },
+  {
+   "page": 325,
+   "start": 1071110,
+   "end": 1072765
+  },
+  {
+   "page": 326,
+   "start": 1072765,
+   "end": 1073967
+  },
+  {
+   "page": 327,
+   "start": 1073967,
+   "end": 1075608
+  },
+  {
+   "page": 328,
+   "start": 1075608,
+   "end": 1076869
+  },
+  {
+   "page": 329,
+   "start": 1076869,
+   "end": 1078856
+  },
+  {
+   "page": 330,
+   "start": 1078856,
+   "end": 1080507
+  },
+  {
+   "page": 331,
+   "start": 1080507,
+   "end": 1082343
+  },
+  {
+   "page": 332,
+   "start": 1082343,
+   "end": 1083675
+  },
+  {
+   "page": 333,
+   "start": 1083675,
+   "end": 1085574
+  },
+  {
+   "page": 334,
+   "start": 1085574,
+   "end": 1087781
+  },
+  {
+   "page": 335,
+   "start": 1087781,
+   "end": 1089591
+  },
+  {
+   "page": 336,
+   "start": 1089591,
+   "end": 1091712
+  },
+  {
+   "page": 337,
+   "start": 1091712,
+   "end": 1093459
+  },
+  {
+   "page": 338,
+   "start": 1093459,
+   "end": 1095107
+  },
+  {
+   "page": 339,
+   "start": 1095107,
+   "end": 1097017
+  },
+  {
+   "page": 340,
+   "start": 1097017,
+   "end": 1099108
+  },
+  {
+   "page": 341,
+   "start": 1099108,
+   "end": 1101113
+  },
+  {
+   "page": 342,
+   "start": 1101113,
+   "end": 1103028
+  },
+  {
+   "page": 343,
+   "start": 1103028,
+   "end": 1105072
+  },
+  {
+   "page": 344,
+   "start": 1105072,
+   "end": 1107612
+  },
+  {
+   "page": 345,
+   "start": 1107612,
+   "end": 1109229
+  },
+  {
+   "page": 346,
+   "start": 1109229,
+   "end": 1111509
+  },
+  {
+   "page": 347,
+   "start": 1111509,
+   "end": 1113224
+  },
+  {
+   "page": 348,
+   "start": 1113224,
+   "end": 1115374
+  },
+  {
+   "page": 349,
+   "start": 1115374,
+   "end": 1117099
+  },
+  {
+   "page": 350,
+   "start": 1117099,
+   "end": 1119020
+  },
+  {
+   "page": 351,
+   "start": 1119020,
+   "end": 1121257
+  },
+  {
+   "page": 352,
+   "start": 1121257,
+   "end": 1123373
+  },
+  {
+   "page": 353,
+   "start": 1123373,
+   "end": 1125624
+  },
+  {
+   "page": 354,
+   "start": 1125624,
+   "end": 1127610
+  },
+  {
+   "page": 355,
+   "start": 1127610,
+   "end": 1129568
+  },
+  {
+   "page": 356,
+   "start": 1129568,
+   "end": 1131487
+  },
+  {
+   "page": 357,
+   "start": 1131487,
+   "end": 1133510
+  },
+  {
+   "page": 358,
+   "start": 1133510,
+   "end": 1135149
+  },
+  {
+   "page": 359,
+   "start": 1135149,
+   "end": 1137195
+  },
+  {
+   "page": 360,
+   "start": 1137195,
+   "end": 1139487
+  },
+  {
+   "page": 361,
+   "start": 1139487,
+   "end": 1141659
+  },
+  {
+   "page": 362,
+   "start": 1141659,
+   "end": 1143417
+  },
+  {
+   "page": 363,
+   "start": 1143417,
+   "end": 1144887
+  },
+  {
+   "page": 364,
+   "start": 1144887,
+   "end": 1144893
+  }
+ ],
+ "headings": [
+  {
+   "level": 1,
+   "text": "CHAPTER 301: COMMON COUNCIL",
+   "offset": 3298,
+   "page": 9
+  },
+  {
+   "level": 3,
+   "text": "301-2. Aldermanic District Boundaries.",
+   "offset": 3684,
+   "page": 9
+  },
+  {
+   "level": 3,
+   "text": "301-3. Common Council President.",
+   "offset": 6074,
+   "page": 9
+  },
+  {
+   "level": 3,
+   "text": "301-5. Unrepresented Aldermanic Districts.",
+   "offset": 8136,
+   "page": 10
+  },
+  {
+   "level": 3,
+   "text": "301-7. Granting of Franchise or Special Privilege.",
+   "offset": 8511,
+   "page": 10
+  },
+  {
+   "level": 3,
+   "text": "301-11. Expenditure of Economic Development Funds.",
+   "offset": 9607,
+   "page": 10
+  },
+  {
+   "level": 3,
+   "text": "301-13. Common Council Community Development Oversight.",
+   "offset": 9796,
+   "page": 10
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 302: ELECTIONS",
+   "offset": 10615,
+   "page": 11
+  },
+  {
+   "level": 3,
+   "text": "302-3. Board of Election Commissioners.",
+   "offset": 10904,
+   "page": 11
+  },
+  {
+   "level": 3,
+   "text": "302-5. Election of Party Committeepersons.",
+   "offset": 13462,
+   "page": 11
+  },
+  {
+   "level": 3,
+   "text": "302-7. Voting Procedure When Name Not Listed, Paper Ballot.",
+   "offset": 13776,
+   "page": 11
+  },
+  {
+   "level": 3,
+   "text": "302-9. Board of Absentee Ballot Canvassers.",
+   "offset": 15170,
+   "page": 12
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 303: CODE OF ETHICS",
+   "offset": 17520,
+   "page": 15
+  },
+  {
+   "level": 3,
+   "text": "303-1. Declaration of Policy.",
+   "offset": 18262,
+   "page": 15
+  },
+  {
+   "level": 3,
+   "text": "303-3. Definitions.",
+   "offset": 19860,
+   "page": 15
+  },
+  {
+   "level": 3,
+   "text": "303-5. Standards of Conduct.",
+   "offset": 23449,
+   "page": 16
+  },
+  {
+   "level": 3,
+   "text": "303-9. Honorariums, Fees and Expenses.",
+   "offset": 33967,
+   "page": 18
+  },
+  {
+   "level": 3,
+   "text": "303-11. Financial Disclosure.",
+   "offset": 37883,
+   "page": 19
+  },
+  {
+   "level": 3,
+   "text": "303-13. Form of Statement.",
+   "offset": 46827,
+   "page": 21
+  },
+  {
+   "level": 3,
+   "text": "303-15. Organization, Composition and Operation of the Board of Ethics.",
+   "offset": 52571,
+   "page": 22
+  },
+  {
+   "level": 3,
+   "text": "303-17. Duties of the Board.",
+   "offset": 54692,
+   "page": 23
+  },
+  {
+   "level": 3,
+   "text": "303-19. Complaints.",
+   "offset": 56113,
+   "page": 23
+  },
+  {
+   "level": 3,
+   "text": "303-21. Investigations.",
+   "offset": 59571,
+   "page": 24
+  },
+  {
+   "level": 3,
+   "text": "303-23. Probable Cause of Violation.",
+   "offset": 61067,
+   "page": 24
+  },
+  {
+   "level": 3,
+   "text": "303-25. Hearing Procedure.",
+   "offset": 62641,
+   "page": 24
+  },
+  {
+   "level": 3,
+   "text": "303-27. Determinations; Board Actions.",
+   "offset": 65577,
+   "page": 25
+  },
+  {
+   "level": 3,
+   "text": "303-28. Settlements.",
+   "offset": 66625,
+   "page": 25
+  },
+  {
+   "level": 3,
+   "text": "303-29. Action by the Common Council.",
+   "offset": 67357,
+   "page": 25
+  },
+  {
+   "level": 3,
+   "text": "303-31. Reimbursement of Legal Expenses.",
+   "offset": 70973,
+   "page": 26
+  },
+  {
+   "level": 3,
+   "text": "303-33. Public Inspection of Records.",
+   "offset": 71239,
+   "page": 26
+  },
+  {
+   "level": 3,
+   "text": "303-35. Penalty.",
+   "offset": 72738,
+   "page": 26
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 304: FINANCE",
+   "offset": 73285,
+   "page": 27
+  },
+  {
+   "level": 3,
+   "text": "304-1. Duties of Comptroller.",
+   "offset": 76277,
+   "page": 27
+  },
+  {
+   "level": 3,
+   "text": "304-3. Adjustment of City Claims.",
+   "offset": 78031,
+   "page": 28
+  },
+  {
+   "level": 3,
+   "text": "304-5. Liability Insurance.",
+   "offset": 81083,
+   "page": 28
+  },
+  {
+   "level": 3,
+   "text": "304-6. Investment of City Pooled Funds.",
+   "offset": 84178,
+   "page": 29
+  },
+  {
+   "level": 3,
+   "text": "304-7. Claims Against the City.",
+   "offset": 87634,
+   "page": 30
+  },
+  {
+   "level": 3,
+   "text": "304-9. Payment of Bills.",
+   "offset": 90226,
+   "page": 30
+  },
+  {
+   "level": 3,
+   "text": "304-11. Travel Expenses With Respect to Legislative Activities.",
+   "offset": 92010,
+   "page": 31
+  },
+  {
+   "level": 3,
+   "text": "304-13. Expense Vouchers for Common Council President and Mayor.",
+   "offset": 93759,
+   "page": 31
+  },
+  {
+   "level": 3,
+   "text": "304-15. Pay Roll Approval.",
+   "offset": 94285,
+   "page": 31
+  },
+  {
+   "level": 3,
+   "text": "304-17. Salary Checks, Unclaimed.",
+   "offset": 95298,
+   "page": 32
+  },
+  {
+   "level": 3,
+   "text": "304-18. Unclaimed Principal and Interest on Bearer Debt.",
+   "offset": 95777,
+   "page": 32
+  },
+  {
+   "level": 3,
+   "text": "304-19. Witness Fees Paid to City Employees.",
+   "offset": 96095,
+   "page": 32
+  },
+  {
+   "level": 3,
+   "text": "304-21. Review of Contracts by City Attorney.",
+   "offset": 96878,
+   "page": 32
+  },
+  {
+   "level": 3,
+   "text": "304-23. Outside Attorney or Law Firm.",
+   "offset": 97296,
+   "page": 32
+  },
+  {
+   "level": 3,
+   "text": "304-24. Contributions Received by the City.",
+   "offset": 98282,
+   "page": 32
+  },
+  {
+   "level": 3,
+   "text": "304-25. Municipal Vehicle Registration Fee.",
+   "offset": 103585,
+   "page": 33
+  },
+  {
+   "level": 3,
+   "text": "304-25.5. Police Bicycle and Equipment Fund.",
+   "offset": 105275,
+   "page": 34
+  },
+  {
+   "level": 3,
+   "text": "304-26. Job Training and Business Development Fund.",
+   "offset": 106325,
+   "page": 34
+  },
+  {
+   "level": 3,
+   "text": "304-26.5. Clean Energy Financing.",
+   "offset": 108292,
+   "page": 34
+  },
+  {
+   "level": 3,
+   "text": "304-27. Municipal Art Fund.",
+   "offset": 123833,
+   "page": 38
+  },
+  {
+   "level": 3,
+   "text": "304-27.5. Parking Fund.",
+   "offset": 127811,
+   "page": 39
+  },
+  {
+   "level": 3,
+   "text": "304-28. Permanent Improvement Fund.",
+   "offset": 132362,
+   "page": 40
+  },
+  {
+   "level": 3,
+   "text": "304-28.5. Environmental Testing and Remediation Subfund.",
+   "offset": 133191,
+   "page": 40
+  },
+  {
+   "level": 3,
+   "text": "304-29. Tax Stabilization Fund.",
+   "offset": 138000,
+   "page": 41
+  },
+  {
+   "level": 3,
+   "text": "304-29.5. Employee Health Care Benefit and Workers’ Compensation Liability Reserve Fund.",
+   "offset": 146509,
+   "page": 43
+  },
+  {
+   "level": 3,
+   "text": "304-30. Delinquent Tax Fund.",
+   "offset": 149060,
+   "page": 43
+  },
+  {
+   "level": 3,
+   "text": "304-31. Development Fund.",
+   "offset": 150748,
+   "page": 44
+  },
+  {
+   "level": 3,
+   "text": "304-31.5. Housing Infrastructure Preservation Fund.",
+   "offset": 152017,
+   "page": 44
+  },
+  {
+   "level": 3,
+   "text": "304-32. Board of Review; Fee For Certain Assessment Valuation Objections.",
+   "offset": 154711,
+   "page": 44
+  },
+  {
+   "level": 3,
+   "text": "304-33. Payment of Taxes to County.",
+   "offset": 155053,
+   "page": 44
+  },
+  {
+   "level": 3,
+   "text": "304-35. Fees for Duplicate Tax Bills.",
+   "offset": 155321,
+   "page": 45
+  },
+  {
+   "level": 3,
+   "text": "304-36. Fees for Tax Payment History and Duplicate Tax Payment Receipt.",
+   "offset": 155582,
+   "page": 45
+  },
+  {
+   "level": 3,
+   "text": "304-37. Charges for Payments Returned Unpaid.",
+   "offset": 155809,
+   "page": 45
+  },
+  {
+   "level": 3,
+   "text": "304-38. City Penalty on Delinquent Taxes.",
+   "offset": 156131,
+   "page": 45
+  },
+  {
+   "level": 3,
+   "text": "304-38.5. Interest Charge on Overdue City Invoices.",
+   "offset": 156896,
+   "page": 45
+  },
+  {
+   "level": 3,
+   "text": "304-39. Deferred Foreclosure on Tax Liens.",
+   "offset": 157119,
+   "page": 45
+  },
+  {
+   "level": 3,
+   "text": "304-41. City to be Exclusive Buyer of Lands Sold for Taxes.",
+   "offset": 157782,
+   "page": 45
+  },
+  {
+   "level": 3,
+   "text": "304-43. Unredeemed Prior Tax Sale Certificates.",
+   "offset": 158364,
+   "page": 45
+  },
+  {
+   "level": 3,
+   "text": "304-45. Authority of City Treasurer.",
+   "offset": 158897,
+   "page": 45
+  },
+  {
+   "level": 3,
+   "text": "304-47. Tax Deed Property; Legal Action.",
+   "offset": 159620,
+   "page": 45
+  },
+  {
+   "level": 3,
+   "text": "304-48. In Personam Actions for Delinquent Real Estate Taxes and Other Charges.",
+   "offset": 160344,
+   "page": 46
+  },
+  {
+   "level": 3,
+   "text": "304-49. Sale of City Real Estate.",
+   "offset": 162538,
+   "page": 46
+  },
+  {
+   "level": 3,
+   "text": "304-53. City Treasurer to Acquire Tax Certificates.",
+   "offset": 183449,
+   "page": 51
+  },
+  {
+   "level": 3,
+   "text": "304-55. Examination of Tax Sale Property.",
+   "offset": 184659,
+   "page": 51
+  },
+  {
+   "level": 3,
+   "text": "304-57. Tax Deed Property Reserve Deficit Fund.",
+   "offset": 185099,
+   "page": 51
+  },
+  {
+   "level": 3,
+   "text": "304-63. Rotary Tax Deed Improvement Fund.",
+   "offset": 186977,
+   "page": 52
+  },
+  {
+   "level": 3,
+   "text": "304-65. Requirements for Bonds.",
+   "offset": 188094,
+   "page": 52
+  },
+  {
+   "level": 3,
+   "text": "304-67. Form of Bond and Note Prescribed.",
+   "offset": 189129,
+   "page": 52
+  },
+  {
+   "level": 3,
+   "text": "304-69. Bonds; Signature.",
+   "offset": 189308,
+   "page": 52
+  },
+  {
+   "level": 3,
+   "text": "304-71. Requirements for Approval of Bonds.",
+   "offset": 189574,
+   "page": 52
+  },
+  {
+   "level": 3,
+   "text": "304-81. Grant Projects and Programs.",
+   "offset": 191614,
+   "page": 53
+  },
+  {
+   "level": 3,
+   "text": "304-91. Expenditure of Funds to be Reimbursed by Greater than Anticipated Revenues.",
+   "offset": 214579,
+   "page": 58
+  },
+  {
+   "level": 3,
+   "text": "304-93. Tax Incremental Districts-Authorized Funding.",
+   "offset": 217811,
+   "page": 59
+  },
+  {
+   "level": 3,
+   "text": "304-95. Tax Incremental Districts - Inclusion of Street-Paving Costs in Project Plans.",
+   "offset": 222193,
+   "page": 60
+  },
+  {
+   "level": 3,
+   "text": "304-96. Tax Incremental Districts – Extension to Fund Affordable Housing and Improvements to the City’s Housing Stock.",
+   "offset": 225801,
+   "page": 60
+  },
+  {
+   "level": 3,
+   "text": "304-97. City Financial Assistance to For-Profit Institutions of Higher Education.",
+   "offset": 227188,
+   "page": 61
+  },
+  {
+   "level": 3,
+   "text": "304-100. Sales and Use Tax.",
+   "offset": 230219,
+   "page": 61
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 305: CITY CLERK",
+   "offset": 232572,
+   "page": 63
+  },
+  {
+   "level": 3,
+   "text": "305-1. Notification of Tax Refund, etc.",
+   "offset": 232669,
+   "page": 63
+  },
+  {
+   "level": 2,
+   "text": "SUBCHAPTER 3: LOBBYING",
+   "offset": 233442,
+   "page": 63
+  },
+  {
+   "level": 2,
+   "text": "SUBCHAPTER 4: DIVISION OF LEGISLATIVE AFFAIRS",
+   "offset": 233791,
+   "page": 63
+  },
+  {
+   "level": 2,
+   "text": "SUBCHAPTER 2: LEGISLATIVE REFERENCE BUREAU",
+   "offset": 233889,
+   "page": 65
+  },
+  {
+   "level": 3,
+   "text": "305-30. Reference and Research Duties and Responsibilities.",
+   "offset": 233936,
+   "page": 65
+  },
+  {
+   "level": 3,
+   "text": "305-31. Duties Relating to the Milwaukee Code.",
+   "offset": 235456,
+   "page": 67
+  },
+  {
+   "level": 3,
+   "text": "305-32. Official Depository for City Documents.",
+   "offset": 236598,
+   "page": 67
+  },
+  {
+   "level": 3,
+   "text": "305-33. Collection of Reference Materials.",
+   "offset": 237723,
+   "page": 67
+  },
+  {
+   "level": 2,
+   "text": "SUBCHAPTER 3: LOBBYING",
+   "offset": 238117,
+   "page": 69
+  },
+  {
+   "level": 3,
+   "text": "305-41. Purpose.",
+   "offset": 238144,
+   "page": 69
+  },
+  {
+   "level": 3,
+   "text": "305-43. Definitions.",
+   "offset": 239035,
+   "page": 69
+  },
+  {
+   "level": 3,
+   "text": "305-45. Lobbyists and Principals - Registration Required.",
+   "offset": 243168,
+   "page": 70
+  },
+  {
+   "level": 3,
+   "text": "305-47. Principals’ Expense Statements.",
+   "offset": 246813,
+   "page": 71
+  },
+  {
+   "level": 3,
+   "text": "305-49. Termination of Lobbyist Status.",
+   "offset": 250156,
+   "page": 72
+  },
+  {
+   "level": 3,
+   "text": "305-51. Exceptions.",
+   "offset": 250363,
+   "page": 72
+  },
+  {
+   "level": 3,
+   "text": "305-53. Duties of the City Clerk.",
+   "offset": 254363,
+   "page": 73
+  },
+  {
+   "level": 3,
+   "text": "305-55. Prohibited Practices.",
+   "offset": 255102,
+   "page": 73
+  },
+  {
+   "level": 3,
+   "text": "305-57. Allegations of Violations.",
+   "offset": 256890,
+   "page": 73
+  },
+  {
+   "level": 3,
+   "text": "305-59. Suspension, Violations and Penalties.",
+   "offset": 258170,
+   "page": 74
+  },
+  {
+   "level": 2,
+   "text": "SUBCHAPTER 4: DIVISION OF LEGISLATIVE AFFAIRS",
+   "offset": 258927,
+   "page": 75
+  },
+  {
+   "level": 3,
+   "text": "305-61. Creation.",
+   "offset": 258977,
+   "page": 75
+  },
+  {
+   "level": 3,
+   "text": "305-63. Definition.",
+   "offset": 259099,
+   "page": 75
+  },
+  {
+   "level": 3,
+   "text": "305-65. Duties.",
+   "offset": 259288,
+   "page": 75
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 307: COMMISSIONER OF ASSESSMENTS",
+   "offset": 260258,
+   "page": 77
+  },
+  {
+   "level": 3,
+   "text": "307-1. Commissioner of Assessments; Ownership Records.",
+   "offset": 260797,
+   "page": 77
+  },
+  {
+   "level": 3,
+   "text": "307-1.5. Special Deputy.",
+   "offset": 261252,
+   "page": 77
+  },
+  {
+   "level": 3,
+   "text": "307-2. Tax-Exempt Property Report.",
+   "offset": 262120,
+   "page": 77
+  },
+  {
+   "level": 3,
+   "text": "307-2.5. Partially-Taxed Property Report.",
+   "offset": 262929,
+   "page": 77
+  },
+  {
+   "level": 3,
+   "text": "307-3. Objections To Manufacturing Property Assessments.",
+   "offset": 263698,
+   "page": 77
+  },
+  {
+   "level": 3,
+   "text": "307-4. Board of Review.",
+   "offset": 264217,
+   "page": 78
+  },
+  {
+   "level": 3,
+   "text": "307-5. Confidentiality of Income and Expense Information.",
+   "offset": 265305,
+   "page": 78
+  },
+  {
+   "level": 3,
+   "text": "307-6. Service Charges for Inspection and Appraisal.",
+   "offset": 266329,
+   "page": 78
+  },
+  {
+   "level": 3,
+   "text": "307-7. Fair Share Payment in Lieu of Taxes Program.",
+   "offset": 266627,
+   "page": 78
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 308: CITY DEVELOPMENT",
+   "offset": 275126,
+   "page": 81
+  },
+  {
+   "level": 3,
+   "text": "308-1. Department of City Development.",
+   "offset": 275554,
+   "page": 81
+  },
+  {
+   "level": 3,
+   "text": "308-5. Disposal of Abandoned Personalty on City-Owned Real Estate.",
+   "offset": 283112,
+   "page": 82
+  },
+  {
+   "level": 3,
+   "text": "308-21. City Development, Annexation.",
+   "offset": 286215,
+   "page": 83
+  },
+  {
+   "level": 3,
+   "text": "308-22. Environmental Audit Required Prior to Disposition or Acquisition of Property.",
+   "offset": 287237,
+   "page": 83
+  },
+  {
+   "level": 3,
+   "text": "308-28. Procedure for Vacating a Street or Alley.",
+   "offset": 291939,
+   "page": 84
+  },
+  {
+   "level": 3,
+   "text": "308-33. Claims in Condemnation.",
+   "offset": 300765,
+   "page": 86
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 309: PUBLIC WORKS",
+   "offset": 323141,
+   "page": 93
+  },
+  {
+   "level": 3,
+   "text": "309-1. Department of Public Works.",
+   "offset": 324235,
+   "page": 93
+  },
+  {
+   "level": 3,
+   "text": "309-10. Marking of City-owned Cars and Equipment.",
+   "offset": 326137,
+   "page": 93
+  },
+  {
+   "level": 3,
+   "text": "309-20. Selling Compressed Natural Gas to the Public.",
+   "offset": 327128,
+   "page": 94
+  },
+  {
+   "level": 3,
+   "text": "309-22. Selling Electric Vehicle Recharging Services to the Public.",
+   "offset": 327782,
+   "page": 94
+  },
+  {
+   "level": 3,
+   "text": "309-30. Fees for Construction Plans and Specifications.",
+   "offset": 328690,
+   "page": 94
+  },
+  {
+   "level": 3,
+   "text": "309-38. Apprenticeship and On-The-Job Trainee Requirements for Construction Contracts.",
+   "offset": 329000,
+   "page": 94
+  },
+  {
+   "level": 3,
+   "text": "309-39. Public Building Contracts.",
+   "offset": 334102,
+   "page": 95
+  },
+  {
+   "level": 3,
+   "text": "309-41. Participation of City Residents in Public Works Contracts.",
+   "offset": 335018,
+   "page": 96
+  },
+  {
+   "level": 3,
+   "text": "309-51. Rules for the Administration of the Metropolitan Sewerage District User Charges.",
+   "offset": 346898,
+   "page": 98
+  },
+  {
+   "level": 3,
+   "text": "309-53. Metropolitan Sewerage District Use Charges.",
+   "offset": 357079,
+   "page": 101
+  },
+  {
+   "level": 3,
+   "text": "309-54. Sewer-Related Charges.",
+   "offset": 367434,
+   "page": 103
+  },
+  {
+   "level": 3,
+   "text": "309-57. Street Lighting Cost-Recovery Special Charge.",
+   "offset": 385236,
+   "page": 107
+  },
+  {
+   "level": 3,
+   "text": "309-61. Operation of Parking Facilities.",
+   "offset": 391719,
+   "page": 109
+  },
+  {
+   "level": 3,
+   "text": "309-71. Assessment and Collection of Boardup Expenses Incurred by the Department of Public Works.",
+   "offset": 397933,
+   "page": 110
+  },
+  {
+   "level": 3,
+   "text": "309-72. Notice and Appeal Procedures for Special Charges.",
+   "offset": 398343,
+   "page": 110
+  },
+  {
+   "level": 3,
+   "text": "309-83. Snow and Ice Removal Cost Recovery Charge.",
+   "offset": 399745,
+   "page": 110
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 310: DEPARTMENT OF ADMINISTRATION",
+   "offset": 405444,
+   "page": 113
+  },
+  {
+   "level": 3,
+   "text": "310-1. Definitions.",
+   "offset": 406635,
+   "page": 113
+  },
+  {
+   "level": 3,
+   "text": "310-2. Department Established.",
+   "offset": 407063,
+   "page": 113
+  },
+  {
+   "level": 3,
+   "text": "310-3. Environmental Sustainability Director.",
+   "offset": 408441,
+   "page": 113
+  },
+  {
+   "level": 3,
+   "text": "310-4. Chief Information Officer.",
+   "offset": 409016,
+   "page": 114
+  },
+  {
+   "level": 3,
+   "text": "310-5. Records.",
+   "offset": 413094,
+   "page": 115
+  },
+  {
+   "level": 3,
+   "text": "310-6. Intergovernmental Relations.",
+   "offset": 413413,
+   "page": 115
+  },
+  {
+   "level": 3,
+   "text": "310-7. Control of Obsolete Material and Abandoned and Unclaimed Goods.",
+   "offset": 414627,
+   "page": 115
+  },
+  {
+   "level": 3,
+   "text": "310-10. Socially-responsible Contractors.",
+   "offset": 418069,
+   "page": 116
+  },
+  {
+   "level": 3,
+   "text": "310-12. Professional Service Contract Limitations.",
+   "offset": 422217,
+   "page": 117
+  },
+  {
+   "level": 3,
+   "text": "310-13. Service Contract Wage Requirements.",
+   "offset": 422988,
+   "page": 117
+  },
+  {
+   "level": 3,
+   "text": "310-14. Slavery Era Business, Corporate and Insurance Disclosure.",
+   "offset": 430600,
+   "page": 118
+  },
+  {
+   "level": 3,
+   "text": "310-15. Purchase of Products Made from Recycled Materials.",
+   "offset": 433677,
+   "page": 119
+  },
+  {
+   "level": 3,
+   "text": "310-16. Placement of Vending Machines on City Property.",
+   "offset": 434578,
+   "page": 119
+  },
+  {
+   "level": 3,
+   "text": "310-17. Ethical Procurement.",
+   "offset": 435084,
+   "page": 119
+  },
+  {
+   "level": 3,
+   "text": "310-18. Purchase of Low- and Zero-Emission Vehicles.",
+   "offset": 448665,
+   "page": 123
+  },
+  {
+   "level": 3,
+   "text": "310-18.3. Purchase of American-Made Vehicles.",
+   "offset": 455803,
+   "page": 124
+  },
+  {
+   "level": 3,
+   "text": "310-18.5. Purchase of Low-Speed Vehicles.",
+   "offset": 458059,
+   "page": 125
+  },
+  {
+   "level": 3,
+   "text": "310-18.7. Electronic Waste Recycling.",
+   "offset": 458306,
+   "page": 125
+  },
+  {
+   "level": 3,
+   "text": "310-18.9. Purchase of Milwaukee-Made, Milwaukee County-Made and American-Made Goods.",
+   "offset": 460147,
+   "page": 125
+  },
+  {
+   "level": 3,
+   "text": "310-19. Purchasing Appeals Process.",
+   "offset": 464886,
+   "page": 126
+  },
+  {
+   "level": 3,
+   "text": "310-21. Milwaukee Civic Partnership Initiative.",
+   "offset": 469559,
+   "page": 128
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 311: SECURE STRUCTURE PLANS",
+   "offset": 470416,
+   "page": 129
+  },
+  {
+   "level": 3,
+   "text": "311-1. Purpose.",
+   "offset": 470600,
+   "page": 129
+  },
+  {
+   "level": 3,
+   "text": "311-3. Definitions.",
+   "offset": 470987,
+   "page": 129
+  },
+  {
+   "level": 3,
+   "text": "311-5. Inspection or Copying of Plans.",
+   "offset": 472268,
+   "page": 129
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 312: POLICE DEPARTMENT",
+   "offset": 473679,
+   "page": 131
+  },
+  {
+   "level": 3,
+   "text": "312-01. Police Chief; Term of Office.",
+   "offset": 474470,
+   "page": 131
+  },
+  {
+   "level": 3,
+   "text": "312-03. Duties of Chief of Police.",
+   "offset": 474574,
+   "page": 131
+  },
+  {
+   "level": 3,
+   "text": "312-05. Not to Accept Gifts.",
+   "offset": 476203,
+   "page": 131
+  },
+  {
+   "level": 3,
+   "text": "312-07. Information to Outsiders.",
+   "offset": 476594,
+   "page": 131
+  },
+  {
+   "level": 3,
+   "text": "312-09. Information Respecting Orders.",
+   "offset": 476867,
+   "page": 131
+  },
+  {
+   "level": 3,
+   "text": "312-11. Leave of Absence; Political Activity.",
+   "offset": 477151,
+   "page": 131
+  },
+  {
+   "level": 3,
+   "text": "312-13. Auxiliary Police Service.",
+   "offset": 477448,
+   "page": 132
+  },
+  {
+   "level": 3,
+   "text": "312-14. Citywide Block Watch Council.",
+   "offset": 482637,
+   "page": 133
+  },
+  {
+   "level": 3,
+   "text": "312-15. Registers of Policemen and Arrests; Reports to Council.",
+   "offset": 483768,
+   "page": 133
+  },
+  {
+   "level": 3,
+   "text": "312-16. Collection of Traffic Stop Data.",
+   "offset": 484619,
+   "page": 133
+  },
+  {
+   "level": 3,
+   "text": "312-17. Inspection of Records.",
+   "offset": 485524,
+   "page": 133
+  },
+  {
+   "level": 3,
+   "text": "312-19. Badge of Office; Uniform.",
+   "offset": 486121,
+   "page": 133
+  },
+  {
+   "level": 3,
+   "text": "312-21. Copies of Police Records and Record Searches.",
+   "offset": 487133,
+   "page": 134
+  },
+  {
+   "level": 3,
+   "text": "312-23. Community Safety.",
+   "offset": 487350,
+   "page": 134
+  },
+  {
+   "level": 3,
+   "text": "312-25. School Crossing Guards.",
+   "offset": 487855,
+   "page": 134
+  },
+  {
+   "level": 3,
+   "text": "312-26. Agreements for Additional Law Enforcement Services.",
+   "offset": 488404,
+   "page": 134
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 313: FIRE DEPARTMENT",
+   "offset": 490500,
+   "page": 135
+  },
+  {
+   "level": 3,
+   "text": "313-01. Fire Chief; Term of Office.",
+   "offset": 491062,
+   "page": 135
+  },
+  {
+   "level": 3,
+   "text": "313-02. Notification Duties of the Fire Chief.",
+   "offset": 491159,
+   "page": 135
+  },
+  {
+   "level": 3,
+   "text": "313-03. Powers and Duties of Chief Engineer.",
+   "offset": 491418,
+   "page": 135
+  },
+  {
+   "level": 3,
+   "text": "313-07. Powers and Duties of Captain.",
+   "offset": 492527,
+   "page": 135
+  },
+  {
+   "level": 3,
+   "text": "313-09. Oath of Office.",
+   "offset": 493077,
+   "page": 135
+  },
+  {
+   "level": 3,
+   "text": "313-11. Badges, etc.",
+   "offset": 493510,
+   "page": 135
+  },
+  {
+   "level": 3,
+   "text": "313-13. Training of Out-of-city Firemen.",
+   "offset": 493697,
+   "page": 135
+  },
+  {
+   "level": 3,
+   "text": "313-17. Jurisdiction.",
+   "offset": 494826,
+   "page": 136
+  },
+  {
+   "level": 3,
+   "text": "313-19. Power of Superintendent; Extra Help.",
+   "offset": 495032,
+   "page": 136
+  },
+  {
+   "level": 3,
+   "text": "313-21. Emergency Traffic Signal Preemption System.",
+   "offset": 495601,
+   "page": 136
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 314: BOARD OF FIRE AND POLICE COMMISSIONERS",
+   "offset": 496322,
+   "page": 137
+  },
+  {
+   "level": 3,
+   "text": "314-1. Members.",
+   "offset": 496532,
+   "page": 137
+  },
+  {
+   "level": 3,
+   "text": "314-3. Duties.",
+   "offset": 498459,
+   "page": 137
+  },
+  {
+   "level": 3,
+   "text": "314-5. Executive Director.",
+   "offset": 499302,
+   "page": 137
+  },
+  {
+   "level": 3,
+   "text": "314-6. Special Deputy.",
+   "offset": 501294,
+   "page": 138
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 315: MUNICIPAL COURT",
+   "offset": 502217,
+   "page": 139
+  },
+  {
+   "level": 3,
+   "text": "315-1. Municipal Court Commissioners.",
+   "offset": 502378,
+   "page": 139
+  },
+  {
+   "level": 3,
+   "text": "315-2. Deposit Schedule",
+   "offset": 504205,
+   "page": 139
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 316: HOUSING TRUST FUND",
+   "offset": 505116,
+   "page": 141
+  },
+  {
+   "level": 3,
+   "text": "316-1. Establishment; Purpose.",
+   "offset": 505373,
+   "page": 141
+  },
+  {
+   "level": 3,
+   "text": "316-3. Administration.",
+   "offset": 505744,
+   "page": 141
+  },
+  {
+   "level": 3,
+   "text": "316-5. Housing Trust Fund Advisory Board.",
+   "offset": 506778,
+   "page": 141
+  },
+  {
+   "level": 3,
+   "text": "316-7. Financing the Housing Trust Fund.",
+   "offset": 508807,
+   "page": 142
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 320: BOARDS, COMMISSIONS AND COMMITTEES",
+   "offset": 510683,
+   "page": 145
+  },
+  {
+   "level": 2,
+   "text": "SUBCHAPTER 1: GENERAL PROVISIONS",
+   "offset": 512743,
+   "page": 145
+  },
+  {
+   "level": 3,
+   "text": "320-1. Annual Report.",
+   "offset": 512780,
+   "page": 145
+  },
+  {
+   "level": 3,
+   "text": "320-2. Notification of Changes.",
+   "offset": 513521,
+   "page": 145
+  },
+  {
+   "level": 3,
+   "text": "320-3. Residence of Appointees.",
+   "offset": 514050,
+   "page": 146
+  },
+  {
+   "level": 3,
+   "text": "320-3.5. Sequence of Appointments.",
+   "offset": 514509,
+   "page": 146
+  },
+  {
+   "level": 3,
+   "text": "320-4. Alternates and Designees.",
+   "offset": 515088,
+   "page": 146
+  },
+  {
+   "level": 3,
+   "text": "320-4.5. Expiration of Term.",
+   "offset": 515642,
+   "page": 146
+  },
+  {
+   "level": 3,
+   "text": "320-5. Ethics Board Notification.",
+   "offset": 515878,
+   "page": 146
+  },
+  {
+   "level": 3,
+   "text": "320-6. Reimbursement.",
+   "offset": 516161,
+   "page": 146
+  },
+  {
+   "level": 3,
+   "text": "320-8. Attendance, Participation and Voting Remotely by Member of Governmental Body.",
+   "offset": 516480,
+   "page": 146
+  },
+  {
+   "level": 3,
+   "text": "320-9. Preparation by Department of Employee Relations.",
+   "offset": 516844,
+   "page": 146
+  },
+  {
+   "level": 2,
+   "text": "SUBCHAPTER 2: BOARDS",
+   "offset": 519366,
+   "page": 149
+  },
+  {
+   "level": 3,
+   "text": "320-11. Administrative Review Board of Appeals.",
+   "offset": 519391,
+   "page": 149
+  },
+  {
+   "level": 3,
+   "text": "320-12. Arts Board.",
+   "offset": 525015,
+   "page": 150
+  },
+  {
+   "level": 3,
+   "text": "320-13. Public Arts Project Committee.",
+   "offset": 529804,
+   "page": 151
+  },
+  {
+   "level": 3,
+   "text": "320-15. Board of Public Land Commissioners (City Plan Commission).",
+   "offset": 531637,
+   "page": 152
+  },
+  {
+   "level": 3,
+   "text": "320-16. Public Transportation, Utilities, and Waterways Review Board.",
+   "offset": 533469,
+   "page": 152
+  },
+  {
+   "level": 3,
+   "text": "320-17. Deferred Compensation Plan Board.",
+   "offset": 536898,
+   "page": 153
+  },
+  {
+   "level": 3,
+   "text": "320-20. Milwaukee Symphony Orchestra Board: City Membership.",
+   "offset": 538673,
+   "page": 153
+  },
+  {
+   "level": 2,
+   "text": "SUBCHAPTER 3: COMMISSIONS",
+   "offset": 539373,
+   "page": 155
+  },
+  {
+   "level": 3,
+   "text": "320-21. Historic Preservation Commission.",
+   "offset": 539403,
+   "page": 155
+  },
+  {
+   "level": 3,
+   "text": "320-22. Milwaukee Commission on Domestic Violence and Sexual Assault.",
+   "offset": 601014,
+   "page": 169
+  },
+  {
+   "level": 3,
+   "text": "320-23. Community Relations - Social Development Commission.",
+   "offset": 605706,
+   "page": 170
+  },
+  {
+   "level": 3,
+   "text": "320-25. Fourth of July Commission.",
+   "offset": 615712,
+   "page": 172
+  },
+  {
+   "level": 3,
+   "text": "320-27. Safety and Civic Commission.",
+   "offset": 616599,
+   "page": 172
+  },
+  {
+   "level": 3,
+   "text": "320-28. Transit Stop Technical Advisory Committee.",
+   "offset": 621328,
+   "page": 173
+  },
+  {
+   "level": 3,
+   "text": "320-29. Emerging Youth Achievement Advisory Council.",
+   "offset": 622169,
+   "page": 174
+  },
+  {
+   "level": 3,
+   "text": "320-30. Residents Preference Program Review Commission.",
+   "offset": 626582,
+   "page": 175
+  },
+  {
+   "level": 2,
+   "text": "SUBCHAPTER 4: COMMITTEES",
+   "offset": 631189,
+   "page": 177
+  },
+  {
+   "level": 3,
+   "text": "320-31. City Information Management Committee.",
+   "offset": 631218,
+   "page": 177
+  },
+  {
+   "level": 3,
+   "text": "320-33. Skywalk Design Committee.",
+   "offset": 637925,
+   "page": 178
+  },
+  {
+   "level": 3,
+   "text": "320-35. Anti-Illegal Dumping Policy and Research Committee.",
+   "offset": 639405,
+   "page": 179
+  },
+  {
+   "level": 3,
+   "text": "320-37. Anti-graffiti Policy Committee.",
+   "offset": 640933,
+   "page": 179
+  },
+  {
+   "level": 3,
+   "text": "320-41. Charter School Review Committee.",
+   "offset": 642378,
+   "page": 179
+  },
+  {
+   "level": 3,
+   "text": "320-43. Frank P. Zeidler Public Service Award Selection Committee.",
+   "offset": 647882,
+   "page": 181
+  },
+  {
+   "level": 3,
+   "text": "320-44. Vel R. Phillips Trailblazer Award.",
+   "offset": 649110,
+   "page": 183
+  },
+  {
+   "level": 3,
+   "text": "320-45. Youth Council.",
+   "offset": 650487,
+   "page": 183
+  },
+  {
+   "level": 3,
+   "text": "320-47. Sister Cities Committee.",
+   "offset": 654622,
+   "page": 184
+  },
+  {
+   "level": 3,
+   "text": "320-49. Capital Improvements Committee.",
+   "offset": 656783,
+   "page": 184
+  },
+  {
+   "level": 3,
+   "text": "320-51. School Building Proposal Review Committee.",
+   "offset": 661846,
+   "page": 185
+  },
+  {
+   "level": 3,
+   "text": "320-53. Complete Streets Committee.",
+   "offset": 663548,
+   "page": 186
+  },
+  {
+   "level": 3,
+   "text": "320-54. Pedestrian and Bicycle Advisory Committee.",
+   "offset": 666166,
+   "page": 187
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 330: CHARTER SCHOOLS",
+   "offset": 671143,
+   "page": 189
+  },
+  {
+   "level": 3,
+   "text": "330-1. Definition.",
+   "offset": 671864,
+   "page": 189
+  },
+  {
+   "level": 3,
+   "text": "330-3. Authority.",
+   "offset": 671988,
+   "page": 189
+  },
+  {
+   "level": 3,
+   "text": "330-5. Application.",
+   "offset": 672212,
+   "page": 189
+  },
+  {
+   "level": 3,
+   "text": "330-7. Certification of Compliance.",
+   "offset": 674317,
+   "page": 189
+  },
+  {
+   "level": 3,
+   "text": "330-9. Application Review.",
+   "offset": 676254,
+   "page": 190
+  },
+  {
+   "level": 3,
+   "text": "330-11. Application Technical Deficiencies.",
+   "offset": 677372,
+   "page": 190
+  },
+  {
+   "level": 3,
+   "text": "330-13. Public Hearing.",
+   "offset": 678440,
+   "page": 190
+  },
+  {
+   "level": 3,
+   "text": "330-15. Committee Findings.",
+   "offset": 678868,
+   "page": 191
+  },
+  {
+   "level": 3,
+   "text": "330-17. Committee Recommendations.",
+   "offset": 680915,
+   "page": 191
+  },
+  {
+   "level": 3,
+   "text": "330-19. Appeals.",
+   "offset": 681855,
+   "page": 191
+  },
+  {
+   "level": 3,
+   "text": "330-21. City Attorney Action.",
+   "offset": 682905,
+   "page": 191
+  },
+  {
+   "level": 3,
+   "text": "330-23. City Clerk and Common Council Action.",
+   "offset": 684324,
+   "page": 192
+  },
+  {
+   "level": 3,
+   "text": "330-24. Maximum number of charter school students.",
+   "offset": 685119,
+   "page": 192
+  },
+  {
+   "level": 3,
+   "text": "330-25. Applicant May Reapply.",
+   "offset": 685766,
+   "page": 192
+  },
+  {
+   "level": 3,
+   "text": "330-26. Prohibited Practice.",
+   "offset": 685893,
+   "page": 192
+  },
+  {
+   "level": 3,
+   "text": "330-27. Continuing Oversight of Charter Schools; Oversight Fee.",
+   "offset": 686335,
+   "page": 192
+  },
+  {
+   "level": 3,
+   "text": "330-29. Termination of Contract and Revocation of Charter.",
+   "offset": 689319,
+   "page": 193
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 335: SISTER CITIES",
+   "offset": 692695,
+   "page": 197
+  },
+  {
+   "level": 3,
+   "text": "335-1. Definitions.",
+   "offset": 692955,
+   "page": 197
+  },
+  {
+   "level": 3,
+   "text": "335-3. Policy.",
+   "offset": 693315,
+   "page": 197
+  },
+  {
+   "level": 3,
+   "text": "335-4. Friendship City Relationships.",
+   "offset": 695077,
+   "page": 197
+  },
+  {
+   "level": 3,
+   "text": "335-5. Application Process.",
+   "offset": 695389,
+   "page": 197
+  },
+  {
+   "level": 3,
+   "text": "335-7. Renewal.",
+   "offset": 697872,
+   "page": 198
+  },
+  {
+   "level": 3,
+   "text": "335-9. Termination.",
+   "offset": 698081,
+   "page": 198
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 340: DEPARTMENT OF EMPLOYEE RELATIONS",
+   "offset": 698575,
+   "page": 199
+  },
+  {
+   "level": 3,
+   "text": "340-1. Department Established.",
+   "offset": 698927,
+   "page": 199
+  },
+  {
+   "level": 3,
+   "text": "340-3. General City Policies and Procedures.",
+   "offset": 699446,
+   "page": 199
+  },
+  {
+   "level": 3,
+   "text": "340-7. Personnel.",
+   "offset": 703966,
+   "page": 200
+  },
+  {
+   "level": 3,
+   "text": "340-9. Records.",
+   "offset": 704926,
+   "page": 200
+  },
+  {
+   "level": 3,
+   "text": "340-11. Division of Labor Relations.",
+   "offset": 705582,
+   "page": 200
+  },
+  {
+   "level": 3,
+   "text": "340-21. Central Safety Committee.",
+   "offset": 708144,
+   "page": 201
+  },
+  {
+   "level": 3,
+   "text": "340-23. Employee Safety.",
+   "offset": 708908,
+   "page": 201
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 345: DEPARTMENT OF COMMUNITY WELLNESS AND SAFETY",
+   "offset": 710232,
+   "page": 203
+  },
+  {
+   "level": 3,
+   "text": "345-1. Department Established.",
+   "offset": 710476,
+   "page": 203
+  },
+  {
+   "level": 3,
+   "text": "345-2. Department of Community Wellness and Safety Report.",
+   "offset": 710873,
+   "page": 203
+  },
+  {
+   "level": 3,
+   "text": "345-3. Deputy Director.",
+   "offset": 711918,
+   "page": 203
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 350: EMPLOYEE REGULATIONS AND BENEFITS",
+   "offset": 712458,
+   "page": 205
+  },
+  {
+   "level": 2,
+   "text": "SUBCHAPTER 1: HOLIDAY AND OVERTIME POLICIES",
+   "offset": 716882,
+   "page": 207
+  },
+  {
+   "level": 3,
+   "text": "350-1. Definitions.",
+   "offset": 716930,
+   "page": 207
+  },
+  {
+   "level": 3,
+   "text": "350-2. Holidays, General Provisions.",
+   "offset": 718322,
+   "page": 207
+  },
+  {
+   "level": 3,
+   "text": "350-3. Uniform Overtime Policies.",
+   "offset": 723237,
+   "page": 208
+  },
+  {
+   "level": 3,
+   "text": "350-4. General Overtime Procedures and Regulations.",
+   "offset": 727247,
+   "page": 209
+  },
+  {
+   "level": 3,
+   "text": "350-5. Exclusion from Overtime.",
+   "offset": 729849,
+   "page": 210
+  },
+  {
+   "level": 3,
+   "text": "350-6. Compliance with the Fair Labor Standards Act.",
+   "offset": 732065,
+   "page": 210
+  },
+  {
+   "level": 2,
+   "text": "SUBCHAPTER 2: INSURANCE",
+   "offset": 732989,
+   "page": 211
+  },
+  {
+   "level": 3,
+   "text": "350-25. Group Life Insurance.",
+   "offset": 733017,
+   "page": 211
+  },
+  {
+   "level": 3,
+   "text": "350-27. Reimbursement of City for Worker's Compensation.",
+   "offset": 757996,
+   "page": 216
+  },
+  {
+   "level": 3,
+   "text": "350-30. Health Benefits.",
+   "offset": 759080,
+   "page": 216
+  },
+  {
+   "level": 3,
+   "text": "350-33. Long-Term Disability Insurance.",
+   "offset": 767408,
+   "page": 218
+  },
+  {
+   "level": 3,
+   "text": "350-34. Dental Benefits.",
+   "offset": 767983,
+   "page": 218
+  },
+  {
+   "level": 3,
+   "text": "350-34.5. Voluntary Benefits.",
+   "offset": 771338,
+   "page": 219
+  },
+  {
+   "level": 2,
+   "text": "SUBCHAPTER 3: LEAVES OF ABSENCE",
+   "offset": 771977,
+   "page": 221
+  },
+  {
+   "level": 3,
+   "text": "350-35. Leave of Absence Policies.",
+   "offset": 772013,
+   "page": 221
+  },
+  {
+   "level": 3,
+   "text": "350-36. Military and National Medical Disaster System Leave.",
+   "offset": 782506,
+   "page": 223
+  },
+  {
+   "level": 3,
+   "text": "350-37. Sick and Disability Leave.",
+   "offset": 791187,
+   "page": 225
+  },
+  {
+   "level": 3,
+   "text": "350-38. Terminal Leave Compensation (Unused Sick Leave).",
+   "offset": 803707,
+   "page": 228
+  },
+  {
+   "level": 3,
+   "text": "350-39. Family and Medical Leave.",
+   "offset": 805347,
+   "page": 228
+  },
+  {
+   "level": 3,
+   "text": "350-39.3. Paid Parental Leave.",
+   "offset": 806347,
+   "page": 228
+  },
+  {
+   "level": 2,
+   "text": "SUBCHAPTER 4: VACATIONS",
+   "offset": 808817,
+   "page": 231
+  },
+  {
+   "level": 3,
+   "text": "350-40. Vacations.",
+   "offset": 808845,
+   "page": 231
+  },
+  {
+   "level": 3,
+   "text": "350-42. Suburban Service to be Recognized When Municipality is Consolidated.",
+   "offset": 823161,
+   "page": 234
+  },
+  {
+   "level": 3,
+   "text": "350-45. Accrued Time-Off Donor Program.",
+   "offset": 823632,
+   "page": 235
+  },
+  {
+   "level": 3,
+   "text": "350-46. Incentive Program.",
+   "offset": 829492,
+   "page": 236
+  },
+  {
+   "level": 2,
+   "text": "SUBCHAPTER 5: UNIFORMS AND CLOTHING ALLOWANCES",
+   "offset": 829812,
+   "page": 237
+  },
+  {
+   "level": 3,
+   "text": "350-90. General Provisions; Uniforms and Clothing Allowances.",
+   "offset": 829863,
+   "page": 237
+  },
+  {
+   "level": 3,
+   "text": "350-91. Fire Department: Uniform and Clothing Allowance.",
+   "offset": 832343,
+   "page": 237
+  },
+  {
+   "level": 3,
+   "text": "350-92. Police Department: Uniform and Clothing Allowance.",
+   "offset": 834435,
+   "page": 238
+  },
+  {
+   "level": 3,
+   "text": "350-93. Department of Public Works; Clothing Allowance.",
+   "offset": 836119,
+   "page": 238
+  },
+  {
+   "level": 3,
+   "text": "350-94. Safety Shoe Allowance.",
+   "offset": 837511,
+   "page": 239
+  },
+  {
+   "level": 3,
+   "text": "350-95. Safety Glasses Allowance.",
+   "offset": 838126,
+   "page": 239
+  },
+  {
+   "level": 2,
+   "text": "SUBCHAPTER 6: SALARIES AND WAGES",
+   "offset": 838733,
+   "page": 241
+  },
+  {
+   "level": 3,
+   "text": "350-100. Salaries of Mayor and Members of the Common Council.",
+   "offset": 838770,
+   "page": 241
+  },
+  {
+   "level": 3,
+   "text": "350-102. Rules of Uniformity of Compensation for Similar Service.",
+   "offset": 839213,
+   "page": 241
+  },
+  {
+   "level": 3,
+   "text": "350-104. Prohibition of Additional Compensation.",
+   "offset": 839978,
+   "page": 241
+  },
+  {
+   "level": 3,
+   "text": "350-106. Advancement from Grade to Grade.",
+   "offset": 840343,
+   "page": 241
+  },
+  {
+   "level": 3,
+   "text": "350-108. Biweekly Payment of Salaries and Wages.",
+   "offset": 840976,
+   "page": 241
+  },
+  {
+   "level": 3,
+   "text": "350-112. Payroll Procedure.",
+   "offset": 841112,
+   "page": 241
+  },
+  {
+   "level": 3,
+   "text": "350-114. Salary Changes to be Referred to the Finance and Personnel Committee.",
+   "offset": 843028,
+   "page": 242
+  },
+  {
+   "level": 3,
+   "text": "350-116. Unpaid Furloughs.",
+   "offset": 844851,
+   "page": 242
+  },
+  {
+   "level": 2,
+   "text": "SUBCHAPTER 7: FIRE AND POLICE EMPLOYEES",
+   "offset": 847691,
+   "page": 243
+  },
+  {
+   "level": 3,
+   "text": "350-131. Holiday Premium Pay.",
+   "offset": 847735,
+   "page": 243
+  },
+  {
+   "level": 3,
+   "text": "350-132. Certification Pay.",
+   "offset": 848828,
+   "page": 243
+  },
+  {
+   "level": 3,
+   "text": "350-133. Variable Shift Assignment Pay.",
+   "offset": 852818,
+   "page": 244
+  },
+  {
+   "level": 3,
+   "text": "350-134. Interpreter/Translator Pay.",
+   "offset": 857368,
+   "page": 245
+  },
+  {
+   "level": 3,
+   "text": "350-135. Automobile Usage for Nonrepresented, Noncivilian Police Department Management Employees.",
+   "offset": 860340,
+   "page": 245
+  },
+  {
+   "level": 3,
+   "text": "350-137. Police Educational Program.",
+   "offset": 862094,
+   "page": 246
+  },
+  {
+   "level": 3,
+   "text": "350-143. Fire Department Hours of Work.",
+   "offset": 865932,
+   "page": 247
+  },
+  {
+   "level": 3,
+   "text": "350-147. Fire Company and Battalion Staffing.",
+   "offset": 866164,
+   "page": 247
+  },
+  {
+   "level": 3,
+   "text": "350-149. Fire Department: Educational Program.",
+   "offset": 867875,
+   "page": 249
+  },
+  {
+   "level": 3,
+   "text": "350-152. Fire Department: Special Emergency Medical Technician Pay.",
+   "offset": 872522,
+   "page": 250
+  },
+  {
+   "level": 3,
+   "text": "350-152.5. Fire Department: Special CPR Pay.",
+   "offset": 875506,
+   "page": 250
+  },
+  {
+   "level": 3,
+   "text": "350-153. Former Town of Lake Firemen's Pension Fund.",
+   "offset": 877406,
+   "page": 251
+  },
+  {
+   "level": 3,
+   "text": "350-155. Outside Employment.",
+   "offset": 878983,
+   "page": 251
+  },
+  {
+   "level": 3,
+   "text": "350-163. Policemen and Firemen Duty Disability.",
+   "offset": 880579,
+   "page": 251
+  },
+  {
+   "level": 3,
+   "text": "350-165. Physical Examination of Applicants.",
+   "offset": 883112,
+   "page": 252
+  },
+  {
+   "level": 2,
+   "text": "SUBCHAPTER 8: TRANSPORTATION AND TRAVEL",
+   "offset": 883632,
+   "page": 253
+  },
+  {
+   "level": 3,
+   "text": "350-181. Authorized Travel Regulations and Procedures.",
+   "offset": 883676,
+   "page": 253
+  },
+  {
+   "level": 3,
+   "text": "350-183. Private Transportation Reimbursement.",
+   "offset": 899919,
+   "page": 256
+  },
+  {
+   "level": 3,
+   "text": "350-185. Automobile Reimbursement; Withholding Taxes.",
+   "offset": 905408,
+   "page": 258
+  },
+  {
+   "level": 3,
+   "text": "350-187. Odometer Readings of City Automobiles.",
+   "offset": 907306,
+   "page": 258
+  },
+  {
+   "level": 3,
+   "text": "350-188. Parking.",
+   "offset": 908619,
+   "page": 258
+  },
+  {
+   "level": 2,
+   "text": "SUBCHAPTER 9: GENERAL REGULATIONS",
+   "offset": 909386,
+   "page": 259
+  },
+  {
+   "level": 3,
+   "text": "350-201. Appointment and Duties of Employees.",
+   "offset": 909424,
+   "page": 259
+  },
+  {
+   "level": 3,
+   "text": "350-203. Diversity, Equal Employment Opportunity and Affirmative Action.",
+   "offset": 909956,
+   "page": 259
+  },
+  {
+   "level": 3,
+   "text": "350-204. Direct Deposit for City Employees.",
+   "offset": 918512,
+   "page": 261
+  },
+  {
+   "level": 3,
+   "text": "350-205. Flexible Spending Account.",
+   "offset": 918717,
+   "page": 261
+  },
+  {
+   "level": 3,
+   "text": "350-206. Tuition Benefits; All Employees.",
+   "offset": 920082,
+   "page": 261
+  },
+  {
+   "level": 3,
+   "text": "350-207. Bonds for Officers and Employees.",
+   "offset": 920864,
+   "page": 261
+  },
+  {
+   "level": 3,
+   "text": "350-209. Hours of Labor of City Employees.",
+   "offset": 921970,
+   "page": 262
+  },
+  {
+   "level": 3,
+   "text": "350-210. Severe Weather Emergency Policy.",
+   "offset": 924359,
+   "page": 262
+  },
+  {
+   "level": 3,
+   "text": "350-211. Political Activity Prohibited.",
+   "offset": 925506,
+   "page": 262
+  },
+  {
+   "level": 3,
+   "text": "350-213. Defense of City Officials and Employees.",
+   "offset": 927649,
+   "page": 263
+  },
+  {
+   "level": 3,
+   "text": "350-215. Photographs of Property.",
+   "offset": 928777,
+   "page": 263
+  },
+  {
+   "level": 3,
+   "text": "350-217. Refusal to Pay Judgment; Employee to be Discharged.",
+   "offset": 929095,
+   "page": 263
+  },
+  {
+   "level": 3,
+   "text": "350-219. Participation in Governmental, Professional, Technical and Community Organizations.",
+   "offset": 930461,
+   "page": 265
+  },
+  {
+   "level": 3,
+   "text": "350-221. Identification Badges.",
+   "offset": 932754,
+   "page": 265
+  },
+  {
+   "level": 3,
+   "text": "350-223. Civil Service in City Attorney's Office.",
+   "offset": 934619,
+   "page": 266
+  },
+  {
+   "level": 3,
+   "text": "350-229. Rotative Employment System.",
+   "offset": 935710,
+   "page": 266
+  },
+  {
+   "level": 3,
+   "text": "350-231. Application of Specifications for Personnel Service.",
+   "offset": 937574,
+   "page": 266
+  },
+  {
+   "level": 3,
+   "text": "350-233. Extent of Application for Specifications for Personnel Service.",
+   "offset": 938069,
+   "page": 266
+  },
+  {
+   "level": 3,
+   "text": "350-235. Request for New Positions.",
+   "offset": 938724,
+   "page": 266
+  },
+  {
+   "level": 3,
+   "text": "350-237. Exclusion from Benefits.",
+   "offset": 941094,
+   "page": 267
+  },
+  {
+   "level": 3,
+   "text": "350-239. Promotion from Grade to Grade.",
+   "offset": 945477,
+   "page": 268
+  },
+  {
+   "level": 3,
+   "text": "350-242. Nature of Employee Regulations and Benefits.",
+   "offset": 945799,
+   "page": 268
+  },
+  {
+   "level": 3,
+   "text": "350-243. Relocation Expense Reimbursement.",
+   "offset": 946443,
+   "page": 268
+  },
+  {
+   "level": 3,
+   "text": "350-244. Relocation Expense Reimbursement for Nursery Manager.",
+   "offset": 948003,
+   "page": 269
+  },
+  {
+   "level": 3,
+   "text": "350-245. Domestic Partnership Registration.",
+   "offset": 948457,
+   "page": 269
+  },
+  {
+   "level": 3,
+   "text": "350-247. Fraud, Waste and Abuse Hotline.",
+   "offset": 952763,
+   "page": 270
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 355: COMMUNITY PARTICIPATION IN DEVELOPMENT AGREEMENTS",
+   "offset": 960951,
+   "page": 273
+  },
+  {
+   "level": 3,
+   "text": "355-1. Definitions.",
+   "offset": 961450,
+   "page": 273
+  },
+  {
+   "level": 3,
+   "text": "355-3. Requirements for Projects Receiving Direct Financial Assistance.",
+   "offset": 962385,
+   "page": 273
+  },
+  {
+   "level": 3,
+   "text": "355-5. Application Process.",
+   "offset": 962639,
+   "page": 273
+  },
+  {
+   "level": 3,
+   "text": "355-7. Participation of City Residents.",
+   "offset": 965089,
+   "page": 274
+  },
+  {
+   "level": 3,
+   "text": "355-9. Apprenticeship and On-The-Job Trainee Requirements.",
+   "offset": 972732,
+   "page": 275
+  },
+  {
+   "level": 3,
+   "text": "355-11. First-Source Employment Utilization.",
+   "offset": 975690,
+   "page": 276
+  },
+  {
+   "level": 3,
+   "text": "355-13. Other Requirements.",
+   "offset": 979623,
+   "page": 277
+  },
+  {
+   "level": 3,
+   "text": "355-17. Sanctions.",
+   "offset": 983294,
+   "page": 278
+  },
+  {
+   "level": 3,
+   "text": "355-19. Penalty.",
+   "offset": 984824,
+   "page": 278
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 365: LOCAL BUSINESS ENTERPRISE CONTRACTING PROGRAM",
+   "offset": 985277,
+   "page": 279
+  },
+  {
+   "level": 3,
+   "text": "365-1. Creation; Purpose.",
+   "offset": 985618,
+   "page": 279
+  },
+  {
+   "level": 3,
+   "text": "365-3. Definition.",
+   "offset": 985816,
+   "page": 279
+  },
+  {
+   "level": 3,
+   "text": "365-4. Application.",
+   "offset": 987289,
+   "page": 279
+  },
+  {
+   "level": 3,
+   "text": "365-5. Administration.",
+   "offset": 987627,
+   "page": 279
+  },
+  {
+   "level": 3,
+   "text": "365-7. Obligations of Contracting Departments.",
+   "offset": 988592,
+   "page": 279
+  },
+  {
+   "level": 3,
+   "text": "365-9. Duration.",
+   "offset": 991110,
+   "page": 280
+  },
+  {
+   "level": 3,
+   "text": "365-11. Sanctions.",
+   "offset": 991508,
+   "page": 280
+  },
+  {
+   "level": 3,
+   "text": "365-13. Penalty.",
+   "offset": 992056,
+   "page": 280
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 370: SMALL BUSINESS ENTERPRISE PROGRAM",
+   "offset": 993530,
+   "page": 283
+  },
+  {
+   "level": 2,
+   "text": "SUBCHAPTER 1: GENERAL PROVISIONS",
+   "offset": 994049,
+   "page": 283
+  },
+  {
+   "level": 3,
+   "text": "370-1. Definitions.",
+   "offset": 994086,
+   "page": 283
+  },
+  {
+   "level": 3,
+   "text": "370-3. Administration.",
+   "offset": 999178,
+   "page": 284
+  },
+  {
+   "level": 3,
+   "text": "370-5. Goals of Contracting Departments.",
+   "offset": 1002975,
+   "page": 285
+  },
+  {
+   "level": 3,
+   "text": "370-9. Sanctions.",
+   "offset": 1006652,
+   "page": 286
+  },
+  {
+   "level": 3,
+   "text": "370-11. Penalties.",
+   "offset": 1007500,
+   "page": 286
+  },
+  {
+   "level": 2,
+   "text": "SUBCHAPTER 4: SMALL BUSINESS ENTERPRISE PROGRAM",
+   "offset": 1007966,
+   "page": 287
+  },
+  {
+   "level": 3,
+   "text": "370-23. Creation.",
+   "offset": 1008018,
+   "page": 287
+  },
+  {
+   "level": 3,
+   "text": "370-25. Certification Requirements for a Small Business Enterprise.",
+   "offset": 1008739,
+   "page": 287
+  },
+  {
+   "level": 3,
+   "text": "370-27. Requirements for the Participation of Small Business Enterprises.",
+   "offset": 1010075,
+   "page": 287
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 375: OFFICE OF AFRICAN AMERICAN AFFAIRS",
+   "offset": 1010493,
+   "page": 289
+  },
+  {
+   "level": 3,
+   "text": "375-1. Creation.",
+   "offset": 1010722,
+   "page": 289
+  },
+  {
+   "level": 3,
+   "text": "375-3. Administration.",
+   "offset": 1011013,
+   "page": 289
+  },
+  {
+   "level": 3,
+   "text": "375-5. Duties.",
+   "offset": 1011171,
+   "page": 289
+  },
+  {
+   "level": 3,
+   "text": "375-7. Cooperation.",
+   "offset": 1012233,
+   "page": 289
+  },
+  {
+   "level": 3,
+   "text": "375-9. Annual Report.",
+   "offset": 1012535,
+   "page": 289
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 380: OFFICE OF VETERANS’ AFFAIRS",
+   "offset": 1012888,
+   "page": 291
+  },
+  {
+   "level": 3,
+   "text": "380-1. Creation.",
+   "offset": 1013137,
+   "page": 291
+  },
+  {
+   "level": 3,
+   "text": "380-3. Administration.",
+   "offset": 1013714,
+   "page": 291
+  },
+  {
+   "level": 3,
+   "text": "380-5. Duties.",
+   "offset": 1013861,
+   "page": 291
+  },
+  {
+   "level": 3,
+   "text": "380-7. Cooperation.",
+   "offset": 1014779,
+   "page": 291
+  },
+  {
+   "level": 3,
+   "text": "380-9. Annual Report.",
+   "offset": 1015086,
+   "page": 291
+  },
+  {
+   "level": 3,
+   "text": "380-11. Advisory Council.",
+   "offset": 1015292,
+   "page": 291
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 385: DEPARTMENT OF COMPLIANCE AND ENGAGEMENT",
+   "offset": 1018432,
+   "page": 293
+  },
+  {
+   "level": 3,
+   "text": "385-1. Creation.",
+   "offset": 1018691,
+   "page": 293
+  },
+  {
+   "level": 3,
+   "text": "385-3. Administration.",
+   "offset": 1019380,
+   "page": 293
+  },
+  {
+   "level": 3,
+   "text": "385-4. Deputy Director.",
+   "offset": 1019648,
+   "page": 293
+  },
+  {
+   "level": 3,
+   "text": "385-5. Duties.",
+   "offset": 1020037,
+   "page": 293
+  },
+  {
+   "level": 3,
+   "text": "385-7. Cooperation.",
+   "offset": 1020733,
+   "page": 293
+  },
+  {
+   "level": 3,
+   "text": "385-9. Annual Report.",
+   "offset": 1021029,
+   "page": 293
+  },
+  {
+   "level": 1,
+   "text": "CHAPTER 390: DEPARTMENT OF EMERGENCY COMMUNICATIONS",
+   "offset": 1021357,
+   "page": 295
+  },
+  {
+   "level": 3,
+   "text": "390-1. Department Created.",
+   "offset": 1021651,
+   "page": 295
+  },
+  {
+   "level": 3,
+   "text": "390-3. Purpose.",
+   "offset": 1021882,
+   "page": 295
+  },
+  {
+   "level": 3,
+   "text": "390-5. Administration.",
+   "offset": 1023107,
+   "page": 295
+  },
+  {
+   "level": 3,
+   "text": "390-7. Director of Emergency Communications.",
+   "offset": 1023298,
+   "page": 295
+  },
+  {
+   "level": 3,
+   "text": "390-8. Special Deputy.",
+   "offset": 1024182,
+   "page": 296
+  },
+  {
+   "level": 3,
+   "text": "390-11. Annual Report.",
+   "offset": 1025093,
+   "page": 296
+  }
+ ],
+ "sections": [
+  {
+   "id": "301-2",
+   "heading": "301-2. Aldermanic District Boundaries.",
+   "level": 3,
+   "offset": 3684,
+   "page": 9,
+   "chapter": "301",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "301-3",
+   "heading": "301-3. Common Council President.",
+   "level": 3,
+   "offset": 6074,
+   "page": 9,
+   "chapter": "301",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "301-5",
+   "heading": "301-5. Unrepresented Aldermanic Districts.",
+   "level": 3,
+   "offset": 8136,
+   "page": 10,
+   "chapter": "301",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "301-7",
+   "heading": "301-7. Granting of Franchise or Special Privilege.",
+   "level": 3,
+   "offset": 8511,
+   "page": 10,
+   "chapter": "301",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "301-11",
+   "heading": "301-11. Expenditure of Economic Development Funds.",
+   "level": 3,
+   "offset": 9607,
+   "page": 10,
+   "chapter": "301",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "301-13",
+   "heading": "301-13. Common Council Community Development Oversight.",
+   "level": 3,
+   "offset": 9796,
+   "page": 10,
+   "chapter": "301",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "302-3",
+   "heading": "302-3. Board of Election Commissioners.",
+   "level": 3,
+   "offset": 10904,
+   "page": 11,
+   "chapter": "302",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "302-5",
+   "heading": "302-5. Election of Party Committeepersons.",
+   "level": 3,
+   "offset": 13462,
+   "page": 11,
+   "chapter": "302",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "302-7",
+   "heading": "302-7. Voting Procedure When Name Not Listed, Paper Ballot.",
+   "level": 3,
+   "offset": 13776,
+   "page": 11,
+   "chapter": "302",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "302-9",
+   "heading": "302-9. Board of Absentee Ballot Canvassers.",
+   "level": 3,
+   "offset": 15170,
+   "page": 12,
+   "chapter": "302",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "303-1",
+   "heading": "303-1. Declaration of Policy.",
+   "level": 3,
+   "offset": 18262,
+   "page": 15,
+   "chapter": "303",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "303-3",
+   "heading": "303-3. Definitions.",
+   "level": 3,
+   "offset": 19860,
+   "page": 15,
+   "chapter": "303",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "303-5",
+   "heading": "303-5. Standards of Conduct.",
+   "level": 3,
+   "offset": 23449,
+   "page": 16,
+   "chapter": "303",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "303-9",
+   "heading": "303-9. Honorariums, Fees and Expenses.",
+   "level": 3,
+   "offset": 33967,
+   "page": 18,
+   "chapter": "303",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "303-11",
+   "heading": "303-11. Financial Disclosure.",
+   "level": 3,
+   "offset": 37883,
+   "page": 19,
+   "chapter": "303",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "303-13",
+   "heading": "303-13. Form of Statement.",
+   "level": 3,
+   "offset": 46827,
+   "page": 21,
+   "chapter": "303",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "303-15",
+   "heading": "303-15. Organization, Composition and Operation of the Board of Ethics.",
+   "level": 3,
+   "offset": 52571,
+   "page": 22,
+   "chapter": "303",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "303-17",
+   "heading": "303-17. Duties of the Board.",
+   "level": 3,
+   "offset": 54692,
+   "page": 23,
+   "chapter": "303",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "303-19",
+   "heading": "303-19. Complaints.",
+   "level": 3,
+   "offset": 56113,
+   "page": 23,
+   "chapter": "303",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "303-21",
+   "heading": "303-21. Investigations.",
+   "level": 3,
+   "offset": 59571,
+   "page": 24,
+   "chapter": "303",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "303-23",
+   "heading": "303-23. Probable Cause of Violation.",
+   "level": 3,
+   "offset": 61067,
+   "page": 24,
+   "chapter": "303",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "303-25",
+   "heading": "303-25. Hearing Procedure.",
+   "level": 3,
+   "offset": 62641,
+   "page": 24,
+   "chapter": "303",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "303-27",
+   "heading": "303-27. Determinations; Board Actions.",
+   "level": 3,
+   "offset": 65577,
+   "page": 25,
+   "chapter": "303",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "303-28",
+   "heading": "303-28. Settlements.",
+   "level": 3,
+   "offset": 66625,
+   "page": 25,
+   "chapter": "303",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "303-29",
+   "heading": "303-29. Action by the Common Council.",
+   "level": 3,
+   "offset": 67357,
+   "page": 25,
+   "chapter": "303",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "303-31",
+   "heading": "303-31. Reimbursement of Legal Expenses.",
+   "level": 3,
+   "offset": 70973,
+   "page": 26,
+   "chapter": "303",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "303-33",
+   "heading": "303-33. Public Inspection of Records.",
+   "level": 3,
+   "offset": 71239,
+   "page": 26,
+   "chapter": "303",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "303-35",
+   "heading": "303-35. Penalty.",
+   "level": 3,
+   "offset": 72738,
+   "page": 26,
+   "chapter": "303",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-1",
+   "heading": "304-1. Duties of Comptroller.",
+   "level": 3,
+   "offset": 76277,
+   "page": 27,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-3",
+   "heading": "304-3. Adjustment of City Claims.",
+   "level": 3,
+   "offset": 78031,
+   "page": 28,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-5",
+   "heading": "304-5. Liability Insurance.",
+   "level": 3,
+   "offset": 81083,
+   "page": 28,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-6",
+   "heading": "304-6. Investment of City Pooled Funds.",
+   "level": 3,
+   "offset": 84178,
+   "page": 29,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-7",
+   "heading": "304-7. Claims Against the City.",
+   "level": 3,
+   "offset": 87634,
+   "page": 30,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-9",
+   "heading": "304-9. Payment of Bills.",
+   "level": 3,
+   "offset": 90226,
+   "page": 30,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-11",
+   "heading": "304-11. Travel Expenses With Respect to Legislative Activities.",
+   "level": 3,
+   "offset": 92010,
+   "page": 31,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-13",
+   "heading": "304-13. Expense Vouchers for Common Council President and Mayor.",
+   "level": 3,
+   "offset": 93759,
+   "page": 31,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-15",
+   "heading": "304-15. Pay Roll Approval.",
+   "level": 3,
+   "offset": 94285,
+   "page": 31,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-17",
+   "heading": "304-17. Salary Checks, Unclaimed.",
+   "level": 3,
+   "offset": 95298,
+   "page": 32,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-18",
+   "heading": "304-18. Unclaimed Principal and Interest on Bearer Debt.",
+   "level": 3,
+   "offset": 95777,
+   "page": 32,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-19",
+   "heading": "304-19. Witness Fees Paid to City Employees.",
+   "level": 3,
+   "offset": 96095,
+   "page": 32,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-21",
+   "heading": "304-21. Review of Contracts by City Attorney.",
+   "level": 3,
+   "offset": 96878,
+   "page": 32,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-23",
+   "heading": "304-23. Outside Attorney or Law Firm.",
+   "level": 3,
+   "offset": 97296,
+   "page": 32,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-24",
+   "heading": "304-24. Contributions Received by the City.",
+   "level": 3,
+   "offset": 98282,
+   "page": 32,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-25",
+   "heading": "304-25. Municipal Vehicle Registration Fee.",
+   "level": 3,
+   "offset": 103585,
+   "page": 33,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-25.5",
+   "heading": "304-25.5. Police Bicycle and Equipment Fund.",
+   "level": 3,
+   "offset": 105275,
+   "page": 34,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-26",
+   "heading": "304-26. Job Training and Business Development Fund.",
+   "level": 3,
+   "offset": 106325,
+   "page": 34,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-26.5",
+   "heading": "304-26.5. Clean Energy Financing.",
+   "level": 3,
+   "offset": 108292,
+   "page": 34,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-27",
+   "heading": "304-27. Municipal Art Fund.",
+   "level": 3,
+   "offset": 123833,
+   "page": 38,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-27.5",
+   "heading": "304-27.5. Parking Fund.",
+   "level": 3,
+   "offset": 127811,
+   "page": 39,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-28",
+   "heading": "304-28. Permanent Improvement Fund.",
+   "level": 3,
+   "offset": 132362,
+   "page": 40,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-28.5",
+   "heading": "304-28.5. Environmental Testing and Remediation Subfund.",
+   "level": 3,
+   "offset": 133191,
+   "page": 40,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-29",
+   "heading": "304-29. Tax Stabilization Fund.",
+   "level": 3,
+   "offset": 138000,
+   "page": 41,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-29.5",
+   "heading": "304-29.5. Employee Health Care Benefit and Workers’ Compensation Liability Reserve Fund.",
+   "level": 3,
+   "offset": 146509,
+   "page": 43,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-30",
+   "heading": "304-30. Delinquent Tax Fund.",
+   "level": 3,
+   "offset": 149060,
+   "page": 43,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-31",
+   "heading": "304-31. Development Fund.",
+   "level": 3,
+   "offset": 150748,
+   "page": 44,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-31.5",
+   "heading": "304-31.5. Housing Infrastructure Preservation Fund.",
+   "level": 3,
+   "offset": 152017,
+   "page": 44,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-32",
+   "heading": "304-32. Board of Review; Fee For Certain Assessment Valuation Objections.",
+   "level": 3,
+   "offset": 154711,
+   "page": 44,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-33",
+   "heading": "304-33. Payment of Taxes to County.",
+   "level": 3,
+   "offset": 155053,
+   "page": 44,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-35",
+   "heading": "304-35. Fees for Duplicate Tax Bills.",
+   "level": 3,
+   "offset": 155321,
+   "page": 45,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-36",
+   "heading": "304-36. Fees for Tax Payment History and Duplicate Tax Payment Receipt.",
+   "level": 3,
+   "offset": 155582,
+   "page": 45,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-37",
+   "heading": "304-37. Charges for Payments Returned Unpaid.",
+   "level": 3,
+   "offset": 155809,
+   "page": 45,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-38",
+   "heading": "304-38. City Penalty on Delinquent Taxes.",
+   "level": 3,
+   "offset": 156131,
+   "page": 45,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-38.5",
+   "heading": "304-38.5. Interest Charge on Overdue City Invoices.",
+   "level": 3,
+   "offset": 156896,
+   "page": 45,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-39",
+   "heading": "304-39. Deferred Foreclosure on Tax Liens.",
+   "level": 3,
+   "offset": 157119,
+   "page": 45,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-41",
+   "heading": "304-41. City to be Exclusive Buyer of Lands Sold for Taxes.",
+   "level": 3,
+   "offset": 157782,
+   "page": 45,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-43",
+   "heading": "304-43. Unredeemed Prior Tax Sale Certificates.",
+   "level": 3,
+   "offset": 158364,
+   "page": 45,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-45",
+   "heading": "304-45. Authority of City Treasurer.",
+   "level": 3,
+   "offset": 158897,
+   "page": 45,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-47",
+   "heading": "304-47. Tax Deed Property; Legal Action.",
+   "level": 3,
+   "offset": 159620,
+   "page": 45,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-48",
+   "heading": "304-48. In Personam Actions for Delinquent Real Estate Taxes and Other Charges.",
+   "level": 3,
+   "offset": 160344,
+   "page": 46,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-49",
+   "heading": "304-49. Sale of City Real Estate.",
+   "level": 3,
+   "offset": 162538,
+   "page": 46,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-53",
+   "heading": "304-53. City Treasurer to Acquire Tax Certificates.",
+   "level": 3,
+   "offset": 183449,
+   "page": 51,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-55",
+   "heading": "304-55. Examination of Tax Sale Property.",
+   "level": 3,
+   "offset": 184659,
+   "page": 51,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-57",
+   "heading": "304-57. Tax Deed Property Reserve Deficit Fund.",
+   "level": 3,
+   "offset": 185099,
+   "page": 51,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-63",
+   "heading": "304-63. Rotary Tax Deed Improvement Fund.",
+   "level": 3,
+   "offset": 186977,
+   "page": 52,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-65",
+   "heading": "304-65. Requirements for Bonds.",
+   "level": 3,
+   "offset": 188094,
+   "page": 52,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-67",
+   "heading": "304-67. Form of Bond and Note Prescribed.",
+   "level": 3,
+   "offset": 189129,
+   "page": 52,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-69",
+   "heading": "304-69. Bonds; Signature.",
+   "level": 3,
+   "offset": 189308,
+   "page": 52,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-71",
+   "heading": "304-71. Requirements for Approval of Bonds.",
+   "level": 3,
+   "offset": 189574,
+   "page": 52,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-81",
+   "heading": "304-81. Grant Projects and Programs.",
+   "level": 3,
+   "offset": 191614,
+   "page": 53,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-91",
+   "heading": "304-91. Expenditure of Funds to be Reimbursed by Greater than Anticipated Revenues.",
+   "level": 3,
+   "offset": 214579,
+   "page": 58,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-93",
+   "heading": "304-93. Tax Incremental Districts-Authorized Funding.",
+   "level": 3,
+   "offset": 217811,
+   "page": 59,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-95",
+   "heading": "304-95. Tax Incremental Districts - Inclusion of Street-Paving Costs in Project Plans.",
+   "level": 3,
+   "offset": 222193,
+   "page": 60,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-96",
+   "heading": "304-96. Tax Incremental Districts – Extension to Fund Affordable Housing and Improvements to the City’s Housing Stock.",
+   "level": 3,
+   "offset": 225801,
+   "page": 60,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-97",
+   "heading": "304-97. City Financial Assistance to For-Profit Institutions of Higher Education.",
+   "level": 3,
+   "offset": 227188,
+   "page": 61,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "304-100",
+   "heading": "304-100. Sales and Use Tax.",
+   "level": 3,
+   "offset": 230219,
+   "page": 61,
+   "chapter": "304",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "305-1",
+   "heading": "305-1. Notification of Tax Refund, etc.",
+   "level": 3,
+   "offset": 232669,
+   "page": 63,
+   "chapter": "305",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "305-30",
+   "heading": "305-30. Reference and Research Duties and Responsibilities.",
+   "level": 3,
+   "offset": 233936,
+   "page": 65,
+   "chapter": "305",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "305-31",
+   "heading": "305-31. Duties Relating to the Milwaukee Code.",
+   "level": 3,
+   "offset": 235456,
+   "page": 67,
+   "chapter": "305",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "305-32",
+   "heading": "305-32. Official Depository for City Documents.",
+   "level": 3,
+   "offset": 236598,
+   "page": 67,
+   "chapter": "305",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "305-33",
+   "heading": "305-33. Collection of Reference Materials.",
+   "level": 3,
+   "offset": 237723,
+   "page": 67,
+   "chapter": "305",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "305-41",
+   "heading": "305-41. Purpose.",
+   "level": 3,
+   "offset": 238144,
+   "page": 69,
+   "chapter": "305",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "305-43",
+   "heading": "305-43. Definitions.",
+   "level": 3,
+   "offset": 239035,
+   "page": 69,
+   "chapter": "305",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "305-45",
+   "heading": "305-45. Lobbyists and Principals - Registration Required.",
+   "level": 3,
+   "offset": 243168,
+   "page": 70,
+   "chapter": "305",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "305-47",
+   "heading": "305-47. Principals’ Expense Statements.",
+   "level": 3,
+   "offset": 246813,
+   "page": 71,
+   "chapter": "305",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "305-49",
+   "heading": "305-49. Termination of Lobbyist Status.",
+   "level": 3,
+   "offset": 250156,
+   "page": 72,
+   "chapter": "305",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "305-51",
+   "heading": "305-51. Exceptions.",
+   "level": 3,
+   "offset": 250363,
+   "page": 72,
+   "chapter": "305",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "305-53",
+   "heading": "305-53. Duties of the City Clerk.",
+   "level": 3,
+   "offset": 254363,
+   "page": 73,
+   "chapter": "305",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "305-55",
+   "heading": "305-55. Prohibited Practices.",
+   "level": 3,
+   "offset": 255102,
+   "page": 73,
+   "chapter": "305",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "305-57",
+   "heading": "305-57. Allegations of Violations.",
+   "level": 3,
+   "offset": 256890,
+   "page": 73,
+   "chapter": "305",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "305-59",
+   "heading": "305-59. Suspension, Violations and Penalties.",
+   "level": 3,
+   "offset": 258170,
+   "page": 74,
+   "chapter": "305",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "305-61",
+   "heading": "305-61. Creation.",
+   "level": 3,
+   "offset": 258977,
+   "page": 75,
+   "chapter": "305",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "305-63",
+   "heading": "305-63. Definition.",
+   "level": 3,
+   "offset": 259099,
+   "page": 75,
+   "chapter": "305",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "305-65",
+   "heading": "305-65. Duties.",
+   "level": 3,
+   "offset": 259288,
+   "page": 75,
+   "chapter": "305",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "307-1",
+   "heading": "307-1. Commissioner of Assessments; Ownership Records.",
+   "level": 3,
+   "offset": 260797,
+   "page": 77,
+   "chapter": "307",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "307-1.5",
+   "heading": "307-1.5. Special Deputy.",
+   "level": 3,
+   "offset": 261252,
+   "page": 77,
+   "chapter": "307",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "307-2",
+   "heading": "307-2. Tax-Exempt Property Report.",
+   "level": 3,
+   "offset": 262120,
+   "page": 77,
+   "chapter": "307",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "307-2.5",
+   "heading": "307-2.5. Partially-Taxed Property Report.",
+   "level": 3,
+   "offset": 262929,
+   "page": 77,
+   "chapter": "307",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "307-3",
+   "heading": "307-3. Objections To Manufacturing Property Assessments.",
+   "level": 3,
+   "offset": 263698,
+   "page": 77,
+   "chapter": "307",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "307-4",
+   "heading": "307-4. Board of Review.",
+   "level": 3,
+   "offset": 264217,
+   "page": 78,
+   "chapter": "307",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "307-5",
+   "heading": "307-5. Confidentiality of Income and Expense Information.",
+   "level": 3,
+   "offset": 265305,
+   "page": 78,
+   "chapter": "307",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "307-6",
+   "heading": "307-6. Service Charges for Inspection and Appraisal.",
+   "level": 3,
+   "offset": 266329,
+   "page": 78,
+   "chapter": "307",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "307-7",
+   "heading": "307-7. Fair Share Payment in Lieu of Taxes Program.",
+   "level": 3,
+   "offset": 266627,
+   "page": 78,
+   "chapter": "307",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "308-1",
+   "heading": "308-1. Department of City Development.",
+   "level": 3,
+   "offset": 275554,
+   "page": 81,
+   "chapter": "308",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "308-5",
+   "heading": "308-5. Disposal of Abandoned Personalty on City-Owned Real Estate.",
+   "level": 3,
+   "offset": 283112,
+   "page": 82,
+   "chapter": "308",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "308-21",
+   "heading": "308-21. City Development, Annexation.",
+   "level": 3,
+   "offset": 286215,
+   "page": 83,
+   "chapter": "308",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "308-22",
+   "heading": "308-22. Environmental Audit Required Prior to Disposition or Acquisition of Property.",
+   "level": 3,
+   "offset": 287237,
+   "page": 83,
+   "chapter": "308",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "308-28",
+   "heading": "308-28. Procedure for Vacating a Street or Alley.",
+   "level": 3,
+   "offset": 291939,
+   "page": 84,
+   "chapter": "308",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "308-33",
+   "heading": "308-33. Claims in Condemnation.",
+   "level": 3,
+   "offset": 300765,
+   "page": 86,
+   "chapter": "308",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "309-1",
+   "heading": "309-1. Department of Public Works.",
+   "level": 3,
+   "offset": 324235,
+   "page": 93,
+   "chapter": "309",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "309-10",
+   "heading": "309-10. Marking of City-owned Cars and Equipment.",
+   "level": 3,
+   "offset": 326137,
+   "page": 93,
+   "chapter": "309",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "309-20",
+   "heading": "309-20. Selling Compressed Natural Gas to the Public.",
+   "level": 3,
+   "offset": 327128,
+   "page": 94,
+   "chapter": "309",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "309-22",
+   "heading": "309-22. Selling Electric Vehicle Recharging Services to the Public.",
+   "level": 3,
+   "offset": 327782,
+   "page": 94,
+   "chapter": "309",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "309-30",
+   "heading": "309-30. Fees for Construction Plans and Specifications.",
+   "level": 3,
+   "offset": 328690,
+   "page": 94,
+   "chapter": "309",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "309-38",
+   "heading": "309-38. Apprenticeship and On-The-Job Trainee Requirements for Construction Contracts.",
+   "level": 3,
+   "offset": 329000,
+   "page": 94,
+   "chapter": "309",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "309-39",
+   "heading": "309-39. Public Building Contracts.",
+   "level": 3,
+   "offset": 334102,
+   "page": 95,
+   "chapter": "309",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "309-41",
+   "heading": "309-41. Participation of City Residents in Public Works Contracts.",
+   "level": 3,
+   "offset": 335018,
+   "page": 96,
+   "chapter": "309",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "309-51",
+   "heading": "309-51. Rules for the Administration of the Metropolitan Sewerage District User Charges.",
+   "level": 3,
+   "offset": 346898,
+   "page": 98,
+   "chapter": "309",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "309-53",
+   "heading": "309-53. Metropolitan Sewerage District Use Charges.",
+   "level": 3,
+   "offset": 357079,
+   "page": 101,
+   "chapter": "309",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "309-54",
+   "heading": "309-54. Sewer-Related Charges.",
+   "level": 3,
+   "offset": 367434,
+   "page": 103,
+   "chapter": "309",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "309-57",
+   "heading": "309-57. Street Lighting Cost-Recovery Special Charge.",
+   "level": 3,
+   "offset": 385236,
+   "page": 107,
+   "chapter": "309",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "309-61",
+   "heading": "309-61. Operation of Parking Facilities.",
+   "level": 3,
+   "offset": 391719,
+   "page": 109,
+   "chapter": "309",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "309-71",
+   "heading": "309-71. Assessment and Collection of Boardup Expenses Incurred by the Department of Public Works.",
+   "level": 3,
+   "offset": 397933,
+   "page": 110,
+   "chapter": "309",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "309-72",
+   "heading": "309-72. Notice and Appeal Procedures for Special Charges.",
+   "level": 3,
+   "offset": 398343,
+   "page": 110,
+   "chapter": "309",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "309-83",
+   "heading": "309-83. Snow and Ice Removal Cost Recovery Charge.",
+   "level": 3,
+   "offset": 399745,
+   "page": 110,
+   "chapter": "309",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "310-1",
+   "heading": "310-1. Definitions.",
+   "level": 3,
+   "offset": 406635,
+   "page": 113,
+   "chapter": "310",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "310-2",
+   "heading": "310-2. Department Established.",
+   "level": 3,
+   "offset": 407063,
+   "page": 113,
+   "chapter": "310",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "310-3",
+   "heading": "310-3. Environmental Sustainability Director.",
+   "level": 3,
+   "offset": 408441,
+   "page": 113,
+   "chapter": "310",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "310-4",
+   "heading": "310-4. Chief Information Officer.",
+   "level": 3,
+   "offset": 409016,
+   "page": 114,
+   "chapter": "310",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "310-5",
+   "heading": "310-5. Records.",
+   "level": 3,
+   "offset": 413094,
+   "page": 115,
+   "chapter": "310",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "310-6",
+   "heading": "310-6. Intergovernmental Relations.",
+   "level": 3,
+   "offset": 413413,
+   "page": 115,
+   "chapter": "310",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "310-7",
+   "heading": "310-7. Control of Obsolete Material and Abandoned and Unclaimed Goods.",
+   "level": 3,
+   "offset": 414627,
+   "page": 115,
+   "chapter": "310",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "310-10",
+   "heading": "310-10. Socially-responsible Contractors.",
+   "level": 3,
+   "offset": 418069,
+   "page": 116,
+   "chapter": "310",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "310-12",
+   "heading": "310-12. Professional Service Contract Limitations.",
+   "level": 3,
+   "offset": 422217,
+   "page": 117,
+   "chapter": "310",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "310-13",
+   "heading": "310-13. Service Contract Wage Requirements.",
+   "level": 3,
+   "offset": 422988,
+   "page": 117,
+   "chapter": "310",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "310-14",
+   "heading": "310-14. Slavery Era Business, Corporate and Insurance Disclosure.",
+   "level": 3,
+   "offset": 430600,
+   "page": 118,
+   "chapter": "310",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "310-15",
+   "heading": "310-15. Purchase of Products Made from Recycled Materials.",
+   "level": 3,
+   "offset": 433677,
+   "page": 119,
+   "chapter": "310",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "310-16",
+   "heading": "310-16. Placement of Vending Machines on City Property.",
+   "level": 3,
+   "offset": 434578,
+   "page": 119,
+   "chapter": "310",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "310-17",
+   "heading": "310-17. Ethical Procurement.",
+   "level": 3,
+   "offset": 435084,
+   "page": 119,
+   "chapter": "310",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "310-18",
+   "heading": "310-18. Purchase of Low- and Zero-Emission Vehicles.",
+   "level": 3,
+   "offset": 448665,
+   "page": 123,
+   "chapter": "310",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "310-18.3",
+   "heading": "310-18.3. Purchase of American-Made Vehicles.",
+   "level": 3,
+   "offset": 455803,
+   "page": 124,
+   "chapter": "310",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "310-18.5",
+   "heading": "310-18.5. Purchase of Low-Speed Vehicles.",
+   "level": 3,
+   "offset": 458059,
+   "page": 125,
+   "chapter": "310",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "310-18.7",
+   "heading": "310-18.7. Electronic Waste Recycling.",
+   "level": 3,
+   "offset": 458306,
+   "page": 125,
+   "chapter": "310",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "310-18.9",
+   "heading": "310-18.9. Purchase of Milwaukee-Made, Milwaukee County-Made and American-Made Goods.",
+   "level": 3,
+   "offset": 460147,
+   "page": 125,
+   "chapter": "310",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "310-19",
+   "heading": "310-19. Purchasing Appeals Process.",
+   "level": 3,
+   "offset": 464886,
+   "page": 126,
+   "chapter": "310",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "310-21",
+   "heading": "310-21. Milwaukee Civic Partnership Initiative.",
+   "level": 3,
+   "offset": 469559,
+   "page": 128,
+   "chapter": "310",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "311-1",
+   "heading": "311-1. Purpose.",
+   "level": 3,
+   "offset": 470600,
+   "page": 129,
+   "chapter": "311",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "311-3",
+   "heading": "311-3. Definitions.",
+   "level": 3,
+   "offset": 470987,
+   "page": 129,
+   "chapter": "311",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "311-5",
+   "heading": "311-5. Inspection or Copying of Plans.",
+   "level": 3,
+   "offset": 472268,
+   "page": 129,
+   "chapter": "311",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "312-01",
+   "heading": "312-01. Police Chief; Term of Office.",
+   "level": 3,
+   "offset": 474470,
+   "page": 131,
+   "chapter": "312",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "312-03",
+   "heading": "312-03. Duties of Chief of Police.",
+   "level": 3,
+   "offset": 474574,
+   "page": 131,
+   "chapter": "312",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "312-05",
+   "heading": "312-05. Not to Accept Gifts.",
+   "level": 3,
+   "offset": 476203,
+   "page": 131,
+   "chapter": "312",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "312-07",
+   "heading": "312-07. Information to Outsiders.",
+   "level": 3,
+   "offset": 476594,
+   "page": 131,
+   "chapter": "312",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "312-09",
+   "heading": "312-09. Information Respecting Orders.",
+   "level": 3,
+   "offset": 476867,
+   "page": 131,
+   "chapter": "312",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "312-11",
+   "heading": "312-11. Leave of Absence; Political Activity.",
+   "level": 3,
+   "offset": 477151,
+   "page": 131,
+   "chapter": "312",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "312-13",
+   "heading": "312-13. Auxiliary Police Service.",
+   "level": 3,
+   "offset": 477448,
+   "page": 132,
+   "chapter": "312",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "312-14",
+   "heading": "312-14. Citywide Block Watch Council.",
+   "level": 3,
+   "offset": 482637,
+   "page": 133,
+   "chapter": "312",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "312-15",
+   "heading": "312-15. Registers of Policemen and Arrests; Reports to Council.",
+   "level": 3,
+   "offset": 483768,
+   "page": 133,
+   "chapter": "312",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "312-16",
+   "heading": "312-16. Collection of Traffic Stop Data.",
+   "level": 3,
+   "offset": 484619,
+   "page": 133,
+   "chapter": "312",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "312-17",
+   "heading": "312-17. Inspection of Records.",
+   "level": 3,
+   "offset": 485524,
+   "page": 133,
+   "chapter": "312",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "312-19",
+   "heading": "312-19. Badge of Office; Uniform.",
+   "level": 3,
+   "offset": 486121,
+   "page": 133,
+   "chapter": "312",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "312-21",
+   "heading": "312-21. Copies of Police Records and Record Searches.",
+   "level": 3,
+   "offset": 487133,
+   "page": 134,
+   "chapter": "312",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "312-23",
+   "heading": "312-23. Community Safety.",
+   "level": 3,
+   "offset": 487350,
+   "page": 134,
+   "chapter": "312",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "312-25",
+   "heading": "312-25. School Crossing Guards.",
+   "level": 3,
+   "offset": 487855,
+   "page": 134,
+   "chapter": "312",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "312-26",
+   "heading": "312-26. Agreements for Additional Law Enforcement Services.",
+   "level": 3,
+   "offset": 488404,
+   "page": 134,
+   "chapter": "312",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "313-01",
+   "heading": "313-01. Fire Chief; Term of Office.",
+   "level": 3,
+   "offset": 491062,
+   "page": 135,
+   "chapter": "313",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "313-02",
+   "heading": "313-02. Notification Duties of the Fire Chief.",
+   "level": 3,
+   "offset": 491159,
+   "page": 135,
+   "chapter": "313",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "313-03",
+   "heading": "313-03. Powers and Duties of Chief Engineer.",
+   "level": 3,
+   "offset": 491418,
+   "page": 135,
+   "chapter": "313",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "313-07",
+   "heading": "313-07. Powers and Duties of Captain.",
+   "level": 3,
+   "offset": 492527,
+   "page": 135,
+   "chapter": "313",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "313-09",
+   "heading": "313-09. Oath of Office.",
+   "level": 3,
+   "offset": 493077,
+   "page": 135,
+   "chapter": "313",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "313-11",
+   "heading": "313-11. Badges, etc.",
+   "level": 3,
+   "offset": 493510,
+   "page": 135,
+   "chapter": "313",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "313-13",
+   "heading": "313-13. Training of Out-of-city Firemen.",
+   "level": 3,
+   "offset": 493697,
+   "page": 135,
+   "chapter": "313",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "313-17",
+   "heading": "313-17. Jurisdiction.",
+   "level": 3,
+   "offset": 494826,
+   "page": 136,
+   "chapter": "313",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "313-19",
+   "heading": "313-19. Power of Superintendent; Extra Help.",
+   "level": 3,
+   "offset": 495032,
+   "page": 136,
+   "chapter": "313",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "313-21",
+   "heading": "313-21. Emergency Traffic Signal Preemption System.",
+   "level": 3,
+   "offset": 495601,
+   "page": 136,
+   "chapter": "313",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "314-1",
+   "heading": "314-1. Members.",
+   "level": 3,
+   "offset": 496532,
+   "page": 137,
+   "chapter": "314",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "314-3",
+   "heading": "314-3. Duties.",
+   "level": 3,
+   "offset": 498459,
+   "page": 137,
+   "chapter": "314",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "314-5",
+   "heading": "314-5. Executive Director.",
+   "level": 3,
+   "offset": 499302,
+   "page": 137,
+   "chapter": "314",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "314-6",
+   "heading": "314-6. Special Deputy.",
+   "level": 3,
+   "offset": 501294,
+   "page": 138,
+   "chapter": "314",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "315-1",
+   "heading": "315-1. Municipal Court Commissioners.",
+   "level": 3,
+   "offset": 502378,
+   "page": 139,
+   "chapter": "315",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "315-2",
+   "heading": "315-2. Deposit Schedule",
+   "level": 3,
+   "offset": 504205,
+   "page": 139,
+   "chapter": "315",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "316-1",
+   "heading": "316-1. Establishment; Purpose.",
+   "level": 3,
+   "offset": 505373,
+   "page": 141,
+   "chapter": "316",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "316-3",
+   "heading": "316-3. Administration.",
+   "level": 3,
+   "offset": 505744,
+   "page": 141,
+   "chapter": "316",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "316-5",
+   "heading": "316-5. Housing Trust Fund Advisory Board.",
+   "level": 3,
+   "offset": 506778,
+   "page": 141,
+   "chapter": "316",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "316-7",
+   "heading": "316-7. Financing the Housing Trust Fund.",
+   "level": 3,
+   "offset": 508807,
+   "page": 142,
+   "chapter": "316",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-1",
+   "heading": "320-1. Annual Report.",
+   "level": 3,
+   "offset": 512780,
+   "page": 145,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-2",
+   "heading": "320-2. Notification of Changes.",
+   "level": 3,
+   "offset": 513521,
+   "page": 145,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-3",
+   "heading": "320-3. Residence of Appointees.",
+   "level": 3,
+   "offset": 514050,
+   "page": 146,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-3.5",
+   "heading": "320-3.5. Sequence of Appointments.",
+   "level": 3,
+   "offset": 514509,
+   "page": 146,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-4",
+   "heading": "320-4. Alternates and Designees.",
+   "level": 3,
+   "offset": 515088,
+   "page": 146,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-4.5",
+   "heading": "320-4.5. Expiration of Term.",
+   "level": 3,
+   "offset": 515642,
+   "page": 146,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-5",
+   "heading": "320-5. Ethics Board Notification.",
+   "level": 3,
+   "offset": 515878,
+   "page": 146,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-6",
+   "heading": "320-6. Reimbursement.",
+   "level": 3,
+   "offset": 516161,
+   "page": 146,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-8",
+   "heading": "320-8. Attendance, Participation and Voting Remotely by Member of Governmental Body.",
+   "level": 3,
+   "offset": 516480,
+   "page": 146,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-9",
+   "heading": "320-9. Preparation by Department of Employee Relations.",
+   "level": 3,
+   "offset": 516844,
+   "page": 146,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-11",
+   "heading": "320-11. Administrative Review Board of Appeals.",
+   "level": 3,
+   "offset": 519391,
+   "page": 149,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-12",
+   "heading": "320-12. Arts Board.",
+   "level": 3,
+   "offset": 525015,
+   "page": 150,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-13",
+   "heading": "320-13. Public Arts Project Committee.",
+   "level": 3,
+   "offset": 529804,
+   "page": 151,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-15",
+   "heading": "320-15. Board of Public Land Commissioners (City Plan Commission).",
+   "level": 3,
+   "offset": 531637,
+   "page": 152,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-16",
+   "heading": "320-16. Public Transportation, Utilities, and Waterways Review Board.",
+   "level": 3,
+   "offset": 533469,
+   "page": 152,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-17",
+   "heading": "320-17. Deferred Compensation Plan Board.",
+   "level": 3,
+   "offset": 536898,
+   "page": 153,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-20",
+   "heading": "320-20. Milwaukee Symphony Orchestra Board: City Membership.",
+   "level": 3,
+   "offset": 538673,
+   "page": 153,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-21",
+   "heading": "320-21. Historic Preservation Commission.",
+   "level": 3,
+   "offset": 539403,
+   "page": 155,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-22",
+   "heading": "320-22. Milwaukee Commission on Domestic Violence and Sexual Assault.",
+   "level": 3,
+   "offset": 601014,
+   "page": 169,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-23",
+   "heading": "320-23. Community Relations - Social Development Commission.",
+   "level": 3,
+   "offset": 605706,
+   "page": 170,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-25",
+   "heading": "320-25. Fourth of July Commission.",
+   "level": 3,
+   "offset": 615712,
+   "page": 172,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-27",
+   "heading": "320-27. Safety and Civic Commission.",
+   "level": 3,
+   "offset": 616599,
+   "page": 172,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-28",
+   "heading": "320-28. Transit Stop Technical Advisory Committee.",
+   "level": 3,
+   "offset": 621328,
+   "page": 173,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-29",
+   "heading": "320-29. Emerging Youth Achievement Advisory Council.",
+   "level": 3,
+   "offset": 622169,
+   "page": 174,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-30",
+   "heading": "320-30. Residents Preference Program Review Commission.",
+   "level": 3,
+   "offset": 626582,
+   "page": 175,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-31",
+   "heading": "320-31. City Information Management Committee.",
+   "level": 3,
+   "offset": 631218,
+   "page": 177,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-33",
+   "heading": "320-33. Skywalk Design Committee.",
+   "level": 3,
+   "offset": 637925,
+   "page": 178,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-35",
+   "heading": "320-35. Anti-Illegal Dumping Policy and Research Committee.",
+   "level": 3,
+   "offset": 639405,
+   "page": 179,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-37",
+   "heading": "320-37. Anti-graffiti Policy Committee.",
+   "level": 3,
+   "offset": 640933,
+   "page": 179,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-41",
+   "heading": "320-41. Charter School Review Committee.",
+   "level": 3,
+   "offset": 642378,
+   "page": 179,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-43",
+   "heading": "320-43. Frank P. Zeidler Public Service Award Selection Committee.",
+   "level": 3,
+   "offset": 647882,
+   "page": 181,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-44",
+   "heading": "320-44. Vel R. Phillips Trailblazer Award.",
+   "level": 3,
+   "offset": 649110,
+   "page": 183,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-45",
+   "heading": "320-45. Youth Council.",
+   "level": 3,
+   "offset": 650487,
+   "page": 183,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-47",
+   "heading": "320-47. Sister Cities Committee.",
+   "level": 3,
+   "offset": 654622,
+   "page": 184,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-49",
+   "heading": "320-49. Capital Improvements Committee.",
+   "level": 3,
+   "offset": 656783,
+   "page": 184,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-51",
+   "heading": "320-51. School Building Proposal Review Committee.",
+   "level": 3,
+   "offset": 661846,
+   "page": 185,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-53",
+   "heading": "320-53. Complete Streets Committee.",
+   "level": 3,
+   "offset": 663548,
+   "page": 186,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "320-54",
+   "heading": "320-54. Pedestrian and Bicycle Advisory Committee.",
+   "level": 3,
+   "offset": 666166,
+   "page": 187,
+   "chapter": "320",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "330-1",
+   "heading": "330-1. Definition.",
+   "level": 3,
+   "offset": 671864,
+   "page": 189,
+   "chapter": "330",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "330-3",
+   "heading": "330-3. Authority.",
+   "level": 3,
+   "offset": 671988,
+   "page": 189,
+   "chapter": "330",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "330-5",
+   "heading": "330-5. Application.",
+   "level": 3,
+   "offset": 672212,
+   "page": 189,
+   "chapter": "330",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "330-7",
+   "heading": "330-7. Certification of Compliance.",
+   "level": 3,
+   "offset": 674317,
+   "page": 189,
+   "chapter": "330",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "330-9",
+   "heading": "330-9. Application Review.",
+   "level": 3,
+   "offset": 676254,
+   "page": 190,
+   "chapter": "330",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "330-11",
+   "heading": "330-11. Application Technical Deficiencies.",
+   "level": 3,
+   "offset": 677372,
+   "page": 190,
+   "chapter": "330",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "330-13",
+   "heading": "330-13. Public Hearing.",
+   "level": 3,
+   "offset": 678440,
+   "page": 190,
+   "chapter": "330",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "330-15",
+   "heading": "330-15. Committee Findings.",
+   "level": 3,
+   "offset": 678868,
+   "page": 191,
+   "chapter": "330",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "330-17",
+   "heading": "330-17. Committee Recommendations.",
+   "level": 3,
+   "offset": 680915,
+   "page": 191,
+   "chapter": "330",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "330-19",
+   "heading": "330-19. Appeals.",
+   "level": 3,
+   "offset": 681855,
+   "page": 191,
+   "chapter": "330",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "330-21",
+   "heading": "330-21. City Attorney Action.",
+   "level": 3,
+   "offset": 682905,
+   "page": 191,
+   "chapter": "330",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "330-23",
+   "heading": "330-23. City Clerk and Common Council Action.",
+   "level": 3,
+   "offset": 684324,
+   "page": 192,
+   "chapter": "330",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "330-24",
+   "heading": "330-24. Maximum number of charter school students.",
+   "level": 3,
+   "offset": 685119,
+   "page": 192,
+   "chapter": "330",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "330-25",
+   "heading": "330-25. Applicant May Reapply.",
+   "level": 3,
+   "offset": 685766,
+   "page": 192,
+   "chapter": "330",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "330-26",
+   "heading": "330-26. Prohibited Practice.",
+   "level": 3,
+   "offset": 685893,
+   "page": 192,
+   "chapter": "330",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "330-27",
+   "heading": "330-27. Continuing Oversight of Charter Schools; Oversight Fee.",
+   "level": 3,
+   "offset": 686335,
+   "page": 192,
+   "chapter": "330",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "330-29",
+   "heading": "330-29. Termination of Contract and Revocation of Charter.",
+   "level": 3,
+   "offset": 689319,
+   "page": 193,
+   "chapter": "330",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "335-1",
+   "heading": "335-1. Definitions.",
+   "level": 3,
+   "offset": 692955,
+   "page": 197,
+   "chapter": "335",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "335-3",
+   "heading": "335-3. Policy.",
+   "level": 3,
+   "offset": 693315,
+   "page": 197,
+   "chapter": "335",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "335-4",
+   "heading": "335-4. Friendship City Relationships.",
+   "level": 3,
+   "offset": 695077,
+   "page": 197,
+   "chapter": "335",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "335-5",
+   "heading": "335-5. Application Process.",
+   "level": 3,
+   "offset": 695389,
+   "page": 197,
+   "chapter": "335",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "335-7",
+   "heading": "335-7. Renewal.",
+   "level": 3,
+   "offset": 697872,
+   "page": 198,
+   "chapter": "335",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "335-9",
+   "heading": "335-9. Termination.",
+   "level": 3,
+   "offset": 698081,
+   "page": 198,
+   "chapter": "335",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "340-1",
+   "heading": "340-1. Department Established.",
+   "level": 3,
+   "offset": 698927,
+   "page": 199,
+   "chapter": "340",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "340-3",
+   "heading": "340-3. General City Policies and Procedures.",
+   "level": 3,
+   "offset": 699446,
+   "page": 199,
+   "chapter": "340",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "340-7",
+   "heading": "340-7. Personnel.",
+   "level": 3,
+   "offset": 703966,
+   "page": 200,
+   "chapter": "340",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "340-9",
+   "heading": "340-9. Records.",
+   "level": 3,
+   "offset": 704926,
+   "page": 200,
+   "chapter": "340",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "340-11",
+   "heading": "340-11. Division of Labor Relations.",
+   "level": 3,
+   "offset": 705582,
+   "page": 200,
+   "chapter": "340",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "340-21",
+   "heading": "340-21. Central Safety Committee.",
+   "level": 3,
+   "offset": 708144,
+   "page": 201,
+   "chapter": "340",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "340-23",
+   "heading": "340-23. Employee Safety.",
+   "level": 3,
+   "offset": 708908,
+   "page": 201,
+   "chapter": "340",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "345-1",
+   "heading": "345-1. Department Established.",
+   "level": 3,
+   "offset": 710476,
+   "page": 203,
+   "chapter": "345",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "345-2",
+   "heading": "345-2. Department of Community Wellness and Safety Report.",
+   "level": 3,
+   "offset": 710873,
+   "page": 203,
+   "chapter": "345",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "345-3",
+   "heading": "345-3. Deputy Director.",
+   "level": 3,
+   "offset": 711918,
+   "page": 203,
+   "chapter": "345",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-1",
+   "heading": "350-1. Definitions.",
+   "level": 3,
+   "offset": 716930,
+   "page": 207,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-2",
+   "heading": "350-2. Holidays, General Provisions.",
+   "level": 3,
+   "offset": 718322,
+   "page": 207,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-3",
+   "heading": "350-3. Uniform Overtime Policies.",
+   "level": 3,
+   "offset": 723237,
+   "page": 208,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-4",
+   "heading": "350-4. General Overtime Procedures and Regulations.",
+   "level": 3,
+   "offset": 727247,
+   "page": 209,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-5",
+   "heading": "350-5. Exclusion from Overtime.",
+   "level": 3,
+   "offset": 729849,
+   "page": 210,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-6",
+   "heading": "350-6. Compliance with the Fair Labor Standards Act.",
+   "level": 3,
+   "offset": 732065,
+   "page": 210,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-25",
+   "heading": "350-25. Group Life Insurance.",
+   "level": 3,
+   "offset": 733017,
+   "page": 211,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-27",
+   "heading": "350-27. Reimbursement of City for Worker's Compensation.",
+   "level": 3,
+   "offset": 757996,
+   "page": 216,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-30",
+   "heading": "350-30. Health Benefits.",
+   "level": 3,
+   "offset": 759080,
+   "page": 216,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-33",
+   "heading": "350-33. Long-Term Disability Insurance.",
+   "level": 3,
+   "offset": 767408,
+   "page": 218,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-34",
+   "heading": "350-34. Dental Benefits.",
+   "level": 3,
+   "offset": 767983,
+   "page": 218,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-34.5",
+   "heading": "350-34.5. Voluntary Benefits.",
+   "level": 3,
+   "offset": 771338,
+   "page": 219,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-35",
+   "heading": "350-35. Leave of Absence Policies.",
+   "level": 3,
+   "offset": 772013,
+   "page": 221,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-36",
+   "heading": "350-36. Military and National Medical Disaster System Leave.",
+   "level": 3,
+   "offset": 782506,
+   "page": 223,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-37",
+   "heading": "350-37. Sick and Disability Leave.",
+   "level": 3,
+   "offset": 791187,
+   "page": 225,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-38",
+   "heading": "350-38. Terminal Leave Compensation (Unused Sick Leave).",
+   "level": 3,
+   "offset": 803707,
+   "page": 228,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-39",
+   "heading": "350-39. Family and Medical Leave.",
+   "level": 3,
+   "offset": 805347,
+   "page": 228,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-39.3",
+   "heading": "350-39.3. Paid Parental Leave.",
+   "level": 3,
+   "offset": 806347,
+   "page": 228,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-40",
+   "heading": "350-40. Vacations.",
+   "level": 3,
+   "offset": 808845,
+   "page": 231,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-42",
+   "heading": "350-42. Suburban Service to be Recognized When Municipality is Consolidated.",
+   "level": 3,
+   "offset": 823161,
+   "page": 234,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-45",
+   "heading": "350-45. Accrued Time-Off Donor Program.",
+   "level": 3,
+   "offset": 823632,
+   "page": 235,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-46",
+   "heading": "350-46. Incentive Program.",
+   "level": 3,
+   "offset": 829492,
+   "page": 236,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-90",
+   "heading": "350-90. General Provisions; Uniforms and Clothing Allowances.",
+   "level": 3,
+   "offset": 829863,
+   "page": 237,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-91",
+   "heading": "350-91. Fire Department: Uniform and Clothing Allowance.",
+   "level": 3,
+   "offset": 832343,
+   "page": 237,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-92",
+   "heading": "350-92. Police Department: Uniform and Clothing Allowance.",
+   "level": 3,
+   "offset": 834435,
+   "page": 238,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-93",
+   "heading": "350-93. Department of Public Works; Clothing Allowance.",
+   "level": 3,
+   "offset": 836119,
+   "page": 238,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-94",
+   "heading": "350-94. Safety Shoe Allowance.",
+   "level": 3,
+   "offset": 837511,
+   "page": 239,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-95",
+   "heading": "350-95. Safety Glasses Allowance.",
+   "level": 3,
+   "offset": 838126,
+   "page": 239,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-100",
+   "heading": "350-100. Salaries of Mayor and Members of the Common Council.",
+   "level": 3,
+   "offset": 838770,
+   "page": 241,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-102",
+   "heading": "350-102. Rules of Uniformity of Compensation for Similar Service.",
+   "level": 3,
+   "offset": 839213,
+   "page": 241,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-104",
+   "heading": "350-104. Prohibition of Additional Compensation.",
+   "level": 3,
+   "offset": 839978,
+   "page": 241,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-106",
+   "heading": "350-106. Advancement from Grade to Grade.",
+   "level": 3,
+   "offset": 840343,
+   "page": 241,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-108",
+   "heading": "350-108. Biweekly Payment of Salaries and Wages.",
+   "level": 3,
+   "offset": 840976,
+   "page": 241,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-112",
+   "heading": "350-112. Payroll Procedure.",
+   "level": 3,
+   "offset": 841112,
+   "page": 241,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-114",
+   "heading": "350-114. Salary Changes to be Referred to the Finance and Personnel Committee.",
+   "level": 3,
+   "offset": 843028,
+   "page": 242,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-116",
+   "heading": "350-116. Unpaid Furloughs.",
+   "level": 3,
+   "offset": 844851,
+   "page": 242,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-131",
+   "heading": "350-131. Holiday Premium Pay.",
+   "level": 3,
+   "offset": 847735,
+   "page": 243,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-132",
+   "heading": "350-132. Certification Pay.",
+   "level": 3,
+   "offset": 848828,
+   "page": 243,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-133",
+   "heading": "350-133. Variable Shift Assignment Pay.",
+   "level": 3,
+   "offset": 852818,
+   "page": 244,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-134",
+   "heading": "350-134. Interpreter/Translator Pay.",
+   "level": 3,
+   "offset": 857368,
+   "page": 245,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-135",
+   "heading": "350-135. Automobile Usage for Nonrepresented, Noncivilian Police Department Management Employees.",
+   "level": 3,
+   "offset": 860340,
+   "page": 245,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-137",
+   "heading": "350-137. Police Educational Program.",
+   "level": 3,
+   "offset": 862094,
+   "page": 246,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-143",
+   "heading": "350-143. Fire Department Hours of Work.",
+   "level": 3,
+   "offset": 865932,
+   "page": 247,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-147",
+   "heading": "350-147. Fire Company and Battalion Staffing.",
+   "level": 3,
+   "offset": 866164,
+   "page": 247,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-149",
+   "heading": "350-149. Fire Department: Educational Program.",
+   "level": 3,
+   "offset": 867875,
+   "page": 249,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-152",
+   "heading": "350-152. Fire Department: Special Emergency Medical Technician Pay.",
+   "level": 3,
+   "offset": 872522,
+   "page": 250,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-152.5",
+   "heading": "350-152.5. Fire Department: Special CPR Pay.",
+   "level": 3,
+   "offset": 875506,
+   "page": 250,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-153",
+   "heading": "350-153. Former Town of Lake Firemen's Pension Fund.",
+   "level": 3,
+   "offset": 877406,
+   "page": 251,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-155",
+   "heading": "350-155. Outside Employment.",
+   "level": 3,
+   "offset": 878983,
+   "page": 251,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-163",
+   "heading": "350-163. Policemen and Firemen Duty Disability.",
+   "level": 3,
+   "offset": 880579,
+   "page": 251,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-165",
+   "heading": "350-165. Physical Examination of Applicants.",
+   "level": 3,
+   "offset": 883112,
+   "page": 252,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-181",
+   "heading": "350-181. Authorized Travel Regulations and Procedures.",
+   "level": 3,
+   "offset": 883676,
+   "page": 253,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-183",
+   "heading": "350-183. Private Transportation Reimbursement.",
+   "level": 3,
+   "offset": 899919,
+   "page": 256,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-185",
+   "heading": "350-185. Automobile Reimbursement; Withholding Taxes.",
+   "level": 3,
+   "offset": 905408,
+   "page": 258,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-187",
+   "heading": "350-187. Odometer Readings of City Automobiles.",
+   "level": 3,
+   "offset": 907306,
+   "page": 258,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-188",
+   "heading": "350-188. Parking.",
+   "level": 3,
+   "offset": 908619,
+   "page": 258,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-201",
+   "heading": "350-201. Appointment and Duties of Employees.",
+   "level": 3,
+   "offset": 909424,
+   "page": 259,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-203",
+   "heading": "350-203. Diversity, Equal Employment Opportunity and Affirmative Action.",
+   "level": 3,
+   "offset": 909956,
+   "page": 259,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-204",
+   "heading": "350-204. Direct Deposit for City Employees.",
+   "level": 3,
+   "offset": 918512,
+   "page": 261,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-205",
+   "heading": "350-205. Flexible Spending Account.",
+   "level": 3,
+   "offset": 918717,
+   "page": 261,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-206",
+   "heading": "350-206. Tuition Benefits; All Employees.",
+   "level": 3,
+   "offset": 920082,
+   "page": 261,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-207",
+   "heading": "350-207. Bonds for Officers and Employees.",
+   "level": 3,
+   "offset": 920864,
+   "page": 261,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-209",
+   "heading": "350-209. Hours of Labor of City Employees.",
+   "level": 3,
+   "offset": 921970,
+   "page": 262,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-210",
+   "heading": "350-210. Severe Weather Emergency Policy.",
+   "level": 3,
+   "offset": 924359,
+   "page": 262,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-211",
+   "heading": "350-211. Political Activity Prohibited.",
+   "level": 3,
+   "offset": 925506,
+   "page": 262,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-213",
+   "heading": "350-213. Defense of City Officials and Employees.",
+   "level": 3,
+   "offset": 927649,
+   "page": 263,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-215",
+   "heading": "350-215. Photographs of Property.",
+   "level": 3,
+   "offset": 928777,
+   "page": 263,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-217",
+   "heading": "350-217. Refusal to Pay Judgment; Employee to be Discharged.",
+   "level": 3,
+   "offset": 929095,
+   "page": 263,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-219",
+   "heading": "350-219. Participation in Governmental, Professional, Technical and Community Organizations.",
+   "level": 3,
+   "offset": 930461,
+   "page": 265,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-221",
+   "heading": "350-221. Identification Badges.",
+   "level": 3,
+   "offset": 932754,
+   "page": 265,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-223",
+   "heading": "350-223. Civil Service in City Attorney's Office.",
+   "level": 3,
+   "offset": 934619,
+   "page": 266,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-229",
+   "heading": "350-229. Rotative Employment System.",
+   "level": 3,
+   "offset": 935710,
+   "page": 266,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-231",
+   "heading": "350-231. Application of Specifications for Personnel Service.",
+   "level": 3,
+   "offset": 937574,
+   "page": 266,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-233",
+   "heading": "350-233. Extent of Application for Specifications for Personnel Service.",
+   "level": 3,
+   "offset": 938069,
+   "page": 266,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-235",
+   "heading": "350-235. Request for New Positions.",
+   "level": 3,
+   "offset": 938724,
+   "page": 266,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-237",
+   "heading": "350-237. Exclusion from Benefits.",
+   "level": 3,
+   "offset": 941094,
+   "page": 267,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-239",
+   "heading": "350-239. Promotion from Grade to Grade.",
+   "level": 3,
+   "offset": 945477,
+   "page": 268,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-242",
+   "heading": "350-242. Nature of Employee Regulations and Benefits.",
+   "level": 3,
+   "offset": 945799,
+   "page": 268,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-243",
+   "heading": "350-243. Relocation Expense Reimbursement.",
+   "level": 3,
+   "offset": 946443,
+   "page": 268,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-244",
+   "heading": "350-244. Relocation Expense Reimbursement for Nursery Manager.",
+   "level": 3,
+   "offset": 948003,
+   "page": 269,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-245",
+   "heading": "350-245. Domestic Partnership Registration.",
+   "level": 3,
+   "offset": 948457,
+   "page": 269,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "350-247",
+   "heading": "350-247. Fraud, Waste and Abuse Hotline.",
+   "level": 3,
+   "offset": 952763,
+   "page": 270,
+   "chapter": "350",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "355-1",
+   "heading": "355-1. Definitions.",
+   "level": 3,
+   "offset": 961450,
+   "page": 273,
+   "chapter": "355",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "355-3",
+   "heading": "355-3. Requirements for Projects Receiving Direct Financial Assistance.",
+   "level": 3,
+   "offset": 962385,
+   "page": 273,
+   "chapter": "355",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "355-5",
+   "heading": "355-5. Application Process.",
+   "level": 3,
+   "offset": 962639,
+   "page": 273,
+   "chapter": "355",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "355-7",
+   "heading": "355-7. Participation of City Residents.",
+   "level": 3,
+   "offset": 965089,
+   "page": 274,
+   "chapter": "355",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "355-9",
+   "heading": "355-9. Apprenticeship and On-The-Job Trainee Requirements.",
+   "level": 3,
+   "offset": 972732,
+   "page": 275,
+   "chapter": "355",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "355-11",
+   "heading": "355-11. First-Source Employment Utilization.",
+   "level": 3,
+   "offset": 975690,
+   "page": 276,
+   "chapter": "355",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "355-13",
+   "heading": "355-13. Other Requirements.",
+   "level": 3,
+   "offset": 979623,
+   "page": 277,
+   "chapter": "355",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "355-17",
+   "heading": "355-17. Sanctions.",
+   "level": 3,
+   "offset": 983294,
+   "page": 278,
+   "chapter": "355",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "355-19",
+   "heading": "355-19. Penalty.",
+   "level": 3,
+   "offset": 984824,
+   "page": 278,
+   "chapter": "355",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "365-1",
+   "heading": "365-1. Creation; Purpose.",
+   "level": 3,
+   "offset": 985618,
+   "page": 279,
+   "chapter": "365",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "365-3",
+   "heading": "365-3. Definition.",
+   "level": 3,
+   "offset": 985816,
+   "page": 279,
+   "chapter": "365",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "365-4",
+   "heading": "365-4. Application.",
+   "level": 3,
+   "offset": 987289,
+   "page": 279,
+   "chapter": "365",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "365-5",
+   "heading": "365-5. Administration.",
+   "level": 3,
+   "offset": 987627,
+   "page": 279,
+   "chapter": "365",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "365-7",
+   "heading": "365-7. Obligations of Contracting Departments.",
+   "level": 3,
+   "offset": 988592,
+   "page": 279,
+   "chapter": "365",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "365-9",
+   "heading": "365-9. Duration.",
+   "level": 3,
+   "offset": 991110,
+   "page": 280,
+   "chapter": "365",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "365-11",
+   "heading": "365-11. Sanctions.",
+   "level": 3,
+   "offset": 991508,
+   "page": 280,
+   "chapter": "365",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "365-13",
+   "heading": "365-13. Penalty.",
+   "level": 3,
+   "offset": 992056,
+   "page": 280,
+   "chapter": "365",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "370-1",
+   "heading": "370-1. Definitions.",
+   "level": 3,
+   "offset": 994086,
+   "page": 283,
+   "chapter": "370",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "370-3",
+   "heading": "370-3. Administration.",
+   "level": 3,
+   "offset": 999178,
+   "page": 284,
+   "chapter": "370",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "370-5",
+   "heading": "370-5. Goals of Contracting Departments.",
+   "level": 3,
+   "offset": 1002975,
+   "page": 285,
+   "chapter": "370",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "370-9",
+   "heading": "370-9. Sanctions.",
+   "level": 3,
+   "offset": 1006652,
+   "page": 286,
+   "chapter": "370",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "370-11",
+   "heading": "370-11. Penalties.",
+   "level": 3,
+   "offset": 1007500,
+   "page": 286,
+   "chapter": "370",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "370-23",
+   "heading": "370-23. Creation.",
+   "level": 3,
+   "offset": 1008018,
+   "page": 287,
+   "chapter": "370",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "370-25",
+   "heading": "370-25. Certification Requirements for a Small Business Enterprise.",
+   "level": 3,
+   "offset": 1008739,
+   "page": 287,
+   "chapter": "370",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "370-27",
+   "heading": "370-27. Requirements for the Participation of Small Business Enterprises.",
+   "level": 3,
+   "offset": 1010075,
+   "page": 287,
+   "chapter": "370",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "375-1",
+   "heading": "375-1. Creation.",
+   "level": 3,
+   "offset": 1010722,
+   "page": 289,
+   "chapter": "375",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "375-3",
+   "heading": "375-3. Administration.",
+   "level": 3,
+   "offset": 1011013,
+   "page": 289,
+   "chapter": "375",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "375-5",
+   "heading": "375-5. Duties.",
+   "level": 3,
+   "offset": 1011171,
+   "page": 289,
+   "chapter": "375",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "375-7",
+   "heading": "375-7. Cooperation.",
+   "level": 3,
+   "offset": 1012233,
+   "page": 289,
+   "chapter": "375",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "375-9",
+   "heading": "375-9. Annual Report.",
+   "level": 3,
+   "offset": 1012535,
+   "page": 289,
+   "chapter": "375",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "380-1",
+   "heading": "380-1. Creation.",
+   "level": 3,
+   "offset": 1013137,
+   "page": 291,
+   "chapter": "380",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "380-3",
+   "heading": "380-3. Administration.",
+   "level": 3,
+   "offset": 1013714,
+   "page": 291,
+   "chapter": "380",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "380-5",
+   "heading": "380-5. Duties.",
+   "level": 3,
+   "offset": 1013861,
+   "page": 291,
+   "chapter": "380",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "380-7",
+   "heading": "380-7. Cooperation.",
+   "level": 3,
+   "offset": 1014779,
+   "page": 291,
+   "chapter": "380",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "380-9",
+   "heading": "380-9. Annual Report.",
+   "level": 3,
+   "offset": 1015086,
+   "page": 291,
+   "chapter": "380",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "380-11",
+   "heading": "380-11. Advisory Council.",
+   "level": 3,
+   "offset": 1015292,
+   "page": 291,
+   "chapter": "380",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "385-1",
+   "heading": "385-1. Creation.",
+   "level": 3,
+   "offset": 1018691,
+   "page": 293,
+   "chapter": "385",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "385-3",
+   "heading": "385-3. Administration.",
+   "level": 3,
+   "offset": 1019380,
+   "page": 293,
+   "chapter": "385",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "385-4",
+   "heading": "385-4. Deputy Director.",
+   "level": 3,
+   "offset": 1019648,
+   "page": 293,
+   "chapter": "385",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "385-5",
+   "heading": "385-5. Duties.",
+   "level": 3,
+   "offset": 1020037,
+   "page": 293,
+   "chapter": "385",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "385-7",
+   "heading": "385-7. Cooperation.",
+   "level": 3,
+   "offset": 1020733,
+   "page": 293,
+   "chapter": "385",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "385-9",
+   "heading": "385-9. Annual Report.",
+   "level": 3,
+   "offset": 1021029,
+   "page": 293,
+   "chapter": "385",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "390-1",
+   "heading": "390-1. Department Created.",
+   "level": 3,
+   "offset": 1021651,
+   "page": 295,
+   "chapter": "390",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "390-3",
+   "heading": "390-3. Purpose.",
+   "level": 3,
+   "offset": 1021882,
+   "page": 295,
+   "chapter": "390",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "390-5",
+   "heading": "390-5. Administration.",
+   "level": 3,
+   "offset": 1023107,
+   "page": 295,
+   "chapter": "390",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "390-7",
+   "heading": "390-7. Director of Emergency Communications.",
+   "level": 3,
+   "offset": 1023298,
+   "page": 295,
+   "chapter": "390",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "390-8",
+   "heading": "390-8. Special Deputy.",
+   "level": 3,
+   "offset": 1024182,
+   "page": 296,
+   "chapter": "390",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  },
+  {
+   "id": "390-11",
+   "heading": "390-11. Annual Report.",
+   "level": 3,
+   "offset": 1025093,
+   "page": 296,
+   "chapter": "390",
+   "history_notes": 0,
+   "covered_by_chapter_history": true
+  }
+ ],
+ "history_rules_in_profile": true,
+ "history_notes": [
+  {
+   "chapter": "301",
+   "offset": 10512,
+   "page": 10,
+   "kind": "pointer"
+  },
+  {
+   "chapter": "302",
+   "offset": 16962,
+   "page": 13,
+   "kind": "table",
+   "table": "history-ch302"
+  },
+  {
+   "chapter": "303",
+   "offset": 73186,
+   "page": 26,
+   "kind": "pointer"
+  },
+  {
+   "chapter": "304",
+   "offset": 232454,
+   "page": 62,
+   "kind": "pointer"
+  },
+  {
+   "chapter": "305",
+   "offset": 260159,
+   "page": 75,
+   "kind": "pointer"
+  },
+  {
+   "chapter": "307",
+   "offset": 275023,
+   "page": 80,
+   "kind": "pointer"
+  },
+  {
+   "chapter": "308",
+   "offset": 317343,
+   "page": 91,
+   "kind": "table",
+   "table": "history-ch308"
+  },
+  {
+   "chapter": "309",
+   "offset": 405341,
+   "page": 112,
+   "kind": "pointer"
+  },
+  {
+   "chapter": "310",
+   "offset": 470317,
+   "page": 128,
+   "kind": "pointer"
+  },
+  {
+   "chapter": "311",
+   "offset": 473580,
+   "page": 129,
+   "kind": "pointer"
+  },
+  {
+   "chapter": "312",
+   "offset": 490397,
+   "page": 134,
+   "kind": "pointer"
+  },
+  {
+   "chapter": "313",
+   "offset": 496219,
+   "page": 136,
+   "kind": "pointer"
+  },
+  {
+   "chapter": "314",
+   "offset": 502114,
+   "page": 138,
+   "kind": "pointer"
+  },
+  {
+   "chapter": "315",
+   "offset": 504651,
+   "page": 140,
+   "kind": "table",
+   "table": "history-ch315"
+  },
+  {
+   "chapter": "316",
+   "offset": 510184,
+   "page": 143,
+   "kind": "table",
+   "table": "history-ch316"
+  },
+  {
+   "chapter": "320",
+   "offset": 671040,
+   "page": 188,
+   "kind": "pointer"
+  },
+  {
+   "chapter": "330",
+   "offset": 692028,
+   "page": 195,
+   "kind": "table",
+   "table": "history-ch330"
+  },
+  {
+   "chapter": "335",
+   "offset": 698472,
+   "page": 198,
+   "kind": "pointer"
+  },
+  {
+   "chapter": "340",
+   "offset": 710133,
+   "page": 201,
+   "kind": "pointer"
+  },
+  {
+   "chapter": "345",
+   "offset": 712310,
+   "page": 203,
+   "kind": "pointer"
+  },
+  {
+   "chapter": "350",
+   "offset": 771817,
+   "page": 219,
+   "kind": "pointer"
+  },
+  {
+   "chapter": "350",
+   "offset": 829709,
+   "page": 236,
+   "kind": "pointer"
+  },
+  {
+   "chapter": "350",
+   "offset": 960852,
+   "page": 272,
+   "kind": "pointer"
+  },
+  {
+   "chapter": "355",
+   "offset": 985174,
+   "page": 278,
+   "kind": "pointer"
+  },
+  {
+   "chapter": "365",
+   "offset": 992407,
+   "page": 281,
+   "kind": "table",
+   "table": "history-ch365"
+  },
+  {
+   "chapter": "370",
+   "offset": 1010390,
+   "page": 287,
+   "kind": "pointer"
+  },
+  {
+   "chapter": "375",
+   "offset": 1012727,
+   "page": 289,
+   "kind": "pointer"
+  },
+  {
+   "chapter": "380",
+   "offset": 1018333,
+   "page": 292,
+   "kind": "pointer"
+  },
+  {
+   "chapter": "385",
+   "offset": 1021208,
+   "page": 293,
+   "kind": "pointer"
+  },
+  {
+   "chapter": "390",
+   "offset": 1025336,
+   "page": 296,
+   "kind": "pointer"
+  }
+ ],
+ "chapter_history": {
+  "301": {
+   "heading": "CHAPTER 301: COMMON COUNCIL",
+   "pointer": [
+    10512
+   ],
+   "tables": []
+  },
+  "302": {
+   "heading": "CHAPTER 302: ELECTIONS",
+   "pointer": [],
+   "tables": [
+    "history-ch302"
+   ]
+  },
+  "303": {
+   "heading": "CHAPTER 303: CODE OF ETHICS",
+   "pointer": [
+    73186
+   ],
+   "tables": []
+  },
+  "304": {
+   "heading": "CHAPTER 304: FINANCE",
+   "pointer": [
+    232454
+   ],
+   "tables": []
+  },
+  "305": {
+   "heading": "CHAPTER 305: CITY CLERK",
+   "pointer": [
+    260159
+   ],
+   "tables": []
+  },
+  "307": {
+   "heading": "CHAPTER 307: COMMISSIONER OF ASSESSMENTS",
+   "pointer": [
+    275023
+   ],
+   "tables": []
+  },
+  "308": {
+   "heading": "CHAPTER 308: CITY DEVELOPMENT",
+   "pointer": [],
+   "tables": [
+    "history-ch308"
+   ]
+  },
+  "309": {
+   "heading": "CHAPTER 309: PUBLIC WORKS",
+   "pointer": [
+    405341
+   ],
+   "tables": []
+  },
+  "310": {
+   "heading": "CHAPTER 310: DEPARTMENT OF ADMINISTRATION",
+   "pointer": [
+    470317
+   ],
+   "tables": []
+  },
+  "311": {
+   "heading": "CHAPTER 311: SECURE STRUCTURE PLANS",
+   "pointer": [
+    473580
+   ],
+   "tables": []
+  },
+  "312": {
+   "heading": "CHAPTER 312: POLICE DEPARTMENT",
+   "pointer": [
+    490397
+   ],
+   "tables": []
+  },
+  "313": {
+   "heading": "CHAPTER 313: FIRE DEPARTMENT",
+   "pointer": [
+    496219
+   ],
+   "tables": []
+  },
+  "314": {
+   "heading": "CHAPTER 314: BOARD OF FIRE AND POLICE COMMISSIONERS",
+   "pointer": [
+    502114
+   ],
+   "tables": []
+  },
+  "315": {
+   "heading": "CHAPTER 315: MUNICIPAL COURT",
+   "pointer": [],
+   "tables": [
+    "history-ch315"
+   ]
+  },
+  "316": {
+   "heading": "CHAPTER 316: HOUSING TRUST FUND",
+   "pointer": [],
+   "tables": [
+    "history-ch316"
+   ]
+  },
+  "320": {
+   "heading": "CHAPTER 320: BOARDS, COMMISSIONS AND COMMITTEES",
+   "pointer": [
+    671040
+   ],
+   "tables": []
+  },
+  "330": {
+   "heading": "CHAPTER 330: CHARTER SCHOOLS",
+   "pointer": [],
+   "tables": [
+    "history-ch330"
+   ]
+  },
+  "335": {
+   "heading": "CHAPTER 335: SISTER CITIES",
+   "pointer": [
+    698472
+   ],
+   "tables": []
+  },
+  "340": {
+   "heading": "CHAPTER 340: DEPARTMENT OF EMPLOYEE RELATIONS",
+   "pointer": [
+    710133
+   ],
+   "tables": []
+  },
+  "345": {
+   "heading": "CHAPTER 345: DEPARTMENT OF COMMUNITY WELLNESS AND SAFETY",
+   "pointer": [
+    712310
+   ],
+   "tables": []
+  },
+  "350": {
+   "heading": "CHAPTER 350: EMPLOYEE REGULATIONS AND BENEFITS",
+   "pointer": [
+    771817,
+    829709,
+    960852
+   ],
+   "tables": []
+  },
+  "355": {
+   "heading": "CHAPTER 355: COMMUNITY PARTICIPATION IN DEVELOPMENT AGREEMENTS",
+   "pointer": [
+    985174
+   ],
+   "tables": []
+  },
+  "365": {
+   "heading": "CHAPTER 365: LOCAL BUSINESS ENTERPRISE CONTRACTING PROGRAM",
+   "pointer": [],
+   "tables": [
+    "history-ch365"
+   ]
+  },
+  "370": {
+   "heading": "CHAPTER 370: SMALL BUSINESS ENTERPRISE PROGRAM",
+   "pointer": [
+    1010390
+   ],
+   "tables": []
+  },
+  "375": {
+   "heading": "CHAPTER 375: OFFICE OF AFRICAN AMERICAN AFFAIRS",
+   "pointer": [
+    1012727
+   ],
+   "tables": []
+  },
+  "380": {
+   "heading": "CHAPTER 380: OFFICE OF VETERANS’ AFFAIRS",
+   "pointer": [
+    1018333
+   ],
+   "tables": []
+  },
+  "385": {
+   "heading": "CHAPTER 385: DEPARTMENT OF COMPLIANCE AND ENGAGEMENT",
+   "pointer": [
+    1021208
+   ],
+   "tables": []
+  },
+  "390": {
+   "heading": "CHAPTER 390: DEPARTMENT OF EMERGENCY COMMUNICATIONS",
+   "pointer": [
+    1025336
+   ],
+   "tables": []
+  }
+ },
+ "tables": [
+  {
+   "id": "toc-ch301",
+   "kind": "toc",
+   "title": "TABLE",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 6,
+   "pages": [
+    9
+   ],
+   "offset": 3329,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "toc-ch302",
+   "kind": "toc",
+   "title": "TABLE",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 4,
+   "pages": [
+    11
+   ],
+   "offset": 10641,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "history-ch302",
+   "kind": "legislative_history",
+   "title": "LEGISLATIVE HISTORY CHAPTER 302",
+   "column_headers": [
+    "Section",
+    "Action",
+    "File",
+    "Passed",
+    "Effective"
+   ],
+   "rows": 6,
+   "pages": [
+    13
+   ],
+   "offset": 16962,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "toc-ch303",
+   "kind": "toc",
+   "title": "TABLE",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 18,
+   "pages": [
+    15
+   ],
+   "offset": 17551,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "toc-ch304",
+   "kind": "toc",
+   "title": "TABLE",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 57,
+   "pages": [
+    27
+   ],
+   "offset": 73309,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "toc-ch307",
+   "kind": "toc",
+   "title": "TABLE",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 9,
+   "pages": [
+    77
+   ],
+   "offset": 260302,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "toc-ch308",
+   "kind": "toc",
+   "title": "TABLE",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 6,
+   "pages": [
+    81
+   ],
+   "offset": 275159,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "history-ch308",
+   "kind": "legislative_history",
+   "title": "LEGISLATIVE HISTORY CHAPTER 308",
+   "column_headers": [
+    "Section",
+    "Action",
+    "File",
+    "Passed",
+    "Effective"
+   ],
+   "rows": 107,
+   "pages": [
+    91,
+    92
+   ],
+   "offset": 317343,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "toc-ch309",
+   "kind": "toc",
+   "title": "",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 16,
+   "pages": [
+    93
+   ],
+   "offset": 323176,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "toc-ch310",
+   "kind": "toc",
+   "title": "",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 22,
+   "pages": [
+    113
+   ],
+   "offset": 405495,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "toc-ch311",
+   "kind": "toc",
+   "title": "TABLE",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 3,
+   "pages": [
+    129
+   ],
+   "offset": 470455,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "toc-ch312",
+   "kind": "toc",
+   "title": "TABLE",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 16,
+   "pages": [
+    131
+   ],
+   "offset": 473713,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "toc-ch313",
+   "kind": "toc",
+   "title": "TABLE",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 11,
+   "pages": [
+    135
+   ],
+   "offset": 490532,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "toc-ch314",
+   "kind": "toc",
+   "title": "TABLE",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 4,
+   "pages": [
+    137
+   ],
+   "offset": 496377,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "toc-ch315",
+   "kind": "toc",
+   "title": "TABLE",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 2,
+   "pages": [
+    139
+   ],
+   "offset": 502249,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "history-ch315",
+   "kind": "legislative_history",
+   "title": "LEGISLATIVE HISTORY CHAPTER 315",
+   "column_headers": [
+    "Section",
+    "Action",
+    "File",
+    "Passed",
+    "Effective"
+   ],
+   "rows": 4,
+   "pages": [
+    140
+   ],
+   "offset": 504651,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "toc-ch316",
+   "kind": "toc",
+   "title": "",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 4,
+   "pages": [
+    141
+   ],
+   "offset": 505157,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "history-ch316",
+   "kind": "legislative_history",
+   "title": "LEGISLATIVE HISTORY CHAPTER 316",
+   "column_headers": [
+    "Section",
+    "Action",
+    "File",
+    "Passed",
+    "Effective"
+   ],
+   "rows": 4,
+   "pages": [
+    143
+   ],
+   "offset": 510184,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "toc-ch320",
+   "kind": "toc",
+   "title": "TABLE",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 42,
+   "pages": [
+    145
+   ],
+   "offset": 510734,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "toc-ch330",
+   "kind": "toc",
+   "title": "TABLE",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 17,
+   "pages": [
+    189
+   ],
+   "offset": 671175,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "history-ch330",
+   "kind": "legislative_history",
+   "title": "LEGISLATIVE HISTORY CHAPTER 330",
+   "column_headers": [
+    "Section",
+    "Action",
+    "File",
+    "Passed",
+    "Effective"
+   ],
+   "rows": 8,
+   "pages": [
+    195,
+    196
+   ],
+   "offset": 692028,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "toc-ch335",
+   "kind": "toc",
+   "title": "",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 6,
+   "pages": [
+    197
+   ],
+   "offset": 692731,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "toc-ch340",
+   "kind": "toc",
+   "title": "",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 7,
+   "pages": [
+    199
+   ],
+   "offset": 698630,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "toc-ch345",
+   "kind": "toc",
+   "title": "TABLE",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 3,
+   "pages": [
+    203
+   ],
+   "offset": 710292,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "toc-ch350",
+   "kind": "toc",
+   "title": "TABLE",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 57,
+   "pages": [
+    205,
+    206
+   ],
+   "offset": 712508,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "toc-ch355",
+   "kind": "toc",
+   "title": "",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 9,
+   "pages": [
+    273
+   ],
+   "offset": 961023,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "toc-ch365",
+   "kind": "toc",
+   "title": "TABLE",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 8,
+   "pages": [
+    279
+   ],
+   "offset": 985339,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "history-ch365",
+   "kind": "legislative_history",
+   "title": "LEGISLATIVE HISTORY CHAPTER 365",
+   "column_headers": [
+    "Section",
+    "Action",
+    "File",
+    "Passed",
+    "Effective"
+   ],
+   "rows": 17,
+   "pages": [
+    281,
+    282
+   ],
+   "offset": 992407,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "toc-ch370",
+   "kind": "toc",
+   "title": "TABLE",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 11,
+   "pages": [
+    283
+   ],
+   "offset": 993580,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "toc-ch375",
+   "kind": "toc",
+   "title": "TABLE",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 5,
+   "pages": [
+    289
+   ],
+   "offset": 1010544,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "toc-ch380",
+   "kind": "toc",
+   "title": "TABLE",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 6,
+   "pages": [
+    291
+   ],
+   "offset": 1012932,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "toc-ch385",
+   "kind": "toc",
+   "title": "TABLE",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 6,
+   "pages": [
+    293
+   ],
+   "offset": 1018488,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "toc-ch390",
+   "kind": "toc",
+   "title": "TABLE",
+   "column_headers": [
+    "",
+    ""
+   ],
+   "rows": 6,
+   "pages": [
+    295
+   ],
+   "offset": 1021412,
+   "method": "deterministic",
+   "fidelity": "pass",
+   "fidelity_detail": "all tokens match the text layer",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": null
+  },
+  {
+   "id": "history-ch308",
+   "kind": "legislative_history",
+   "title": "LEGISLATIVE HISTORY CHAPTER 308",
+   "column_headers": [
+    "Section",
+    "Action",
+    "File",
+    "Passed",
+    "Effective"
+   ],
+   "rows": 57,
+   "pages": [
+    92
+   ],
+   "offset": 317343,
+   "method": "deterministic",
+   "fidelity": "fail",
+   "fidelity_detail": "tokens not in text layer: Action, CHAPTER, Effective, File, HISTORY, LEGISLATIVE, Passed, Section",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": "history-ch308"
+  },
+  {
+   "id": "history-ch330",
+   "kind": "legislative_history",
+   "title": "LEGISLATIVE HISTORY CHAPTER 330",
+   "column_headers": [
+    "Section",
+    "Action",
+    "File",
+    "Passed",
+    "Effective"
+   ],
+   "rows": 1,
+   "pages": [
+    196
+   ],
+   "offset": 692028,
+   "method": "deterministic",
+   "fidelity": "fail",
+   "fidelity_detail": "tokens not in text layer: 330, Action, CHAPTER, Effective, File, HISTORY, LEGISLATIVE, Passed, Section",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": "history-ch330"
+  },
+  {
+   "id": "history-ch365",
+   "kind": "legislative_history",
+   "title": "LEGISLATIVE HISTORY CHAPTER 365",
+   "column_headers": [
+    "Section",
+    "Action",
+    "File",
+    "Passed",
+    "Effective"
+   ],
+   "rows": 1,
+   "pages": [
+    282
+   ],
+   "offset": 992407,
+   "method": "deterministic",
+   "fidelity": "fail",
+   "fidelity_detail": "tokens not in text layer: 365, Action, CHAPTER, Effective, File, HISTORY, LEGISLATIVE, Passed, Section",
+   "llm_status": null,
+   "quality_issues": [],
+   "number_repairs": 0,
+   "merged_into": "history-ch365"
+  }
+ ],
+ "stats": {
+  "hyphen_joined": 22,
+  "hyphen_kept": 103,
+  "hyphen_uncertain": 20,
+  "dot_leaders_collapsed": 2857,
+  "output_chars": 1144893
+ },
+ "removed_running_text": {
+  "footer:-#- #/#/#": 162,
+  "footer:#/#/# -#-": 161,
+  "header:Index": 68,
+  "header:Employee Regulations And Benefits #-#": 21,
+  "header:#-# Employee Regulations And Benefits": 17,
+  "header:Boards, Commissions and Committees #-#": 14,
+  "placeholder:[This page is blank.]": 13,
+  "header:Finance #-#": 10,
+  "header:#-# Finance": 10,
+  "footer:-#a- #/#/#": 9,
+  "footer:#/#/# -#b-": 9,
+  "header:#-# Boards, Commissions and Committees": 9,
+  "header:Employee Regulations And Benefits #-#-#": 7,
+  "header:#-#-# Finance": 6,
+  "header:City Clerk #-#": 6,
+  "header:Public Works #-#": 6,
+  "header:Boards, Commissions and Committees #-#-#": 6,
+  "header:#-#-# Employee Regulations And Benefits": 6,
+  "header:Code of Ethics #-#": 5,
+  "header:#-# Code of Ethics": 5,
+  "header:Department of Administration #-#": 5,
+  "header:#-# Department of Administration": 5,
+  "header:#-#-# Boards, Commissions and Committees": 5,
+  "footer:#/#/# - # -": 5,
+  "header:Finance #-#-#": 4,
+  "header:# - City Clerk": 4,
+  "header:#-# City Clerk": 4,
+  "header:#-# Public Works": 4,
+  "header:#-#-# Public Works": 4,
+  "header:# - Boards, Commissions and Committees": 4,
+  "footer:- # - #/#/#": 4,
+  "header:# - Employee Regulations And Benefits": 4,
+  "header:#-# City Development": 3,
+  "header:City Development #-#-#": 3,
+  "header:Public Works #-#-#": 3,
+  "header:Charter Schools #-#": 3,
+  "header:Community Participation In Development": 3,
+  "header:Agreements #-#": 3,
+  "header:#-# Community Participation In Development": 3,
+  "header:Agreements": 3,
+  "header:Small Business Enterprise Program #-#": 3,
+  "placeholder:[This page blank]": 2,
+  "header:Finance #-#.#-#": 2,
+  "header:Finance #-#.#": 2,
+  "header:City Development #-#": 2,
+  "header:#-#-# Department of Administration": 2,
+  "header:Department of Administration #-#-#": 2,
+  "header:Police Department #-#": 2,
+  "header:#-# Police Department": 2,
+  "header:#-# Charter Schools": 2,
+  "header:Department of Employee Relations #-#": 2,
+  "header:Employee Regulations and Benefits #-#": 2,
+  "header:#-# Employee Regulations and Benefits": 2,
+  "header:Local Business Enterprise contracting": 2,
+  "header:Program #--(HISTORY)": 2,
+  "header:#-# Small Business Enterprise Program": 2,
+  "footer:-i- #/#/#": 1,
+  "footer:#/#/# -ii-": 1,
+  "footer:-iii- #/#/#": 1,
+  "footer:#/#/# -iv-": 1,
+  "footer:-v-": 1,
+  "footer:-vi-": 1,
+  "header:Common Council #-#": 1,
+  "header:#-# Common Council": 1,
+  "placeholder:[Pages 3-14 are blank.]": 1,
+  "header:Elections #-#": 1,
+  "header:#-# Elections": 1,
+  "header:Elections #-(HISTORY)": 1,
+  "header:#-Elections": 1,
+  "header:Code of Ethics #-#-#": 1,
+  "header:#-#-# Code of Ethics": 1,
+  "placeholder:Pages 31-40 are blank.": 1,
+  "header:#-#.# Finance": 1,
+  "header:#-#.#-# Finance": 1,
+  "footer:-#c- #/#/#": 1,
+  "footer:#/#/# -#d-": 1,
+  "footer:-#e- #/#/#": 1,
+  "placeholder:[Pages 84-100 are blank.]": 1,
+  "header:Commissioner of Assessments #-#": 1,
+  "header:#-# Commissioner of Assessments": 1,
+  "header:Commissioner of Assessments #-#-#-b": 1,
+  "header:#-#-# Commissioner of Assessments": 1,
+  "header:#-#-#-d City Development": 1,
+  "header:#-#-# City Development": 1,
+  "header:City Development #--(HISTORY)": 1,
+  "header:#--(HISTORY) City Development": 1,
+  "header:Public Works #-#-#.#": 1,
+  "header:#-#-#-a-#-b Public Works": 1,
+  "header:#-#-#-b Public Works": 1,
+  "header:Department of Administration #-#.#": 1,
+  "placeholder:[Pages 177 - 182 are blank.]": 1,
+  "header:Secure Structure Plans #-#": 1,
+  "header:# - Secure Structure Plans": 1,
+  "placeholder:[Pages 184 to 200 are blank.]": 1,
+  "placeholder:[Pages 205-210 are blank.]": 1,
+  "header:Fire Department #-#": 1,
+  "header:#-# Fire Department": 1,
+  "header:#-#. Director of Fire and Police Alarm": 1,
+  "header:Board of Fire And Police Commissioners #-#": 1,
+  "header:#-# Board of Fire And Police Commissioners": 1,
+  "header:Municipal Court #-#": 1,
+  "header:Housing Trust Fund #-#": 1,
+  "header:#-# Housing Trust Fund": 1,
+  "header:Housing Trust Fund #--(HISTORY)": 1,
+  "placeholder:[Pages 232 to 340 are blank]": 1,
+  "header:#-#-#-c Boards, Commissions and Committees": 1,
+  "header:#-#-#-d Boards, Commissions and Committees": 1,
+  "header:Boards, Commissions and Committees #-#-#-h": 1,
+  "header:Boards, Commissions and Committees #-#-#-i": 1,
+  "header:#-#-#.# Boards, Commissions and Committees": 1,
+  "header:#-#-#-b Boards, Commissions and Committees": 1,
+  "placeholder:[Pages 375-500 are blank.]": 1,
+  "header:#--Charter Schools": 1,
+  "header:Charter Schools #- (HISTORY)": 1,
+  "header:#-(HISTORY) Charter Schools": 1,
+  "header:Sister Cities #-#": 1,
+  "header:#-# Sister Cities": 1,
+  "placeholder:[Pages 603 to 700 are blank.]": 1,
+  "header:#-# Department of Employee Relations": 1,
+  "header:# - Department of Employee Relations": 1,
+  "header:Department of Community Wellness and Safety #-#": 1,
+  "header:# - Department of Community Wellness and Safety": 1,
+  "placeholder:[Pages 706 to 900 are blank.]": 1,
+  "header:#- (Table) Employee Regulations And Benefits": 1,
+  "header:#-#-#-b-# Employee Regulations And Benefits": 1,
+  "header:Employee Regulations And Benefits #-#.#-#": 1,
+  "footer:- #a - #/#/#": 1,
+  "footer:#/#/# - #b -": 1,
+  "header:#-#-# Employee Regulations and Benefits": 1,
+  "header:Employee Regulations and Benefits #-#-#": 1,
+  "placeholder:[Pages 929-930 are blank.]": 1,
+  "header:#- Employee Regulations And Benefits": 1,
+  "placeholder:[Pages 945-946 are blank]": 1,
+  "header:Employee Regulations And Benefits #-#-#-b": 1,
+  "placeholder:[Pages 964 to 1090 are blank.]": 1,
+  "placeholder:[Pages 1097-1290 are blank.]": 1,
+  "header:Local Business Enterprise Contracting": 1,
+  "header:Program #-#": 1,
+  "header:#-# Local Business Enterprise Contracting": 1,
+  "header:Program": 1,
+  "header:# - Small Business Enterprise Program": 1,
+  "placeholder:[Pages 1356-1360 are blank.]": 1,
+  "header:Office Of African American Affairs #-#": 1,
+  "header:Office of Veterans’ Affairs #-#": 1,
+  "header:Office of Veterans’ Affairs #-#-#": 1,
+  "header:Department of Compliance and Engagement #-#": 1,
+  "header:Department of Emergency Communications #-#": 1,
+  "header:#-# Department of Emergency Communications": 1,
+  "placeholder:[Pages 1369-1500 are blank.]": 1
+ },
+ "repeated_table_text_dropped": 0,
+ "checks": {
+  "completeness": {
+   "text_layer_alnum_chars": 925270,
+   "removed_running_text_chars": 12215,
+   "expected_chars": 913055,
+   "output_chars": 913055,
+   "lost_chars": 0,
+   "extra_chars": 0,
+   "lost_sample": {},
+   "extra_sample": {}
+  },
+  "text_layer_crosscheck": {
+   "pdfplumber_alnum_chars": 925270,
+   "pdftotext_alnum_chars": 925265,
+   "only_in_pdfplumber": 5,
+   "only_in_pdftotext": 0
+  },
+  "spot_check_sections": [
+   {
+    "section": "320-3.5",
+    "heading": "320-3.5. Sequence of Appointments.",
+    "pages": "146",
+    "words": 81,
+    "words_not_found": 0,
+    "examples_not_found": [],
+    "result": "pass"
+   },
+   {
+    "section": "385-9",
+    "heading": "385-9. Annual Report.",
+    "pages": "293-294",
+    "words": 46,
+    "words_not_found": 0,
+    "examples_not_found": [],
+    "result": "pass"
+   },
+   {
+    "section": "320-27",
+    "heading": "320-27. Safety and Civic Commission.",
+    "pages": "172-173",
+    "words": 729,
+    "words_not_found": 0,
+    "examples_not_found": [],
+    "result": "pass"
+   },
+   {
+    "section": "303-23",
+    "heading": "303-23. Probable Cause of Violation.",
+    "pages": "24",
+    "words": 254,
+    "words_not_found": 0,
+    "examples_not_found": [],
+    "result": "pass"
+   },
+   {
+    "section": "309-72",
+    "heading": "309-72. Notice and Appeal Procedures for Special Charges.",
+    "pages": "110",
+    "words": 242,
+    "words_not_found": 1,
+    "examples_not_found": [
+     "320-11"
+    ],
+    "result": "check"
+   }
+  ],
+  "spot_check_tables": [
+   {
+    "table": "toc-ch350",
+    "pages": "205,206",
+    "rows": 57,
+    "result": "pass",
+    "detail": "all tokens match the text layer"
+   },
+   {
+    "table": "toc-ch365",
+    "pages": "279",
+    "rows": 8,
+    "result": "pass",
+    "detail": "all tokens match the text layer"
+   },
+   {
+    "table": "history-ch302",
+    "pages": "13",
+    "rows": 6,
+    "result": "pass",
+    "detail": "all tokens match the text layer"
+   }
+  ],
+  "suspicious_pages": [
+   {
+    "page": 206,
+    "issue": "short output (0 letters/digits attributed, 1972 in text layer); often a paragraph or table that started on the previous page"
+   },
+   {
+    "page": 5,
+    "issue": "line equals a running header: 'Index'"
+   }
+  ]
+ },
+ "warnings": [
+  "p62: text in header zone kept (no pattern match): '5. APPLICATION OF SALES AND'",
+  "p62: text in footer zone kept (no pattern match): '10/10/2023 70f'",
+  "p124: text in header zone kept (no pattern match): '310–18.3 Department of Administration'",
+  "p135: text in header zone kept (no pattern match): 'CHAPTER 313'",
+  "p140: text in header zone kept (no pattern match): '315—(HISTORY) Municipal Court'",
+  "p144: text in header zone kept (no pattern match): '316–Housing Trust Fund'",
+  "p205: text in header zone kept (no pattern match): 'Employee Relations and Benefits 350- (Table)'",
+  "p220: text in header zone kept (no pattern match): '350 -- Employee Regulations And Benefits'",
+  "p290: text in header zone kept (no pattern match): '375 -- Office Of African American Affairs'",
+  "p294: text in header zone kept (no pattern match): '385 – Department of Compliance and Engagement'"
+ ]
+}

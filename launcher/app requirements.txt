@@ -1,0 +1,5 @@
+# Required. Ranges (not exact versions) so pip can pick ready-made packages for
+# whatever Python version the computer has.
+pdfplumber>=0.11.10,<0.12
+pypdf>=6.17,<7
+PyYAML>=6.0.3,<7

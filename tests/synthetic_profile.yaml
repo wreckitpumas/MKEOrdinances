@@ -1,0 +1,37 @@
+# Profile for the synthetic test PDFs. Placeholder layout only.
+name: synthetic
+match_filenames: []
+header:
+  zone_top_pt: 60
+  max_rows: 2
+  patterns:
+    - '^PLACEHOLDER CODE \d+$'
+footer:
+  zone_top_pt: 740
+  patterns:
+    - '^- \d+ -$'
+drop_line_patterns: []
+columns:
+  detect: true
+  min_side_chars: 10
+headings:
+  section:
+    first_word: '^\d+(?:-\d+)+\.$'
+    require_bold: true
+  chapter:
+    line: '^CHAPTER \d+$'
+    require_bold: true
+history:
+  start_patterns:
+    - '^\(HISTORY:'
+  inline_patterns:
+    - '\(HISTORY:'
+  chapter_pointer: '^For the legislative history of chapter (\d+)'
+text_tables: []
+tables:
+  ruled: true
+  edges: visible
+  min_rows: 2
+  min_cols: 2
+dehyphenate: true
+collapse_dot_leaders: false

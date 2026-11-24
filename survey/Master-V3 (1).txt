@@ -1,0 +1,256 @@
+SURVEY: Master-V3 (1).pdf
+========================================================================
+Pages: 364
+Page sizes (pts): 612x792 (364 pages)
+Pages with a text layer: 363 of 364
+Pages with NO text layer: 2
+Very short pages (<200 chars): 30: 1,6-8,14,64,66,68,76,130,144,148,154,162,182,194,196,202,204,220,230,240,248,264,272,282,288,290,294,364
+
+HEADER CANDIDATES (most frequent first-3 lines, digits shown as #)
+     69  Index
+     33  CHAPTER #
+     29  Building code (continued)
+     21  Employee Regulations And Benefits #-#
+     17  #-# Employee Regulations And Benefits
+     15  #/#/# -#-
+     14  Boards, Commissions and Committees #-#
+     13  [This page is blank.]
+     10  Finance #-#
+     10  #-# Finance
+      9  #-# Boards, Commissions and Committees
+      7  #/#/# -#b-
+
+FOOTER CANDIDATES (most frequent last-3 lines, digits shown as #)
+    162  -#- #/#/#
+    161  #/#/# -#-
+     13  [This page is blank.]
+      9  -#a- #/#/#
+      9  #/#/# -#b-
+      9  contact the Municipal Research Library.
+      5  [Pages #-# are blank.]
+      5  For the legislative history of chapter #,
+      5  #/#/# - # -
+      4  # - City Clerk
+      4  [Pages # to # are blank]
+      4  Municipal Research Library.
+
+MULTI-COLUMN PAGES: 245 of 364
+  3,9-12,15-61,63,67,69-73,77-111,113-127,129,131-135,137,139,141,143,145-146,149-153,155-160,163-175,177-180,183-187,189-193,195,197-201,203,205-219,221-229,231-238,241-247,249-251,253-263,265-271,273-281,283-287,289,291-293,295
+
+SECTION HEADING CANDIDATES (pdftotext reading order)
+  [   349] dashed_section (e.g. 99-9. Title.)
+           e.g. 301-2. Aldermanic District Boundaries.
+           e.g. 305-53. Duties of the City Clerk. 1. The city
+           e.g. 313-21. Emergency Traffic Signal Preemption
+           e.g. 350-27. Reimbursement of City for Worker's
+  [   109] dashed_section_no_period (e.g. 99-9 Title)
+           e.g. 301-5 Common Council
+           e.g. 305-49 City Clerk
+           e.g. 313-15 Fire Department
+           e.g. 350-35-4 Employee Regulations And Benefits
+  [    34] chapter_word (CHAPTER 9)
+           e.g. CHAPTER 301
+           e.g. CHAPTER 308
+           e.g. CHAPTER 315
+           e.g. CHAPTER 345
+  [    40] subchapter_word (SUBCHAPTER 9)
+           e.g. SUBCHAPTER 1
+           e.g. SUBCHAPTER 4
+           e.g. SUBCHAPTER 5
+           e.g. SUBCHAPTER 4
+  [     5] section_word (Section 9)
+           e.g. Section 101-20.5-5.
+           e.g. Section 105-1-3-c.
+           e.g. Section 18-06-2 of the city charter provides that
+           e.g. Section 925-130a, Wis. Stats. (1919), provides
+  [     0] part_word (PART I)
+  [     1] numbered_caps_sub (9. CAPS)
+           e.g. 4. UNIFORM REPLACEMENT. The need
+  [     0] pay_range (Pay Range ...)
+  [   644] all_caps_line
+           e.g. MILWAUKEE CODE
+           e.g. RELATIVE
+           e.g. LEGISLATIVE HISTORY
+           e.g. ELIGIBILITY AND RESTRICTIONS.
+  [    29] dot_leader_entry (Title .... N)
+           e.g. Common Council ...........................................................................
+           e.g. Public Works .............................................................................
+           e.g. Housing Trust Fund .......................................................................
+           e.g. Community Participation in Development Agreements ........................................
+
+HISTORY / AMENDMENT NOTE CANDIDATES
+  [    54] 'history'
+           For the legislative history of chapter 301,
+           304-36. Fees for Tax Payment History and
+           For legislative history of chapter 305,
+           308--(HISTORY) City Development
+           For the legislative history of chapter 312,
+           Housing Trust Fund 316--(HISTORY)
+           the history of the city.
+           Charter Schools 330- (HISTORY)
+           For the legislative history of chapter 345,
+           For the legislative history of chapter 355,
+  [     3] 'ord.'
+           to the board as a matter of public record.
+           machine-readable record.
+           domestic partners is a matter of public record.
+  [    59] 'amended'
+           am = amended
+           amended.
+           s. 70.47 (16)(b), Wis. Stats., as amended, are
+           may be revoked and amended in the same
+           and amended in the same manner. Within the
+           amended, there is established the office of
+           ra = renumbered and amended
+           Stats., as amended. In further compliance with s.
+           amended, or ch. 330.
+           118.40(2r)(c) 1 to 5, Wis. Stats., as amended,
+  [    98] 'created'
+           and 7.53 (2m), Wis. Stats., there is created a
+           FUND CREATED. There is created
+           Program. 1. PURPOSE. There is created a fair
+           created a Milwaukee civic partnership initiative to
+           created an administrative review board of
+           CREATION. a. There is created a
+           Council. 1. ESTABLISHMENT. There is created an
+           There is created a Vel R. Phillips
+           cr = created
+           are created 4 positions of deputy city attorney who
+  [    12] 'renumbered'
+           ra = renumbered and amended
+           rn = renumbered
+           ra = renumbered and amended
+           rn = renumbered
+           ra = renumbered and amended
+           rn = renumbered
+           ra = renumbered and amended
+           rn = renumbered
+           ra = renumbered and amended
+           rn = renumbered
+  [     0] 'eff.'
+  [   200] 'file'
+           resolution file number 231866:
+           Any official required to file a
+           the statement of economic interest filed by a
+           If a verified complaint has been filed
+           community development plan by resolution file
+           file with the commissioner of assessments a form,
+           File
+           filed with a city department concerning a
+           shall file the appeal with the common council. After
+           File
+  Specific history structures:
+  [     0] (HISTORY: ...) opener
+  [     6] LEGISLATIVE HISTORY table title
+           LEGISLATIVE HISTORY
+           LEGISLATIVE HISTORY
+           LEGISLATIVE HISTORY
+  [    24] 'For (the) legislative history of chapter' pointer
+           For the legislative history of chapter 301,
+           For legislative history of chapter 303, contact the
+           For the legislative history of chapter 304,
+  [     0] statute source note (S. ... Stats ...)
+
+TABLES DETECTED BY pdfplumber (ruled-line strategy): 28 pages
+  p10 table 1:
+      301-5. Unrepresented Alde
+      certain licensing matters
+  p28 table 1:
+      6. The city comptroller s
+      use of the reimbursable f
+  p110 table 1:
+      4. PARKING FACILITY DATA.
+      commissioner of public wo
+  p131 table 1:
+      5. NOTIFICATION. The chie
+      police shall notify the c
+  p135 table 1:
+      313-02. Notification Duti
+      1. NOTIFICATION. The fire
+  p138 table 1:
+      4. Provide to the common 
+      monthly report summarizin
+  p146 table 1:
+      
+      320-3.5. Sequence of Appo
+  p150 table 1:
+      c. Sustaining grants fund
+      Milwaukee arts fund shall
+  p156 table 1:
+      L-1. Sandblasting.
+      L-2. Abrasive materials, 
+  p156 table 2:
+      5. RULES OF THE COMMISSIO
+      The commission shall elec
+  p157 table 1:
+      required prior to demolit
+      registered historic build
+  p160 table 1:
+      c-3. Historic building do
+      required prior to demolit
+  p169 table 1:
+      a-6. One member of the co
+      council, appointed by the
+  p169 table 2:
+      19. ENFORCEMENT. a. Any v
+      this section shall be sub
+  p169 table 3:
+      3. COMPOSITION. a. A majo
+      commission members shall 
+  p174 table 1:
+      a-6. A representative of 
+      community, appointed by t
+  p174 table 2:
+      320-29. Emerging Youth Ac
+      Council. 1. ESTABLISHMENT
+  p177 table 1:
+      m. The emergency communic
+      director.
+  p178 table 1:
+      n. Meet every January, Ma
+      July, September, and Nove
+  p203 table 1:
+      CHAPTER 345 |  | 
+      DEPARTMENT OF COMMUNITY W |  | 
+  p203 table 2:
+      2. The status of violence
+      issues, including trends 
+  p224 table 1:
+      b. Compensation. Permanen
+      employees of the city of 
+  p227 table 1:
+      g. Effective trimester 1,
+      noncivilian management em
+  p228 table 1:
+      working a 53-hour work we
+      of special incentive leav
+  p233 table 1:
+      h. The department of empl
+      relations may allow up to
+  p241 table 1:
+      350-100. Salaries of Mayo
+      the Common Council. At th
+  p293 table 1:
+      385-4. Deputy Director. T
+      engagement director may a
+  p295 table 1:
+      
+      390-7. Director of Emerge
+  p295 table 2:
+      
+      390-1. Department Created
+  p296 table 1:
+      390-11. Annual Report. Th
+      department of emergency c
+  p300 table 1:
+      Appraisal and inspection 
+      Board of Review .........
+  p301 table 1:
+      Occupancy, use rights, an
+      Residential buildings, fo
+  p307 table 1:
+      Construction permit .....
+      Construction permit, cond
+  p361 table 1:
+      Park district (PK) ...... | 
+      Pawn shops .............. | 95-603-3, 295-703-3, 295-
